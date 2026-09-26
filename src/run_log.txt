@@ -1,0 +1,1644 @@
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Found 540 handouts to process.
+
+[1/540] 001_AN_F314.pdf  (elapsed 0.0m, ETA 0.0m)
+  handout_text length: 11147 chars
+  -> saved 001_AN_F314.json
+[2/540] 002_BIO_F101.pdf  (elapsed 0.1m, ETA 71.9m)
+  handout_text length: 17180 chars
+  -> saved 002_BIO_F101.json
+[3/540] 003_BIO_F211.pdf  (elapsed 0.3m, ETA 76.6m)
+  handout_text length: 10275 chars
+  -> saved 003_BIO_F211.json
+[4/540] 004_BIO_F212.pdf  (elapsed 0.4m, ETA 78.4m)
+  handout_text length: 9590 chars
+  -> saved 004_BIO_F212.json
+[5/540] 005_BIO_F213.pdf  (elapsed 0.6m, ETA 85.3m)
+  handout_text length: 8566 chars
+  -> saved 005_BIO_F213.json
+[6/540] 006_BIO_F214.pdf  (elapsed 0.8m, ETA 89.2m)
+  handout_text length: 17869 chars
+  -> saved 006_BIO_F214.json
+[7/540] 007_BIO_F311.pdf  (elapsed 1.1m, ETA 99.5m)
+  handout_text length: 7757 chars
+  -> saved 007_BIO_F311.json
+[8/540] 008_BIO_F312.pdf  (elapsed 1.3m, ETA 96.0m)
+  handout_text length: 8543 chars
+  -> saved 008_BIO_F312.json
+[9/540] 009_BIO_F313.pdf  (elapsed 1.4m, ETA 93.9m)
+  handout_text length: 9751 chars
+  -> saved 009_BIO_F313.json
+[10/540] 010_BIO_F417.pdf  (elapsed 1.6m, ETA 92.2m)
+  handout_text length: 6952 chars
+  -> saved 010_BIO_F417.json
+[11/540] 011_BIO_F418.pdf  (elapsed 1.7m, ETA 89.7m)
+  handout_text length: 6861 chars
+  -> saved 011_BIO_F418.json
+[12/540] 012_BIO_F421.pdf  (elapsed 1.9m, ETA 89.5m)
+  handout_text length: 10718 chars
+  -> saved 012_BIO_F421.json
+[13/540] 013_BIO_G512.pdf  (elapsed 2.0m, ETA 88.8m)
+  handout_text length: 8317 chars
+  -> saved 013_BIO_G512.json
+[14/540] 014_BIO_G512.pdf  (elapsed 2.2m, ETA 87.2m)
+  handout_text length: 8317 chars
+  -> saved 014_BIO_G512.json
+[15/540] 015_BIO_G514.pdf  (elapsed 2.3m, ETA 85.2m)
+  handout_text length: 7509 chars
+  -> saved 015_BIO_G514.json
+[16/540] 016_BIO_G523.pdf  (elapsed 2.4m, ETA 83.3m)
+  handout_text length: 10582 chars
+  -> saved 016_BIO_G523.json
+[17/540] 017_BIO_G523.pdf  (elapsed 2.5m, ETA 83.2m)
+  handout_text length: 9590 chars
+  -> saved 017_BIO_G523.json
+[18/540] 018_BIO_G524.pdf  (elapsed 2.7m, ETA 83.7m)
+  handout_text length: 10457 chars
+  -> saved 018_BIO_G524.json
+[19/540] 019_BIO_G524.pdf  (elapsed 2.9m, ETA 83.7m)
+  handout_text length: 10457 chars
+  -> saved 019_BIO_G524.json
+[20/540] 020_BIO_G525.pdf  (elapsed 3.0m, ETA 83.1m)
+  handout_text length: 12203 chars
+  -> saved 020_BIO_G525.json
+[21/540] 021_BIO_G532.pdf  (elapsed 3.2m, ETA 82.8m)
+  handout_text length: 8521 chars
+  -> saved 021_BIO_G532.json
+[22/540] 022_BIO_G532.pdf  (elapsed 3.3m, ETA 82.1m)
+  handout_text length: 8521 chars
+  -> saved 022_BIO_G532.json
+[23/540] 023_BIO_G542.pdf  (elapsed 3.4m, ETA 81.0m)
+  handout_text length: 8117 chars
+  -> saved 023_BIO_G542.json
+[24/540] 024_BIO_G542.pdf  (elapsed 3.6m, ETA 80.3m)
+  handout_text length: 8117 chars
+  -> saved 024_BIO_G542.json
+[25/540] 025_BIO_U101.pdf  (elapsed 3.7m, ETA 79.1m)
+  handout_text length: 17180 chars
+  -> saved 025_BIO_U101.json
+[26/540] 026_BIO_U320.pdf  (elapsed 3.9m, ETA 80.1m)
+  handout_text length: 10718 chars
+  -> saved 026_BIO_U320.json
+[27/540] 027_BIOT_F424.pdf  (elapsed 4.0m, ETA 79.4m)
+  handout_text length: 10522 chars
+  -> saved 027_BIOT_F424.json
+[28/540] 028_BITS_C797T.pdf  (elapsed 4.2m, ETA 79.3m)
+  handout_text length: 3892 chars
+  -> saved 028_BITS_C797T.json
+[29/540] 029_BITS_E574.pdf  (elapsed 4.3m, ETA 77.9m)
+  handout_text length: 5598 chars
+  -> saved 029_BITS_E574.json
+[30/540] 030_BITS_E584.pdf  (elapsed 4.4m, ETA 77.0m)
+  handout_text length: 5637 chars
+  -> saved 030_BITS_E584.json
+[31/540] 031_BITS_E594.pdf  (elapsed 4.5m, ETA 76.4m)
+  handout_text length: 5645 chars
+  -> saved 031_BITS_E594.json
+[32/540] 032_BITS_F101-1.pdf  (elapsed 4.6m, ETA 75.8m)
+  handout_text length: 6115 chars
+  -> saved 032_BITS_F101-1.json
+[33/540] 033_BITS_F103.pdf  (elapsed 4.7m, ETA 74.6m)
+  handout_text length: 15393 chars
+  -> saved 033_BITS_F103.json
+[34/540] 034_BITS_F110.pdf  (elapsed 4.9m, ETA 75.3m)
+  handout_text length: 6397 chars
+  -> saved 034_BITS_F110.json
+[35/540] 035_BITS_F111.pdf  (elapsed 5.0m, ETA 74.8m)
+  handout_text length: 16629 chars
+  -> saved 035_BITS_F111.json
+[36/540] 036_BITS_F113.pdf  (elapsed 5.3m, ETA 76.3m)
+  handout_text length: 12449 chars
+  -> saved 036_BITS_F113.json
+[37/540] 037_BITS_F214.pdf  (elapsed 5.4m, ETA 76.1m)
+  handout_text length: 5060 chars
+  -> saved 037_BITS_F214.json
+[38/540] 038_BITS_F218.pdf  (elapsed 5.6m, ETA 75.6m)
+  handout_text length: 10432 chars
+  -> saved 038_BITS_F218.json
+[39/540] 039_BITS_F219.pdf  (elapsed 5.7m, ETA 75.4m)
+  handout_text length: 9848 chars
+  -> saved 039_BITS_F219.json
+[40/540] 040_BITS_F225.pdf  (elapsed 5.9m, ETA 75.3m)
+  handout_text length: 14555 chars
+  -> saved 040_BITS_F225.json
+[41/540] 041_BITS_F232.pdf  (elapsed 6.0m, ETA 75.1m)
+  handout_text length: 19197 chars
+  -> saved 041_BITS_F232.json
+[42/540] 042_BITS_F234.pdf  (elapsed 6.2m, ETA 75.7m)
+  handout_text length: 7852 chars
+  -> saved 042_BITS_F234.json
+[43/540] 043_BITS_F314.pdf  (elapsed 6.4m, ETA 75.5m)
+  handout_text length: 19823 chars
+  -> saved 043_BITS_F314.json
+[44/540] 044_BITS_F327.pdf  (elapsed 6.6m, ETA 76.6m)
+  handout_text length: 13031 chars
+  -> saved 044_BITS_F327.json
+[45/540] 045_BITS_F343.pdf  (elapsed 6.8m, ETA 76.7m)
+  handout_text length: 9433 chars
+  -> saved 045_BITS_F343.json
+[46/540] 046_BITS_F364.pdf  (elapsed 7.0m, ETA 76.5m)
+  handout_text length: 9537 chars
+  -> saved 046_BITS_F364.json
+[47/540] 047_BITS_F385.pdf  (elapsed 7.1m, ETA 76.1m)
+  handout_text length: 7577 chars
+  -> saved 047_BITS_F385.json
+[48/540] 048_BITS_F415.pdf  (elapsed 7.2m, ETA 75.8m)
+  handout_text length: 5906 chars
+  -> saved 048_BITS_F415.json
+[49/540] 049_BITS_F416.pdf  (elapsed 7.4m, ETA 75.5m)
+  handout_text length: 13566 chars
+  -> saved 049_BITS_F416.json
+[50/540] 050_BITS_F428.pdf  (elapsed 7.6m, ETA 76.0m)
+  handout_text length: 8706 chars
+  -> saved 050_BITS_F428.json
+[51/540] 051_BITS_F429.pdf  (elapsed 7.7m, ETA 75.7m)
+  handout_text length: 10665 chars
+  -> saved 051_BITS_F429.json
+[52/540] 052_BITS_F431.pdf  (elapsed 7.9m, ETA 75.4m)
+  handout_text length: 6530 chars
+  -> saved 052_BITS_F431.json
+[53/540] 053_BITS_F437.pdf  (elapsed 8.0m, ETA 75.1m)
+  handout_text length: 9057 chars
+  -> saved 053_BITS_F437.json
+[54/540] 054_BITS_F446.pdf  (elapsed 8.1m, ETA 74.8m)
+  handout_text length: 6226 chars
+  -> saved 054_BITS_F446.json
+[55/540] 055_BITS_F462.pdf  (elapsed 8.3m, ETA 74.8m)
+  handout_text length: 7594 chars
+  -> saved 055_BITS_F462.json
+[56/540] 056_BITS_F463.pdf  (elapsed 8.5m, ETA 74.6m)
+  handout_text length: 23709 chars
+  -> saved 056_BITS_F463.json
+[57/540] 057_BITS_F464.pdf  (elapsed 8.7m, ETA 75.4m)
+  handout_text length: 10496 chars
+  -> saved 057_BITS_F464.json
+[58/540] 058_BITS_F467.pdf  (elapsed 8.9m, ETA 75.5m)
+  handout_text length: 13402 chars
+  -> saved 058_BITS_F467.json
+[59/540] 059_BITS_F468.pdf  (elapsed 9.2m, ETA 76.1m)
+  handout_text length: 8337 chars
+  -> saved 059_BITS_F468.json
+[60/540] 060_BITS_F471.pdf  (elapsed 9.3m, ETA 75.7m)
+  handout_text length: 10161 chars
+  -> saved 060_BITS_F471.json
+[61/540] 061_BITS_F482.pdf  (elapsed 9.5m, ETA 75.6m)
+  handout_text length: 13674 chars
+  -> saved 061_BITS_F482.json
+[62/540] 062_BITS_F494.pdf  (elapsed 9.6m, ETA 75.7m)
+  handout_text length: 7290 chars
+  -> saved 062_BITS_F494.json
+[63/540] 063_BITS_G511.pdf  (elapsed 9.8m, ETA 75.3m)
+  handout_text length: 4994 chars
+  -> saved 063_BITS_G511.json
+[64/540] 064_BITS_G540.pdf  (elapsed 9.9m, ETA 74.8m)
+  handout_text length: 14440 chars
+  -> saved 064_BITS_G540.json
+[65/540] 065_BITS_G562T.pdf  (elapsed 10.0m, ETA 74.7m)
+  handout_text length: 19203 chars
+  -> saved 065_BITS_G562T.json
+[66/540] 066_BITS_G563T.pdf  (elapsed 10.3m, ETA 75.1m)
+  handout_text length: 19203 chars
+  -> saved 066_BITS_G563T.json
+[67/540] 067_BITS_G564T.pdf  (elapsed 10.5m, ETA 75.1m)
+  handout_text length: 19203 chars
+  -> saved 067_BITS_G564T.json
+[68/540] 068_BITS_G661.pdf  (elapsed 10.6m, ETA 75.0m)
+  handout_text length: 4303 chars
+  -> saved 068_BITS_G661.json
+[69/540] 069_BITS_U103.pdf  (elapsed 10.7m, ETA 74.5m)
+  handout_text length: 15393 chars
+  -> saved 069_BITS_U103.json
+[70/540] 070_BITS_U104.pdf  (elapsed 11.0m, ETA 74.9m)
+  handout_text length: 7345 chars
+  -> saved 070_BITS_U104.json
+[71/540] 071_BITS_U107.pdf  (elapsed 11.1m, ETA 74.4m)
+  handout_text length: 8262 chars
+  -> saved 071_BITS_U107.json
+[72/540] 072_BITS_U415.pdf  (elapsed 11.3m, ETA 74.3m)
+  handout_text length: 5906 chars
+  -> saved 072_BITS_U415.json
+[73/540] 073_BITS_U462.pdf  (elapsed 11.4m, ETA 74.0m)
+  handout_text length: 7594 chars
+  -> saved 073_BITS_U462.json
+[74/540] 074_BITS_U467.pdf  (elapsed 11.5m, ETA 73.7m)
+  handout_text length: 13414 chars
+  -> saved 074_BITS_U467.json
+[75/540] 075_CE_F211.pdf  (elapsed 11.8m, ETA 74.1m)
+  handout_text length: 11468 chars
+  -> saved 075_CE_F211.json
+[76/540] 076_CE_F213.pdf  (elapsed 12.0m, ETA 74.3m)
+  handout_text length: 11115 chars
+  -> saved 076_CE_F213.json
+[77/540] 077_CE_F230.pdf  (elapsed 12.2m, ETA 74.4m)
+  handout_text length: 13962 chars
+  -> saved 077_CE_F230.json
+[78/540] 078_CE_F231.pdf  (elapsed 12.4m, ETA 74.6m)
+  handout_text length: 9920 chars
+  -> saved 078_CE_F231.json
+[79/540] 079_CE_F312.pdf  (elapsed 12.6m, ETA 74.5m)
+  handout_text length: 17627 chars
+  -> saved 079_CE_F312.json
+[80/540] 080_CE_F313.pdf  (elapsed 12.8m, ETA 74.6m)
+  handout_text length: 13589 chars
+  -> saved 080_CE_F313.json
+[81/540] 081_CE_F320.pdf  (elapsed 12.9m, ETA 74.4m)
+  handout_text length: 8417 chars
+  -> saved 081_CE_F320.json
+[82/540] 082_CE_F331.pdf  (elapsed 13.1m, ETA 74.1m)
+  handout_text length: 10761 chars
+  -> saved 082_CE_F331.json
+[83/540] 083_CE_F417.pdf  (elapsed 13.2m, ETA 73.8m)
+  handout_text length: 5556 chars
+  -> saved 083_CE_F417.json
+[84/540] 084_CE_F423.pdf  (elapsed 13.3m, ETA 73.5m)
+  handout_text length: 7410 chars
+  -> saved 084_CE_F423.json
+[85/540] 085_CE_F434.pdf  (elapsed 13.5m, ETA 73.2m)
+  handout_text length: 7290 chars
+  -> saved 085_CE_F434.json
+[86/540] 086_CE_G515.pdf  (elapsed 13.6m, ETA 72.7m)
+  handout_text length: 9474 chars
+  -> saved 086_CE_G515.json
+[87/540] 087_CE_G515.pdf  (elapsed 13.8m, ETA 72.6m)
+  handout_text length: 9474 chars
+  -> saved 087_CE_G515.json
+[88/540] 088_CE_G523.pdf  (elapsed 13.9m, ETA 72.4m)
+  handout_text length: 5743 chars
+  -> saved 088_CE_G523.json
+[89/540] 089_CE_G525.pdf  (elapsed 14.0m, ETA 72.0m)
+  handout_text length: 23656 chars
+  -> saved 089_CE_G525.json
+[90/540] 090_CE_G525.pdf  (elapsed 16.1m, ETA 81.8m)
+  handout_text length: 23656 chars
+  -> saved 090_CE_G525.json
+[91/540] 091_CE_G527.pdf  (elapsed 16.9m, ETA 84.4m)
+  handout_text length: 9764 chars
+  -> saved 091_CE_G527.json
+[92/540] 092_CE_G527.pdf  (elapsed 17.3m, ETA 85.3m)
+  handout_text length: 9764 chars
+  -> saved 092_CE_G527.json
+[93/540] 093_CE_G534.pdf  (elapsed 17.6m, ETA 85.5m)
+  handout_text length: 12280 chars
+  -> saved 093_CE_G534.json
+[94/540] 094_CE_G534.pdf  (elapsed 17.7m, ETA 85.2m)
+  handout_text length: 12280 chars
+  -> saved 094_CE_G534.json
+[95/540] 095_CE_G545.pdf  (elapsed 17.9m, ETA 84.9m)
+  handout_text length: 10049 chars
+  -> saved 095_CE_G545.json
+[96/540] 096_CE_G545.pdf  (elapsed 18.1m, ETA 84.7m)
+  handout_text length: 10049 chars
+  -> saved 096_CE_G545.json
+[97/540] 097_CE_G547.pdf  (elapsed 18.2m, ETA 84.3m)
+  handout_text length: 6675 chars
+  -> saved 097_CE_G547.json
+[98/540] 098_CE_G547.pdf  (elapsed 18.4m, ETA 84.0m)
+  handout_text length: 6675 chars
+  -> saved 098_CE_G547.json
+[99/540] 099_CE_G549.pdf  (elapsed 18.5m, ETA 83.6m)
+  handout_text length: 12282 chars
+  -> saved 099_CE_G549.json
+[100/540] 100_CE_G549.pdf  (elapsed 18.7m, ETA 83.5m)
+  handout_text length: 12282 chars
+  -> saved 100_CE_G549.json
+[101/540] 101_CE_G551.pdf  (elapsed 18.9m, ETA 83.1m)
+  handout_text length: 9782 chars
+  -> saved 101_CE_G551.json
+[102/540] 102_CE_G551.pdf  (elapsed 19.1m, ETA 82.9m)
+  handout_text length: 9782 chars
+  -> saved 102_CE_G551.json
+[103/540] 103_CE_G565.pdf  (elapsed 19.2m, ETA 82.6m)
+  handout_text length: 6591 chars
+  -> saved 103_CE_G565.json
+[104/540] 104_CE_G565.pdf  (elapsed 19.4m, ETA 82.3m)
+  handout_text length: 6591 chars
+  -> saved 104_CE_G565.json
+[105/540] 105_CE_G567.pdf  (elapsed 19.5m, ETA 81.8m)
+  handout_text length: 6977 chars
+  -> saved 105_CE_G567.json
+[106/540] 106_CE_G567.pdf  (elapsed 19.7m, ETA 81.5m)
+  handout_text length: 6977 chars
+  -> saved 106_CE_G567.json
+[107/540] 107_CE_G613.pdf  (elapsed 19.8m, ETA 81.2m)
+  handout_text length: 14215 chars
+  -> saved 107_CE_G613.json
+[108/540] 108_CE_G613.pdf  (elapsed 20.0m, ETA 81.1m)
+  handout_text length: 14215 chars
+  -> saved 108_CE_G613.json
+[109/540] 109_CE_G614.pdf  (elapsed 20.2m, ETA 80.9m)
+  handout_text length: 11896 chars
+  -> saved 109_CE_G614.json
+[110/540] 110_CE_G614.pdf  (elapsed 20.4m, ETA 80.6m)
+  handout_text length: 11896 chars
+  -> saved 110_CE_G614.json
+[111/540] 111_CE_G616.pdf  (elapsed 20.5m, ETA 80.2m)
+  handout_text length: 8133 chars
+  -> saved 111_CE_G616.json
+[112/540] 112_CE_G616.pdf  (elapsed 20.7m, ETA 79.9m)
+  handout_text length: 8133 chars
+  -> saved 112_CE_G616.json
+[113/540] 113_CE_G617.pdf  (elapsed 20.8m, ETA 79.4m)
+  handout_text length: 11679 chars
+  -> saved 113_CE_G617.json
+[114/540] 114_CE_G617.pdf  (elapsed 21.0m, ETA 79.3m)
+  handout_text length: 11679 chars
+  -> saved 114_CE_G617.json
+[115/540] 115_CE_G619.pdf  (elapsed 21.2m, ETA 79.1m)
+  handout_text length: 16274 chars
+  -> saved 115_CE_G619.json
+[116/540] 116_CE_U434.pdf  (elapsed 21.3m, ETA 78.8m)
+  handout_text length: 7290 chars
+  -> saved 116_CE_U434.json
+[117/540] 117_CHE_F211.pdf  (elapsed 21.4m, ETA 78.3m)
+  handout_text length: 10249 chars
+  -> saved 117_CHE_F211.json
+[118/540] 118_CHE_F212.pdf  (elapsed 21.6m, ETA 78.1m)
+  handout_text length: 11769 chars
+  -> saved 118_CHE_F212.json
+[119/540] 119_CHE_F213.pdf  (elapsed 21.8m, ETA 78.0m)
+  handout_text length: 20643 chars
+  -> saved 119_CHE_F213.json
+[120/540] 120_CHE_F214.pdf  (elapsed 22.0m, ETA 77.8m)
+  handout_text length: 16285 chars
+  -> saved 120_CHE_F214.json
+[121/540] 121_CHE_F266.pdf  (elapsed 22.2m, ETA 77.7m)
+  handout_text length: 2934 chars
+  -> saved 121_CHE_F266.json
+[122/540] 122_CHE_F311.pdf  (elapsed 22.4m, ETA 77.5m)
+  handout_text length: 23667 chars
+  -> saved 122_CHE_F311.json
+[123/540] 123_CHE_F312.pdf  (elapsed 22.7m, ETA 77.6m)
+  handout_text length: 12679 chars
+  -> saved 123_CHE_F312.json
+[124/540] 124_CHE_F313.pdf  (elapsed 22.9m, ETA 77.6m)
+  handout_text length: 18058 chars
+  -> saved 124_CHE_F313.json
+[125/540] 125_CHE_F314.pdf  (elapsed 23.2m, ETA 77.7m)
+  handout_text length: 15810 chars
+  -> saved 125_CHE_F314.json
+[126/540] 126_CHE_F366.pdf  (elapsed 23.3m, ETA 77.5m)
+  handout_text length: 3283 chars
+  -> saved 126_CHE_F366.json
+[127/540] 127_CHE_F367.pdf  (elapsed 23.5m, ETA 77.3m)
+  handout_text length: 3216 chars
+  -> saved 127_CHE_F367.json
+[128/540] 128_CHE_F376.pdf  (elapsed 23.7m, ETA 77.1m)
+  handout_text length: 3088 chars
+  -> saved 128_CHE_F376.json
+[129/540] 129_CHE_F377.pdf  (elapsed 23.9m, ETA 77.0m)
+  handout_text length: 3087 chars
+  -> saved 129_CHE_F377.json
+[130/540] 130_CHE_F411.pdf  (elapsed 24.1m, ETA 76.8m)
+  handout_text length: 14461 chars
+  -> saved 130_CHE_F411.json
+[131/540] 131_CHE_F415.pdf  (elapsed 24.3m, ETA 76.7m)
+  handout_text length: 13444 chars
+  -> saved 131_CHE_F415.json
+[132/540] 132_CHE_F491.pdf  (elapsed 24.5m, ETA 76.5m)
+  handout_text length: 3682 chars
+  -> saved 132_CHE_F491.json
+[133/540] 133_CHE_F497.pdf  (elapsed 24.7m, ETA 76.4m)
+  handout_text length: 12888 chars
+  -> saved 133_CHE_F497.json
+[134/540] 134_CHE_G552.pdf  (elapsed 24.9m, ETA 76.2m)
+  handout_text length: 12682 chars
+  -> saved 134_CHE_G552.json
+[135/540] 135_CHE_G553.pdf  (elapsed 25.1m, ETA 76.1m)
+  handout_text length: 13706 chars
+  -> saved 135_CHE_G553.json
+[136/540] 136_CHE_G553.pdf  (elapsed 25.4m, ETA 76.1m)
+  handout_text length: 13706 chars
+  -> saved 136_CHE_G553.json
+[137/540] 137_CHE_G554.pdf  (elapsed 25.6m, ETA 75.9m)
+  handout_text length: 14442 chars
+  -> saved 137_CHE_G554.json
+[138/540] 138_CHE_G558.pdf  (elapsed 25.7m, ETA 75.7m)
+  handout_text length: 12549 chars
+  -> saved 138_CHE_G558.json
+[139/540] 139_CHE_G558.pdf  (elapsed 25.9m, ETA 75.5m)
+  handout_text length: 12549 chars
+  -> saved 139_CHE_G558.json
+[140/540] 140_CHEM_F212.pdf  (elapsed 26.0m, ETA 75.1m)
+  handout_text length: 14008 chars
+  -> saved 140_CHEM_F212.json
+[141/540] 141_CHEM_F213.pdf  (elapsed 26.2m, ETA 74.9m)
+  handout_text length: 18738 chars
+  -> saved 141_CHEM_F213.json
+[142/540] 142_CHEM_F214.pdf  (elapsed 26.5m, ETA 74.9m)
+  handout_text length: 15496 chars
+  -> saved 142_CHEM_F214.json
+[143/540] 143_CHEM_F242.pdf  (elapsed 26.6m, ETA 74.6m)
+  handout_text length: 10465 chars
+  -> saved 143_CHEM_F242.json
+[144/540] 144_CHEM_F311.pdf  (elapsed 26.7m, ETA 74.2m)
+  handout_text length: 10320 chars
+  -> saved 144_CHEM_F311.json
+[145/540] 145_CHEM_F312.pdf  (elapsed 26.9m, ETA 74.0m)
+  handout_text length: 16883 chars
+  -> saved 145_CHEM_F312.json
+[146/540] 146_CHEM_F313.pdf  (elapsed 27.1m, ETA 73.9m)
+  handout_text length: 12397 chars
+  -> saved 146_CHEM_F313.json
+[147/540] 147_CHEM_F320.pdf  (elapsed 27.3m, ETA 73.6m)
+  handout_text length: 9922 chars
+  -> saved 147_CHEM_F320.json
+[148/540] 148_CHEM_F330.pdf  (elapsed 27.4m, ETA 73.3m)
+  handout_text length: 14650 chars
+  -> saved 148_CHEM_F330.json
+[149/540] 149_CHEM_F333.pdf  (elapsed 27.6m, ETA 73.1m)
+  handout_text length: 20458 chars
+  -> saved 149_CHEM_F333.json
+[150/540] 150_CHEM_F335.pdf  (elapsed 27.7m, ETA 72.8m)
+  handout_text length: 8103 chars
+  -> saved 150_CHEM_F335.json
+[151/540] 151_CHEM_F337.pdf  (elapsed 27.9m, ETA 72.5m)
+  handout_text length: 19098 chars
+  -> saved 151_CHEM_F337.json
+[152/540] 152_CHEM_G521.pdf  (elapsed 28.0m, ETA 72.3m)
+  handout_text length: 10101 chars
+  -> saved 152_CHEM_G521.json
+[153/540] 153_CHEM_G521.pdf  (elapsed 28.2m, ETA 72.0m)
+  handout_text length: 10101 chars
+  -> saved 153_CHEM_G521.json
+[154/540] 154_CHEM_G551.pdf  (elapsed 28.3m, ETA 71.7m)
+  handout_text length: 7857 chars
+  -> saved 154_CHEM_G551.json
+[155/540] 155_CHEM_G551.pdf  (elapsed 28.5m, ETA 71.4m)
+  handout_text length: 7857 chars
+  -> saved 155_CHEM_G551.json
+[156/540] 156_CHEM_G553.pdf  (elapsed 28.6m, ETA 71.0m)
+  handout_text length: 9643 chars
+  -> saved 156_CHEM_G553.json
+[157/540] 157_CHEM_G553.pdf  (elapsed 28.8m, ETA 70.9m)
+  handout_text length: 9643 chars
+  -> saved 157_CHEM_G553.json
+[158/540] 158_CHEM_U101.pdf  (elapsed 28.9m, ETA 70.5m)
+  handout_text length: 10299 chars
+  -> saved 158_CHEM_U101.json
+[159/540] 159_CHEM_U110.pdf  (elapsed 29.1m, ETA 70.4m)
+  handout_text length: 5801 chars
+  -> saved 159_CHEM_U110.json
+[160/540] 160_CS_F111.pdf  (elapsed 29.2m, ETA 70.0m)
+  handout_text length: 18296 chars
+  -> saved 160_CS_F111.json
+[161/540] 161_CS_F213.pdf  (elapsed 29.4m, ETA 69.9m)
+  handout_text length: 13123 chars
+  -> saved 161_CS_F213.json
+[162/540] 162_CS_F215.pdf  (elapsed 29.6m, ETA 69.7m)
+  handout_text length: 11668 chars
+  -> saved 162_CS_F215.json
+[163/540] 163_CS_F222.pdf  (elapsed 29.8m, ETA 69.6m)
+  handout_text length: 10809 chars
+  -> saved 163_CS_F222.json
+[164/540] 164_CS_F301.pdf  (elapsed 30.1m, ETA 69.5m)
+  handout_text length: 15623 chars
+  -> saved 164_CS_F301.json
+[165/540] 165_CS_F317.pdf  (elapsed 30.2m, ETA 69.3m)
+  handout_text length: 7769 chars
+  -> saved 165_CS_F317.json
+[166/540] 166_CS_F320.pdf  (elapsed 30.4m, ETA 69.1m)
+  handout_text length: 8963 chars
+  -> saved 166_CS_F320.json
+[167/540] 167_CS_F342.pdf  (elapsed 30.6m, ETA 68.9m)
+  handout_text length: 13228 chars
+  -> saved 167_CS_F342.json
+[168/540] 168_CS_F351.pdf  (elapsed 30.7m, ETA 68.7m)
+  handout_text length: 12439 chars
+  -> saved 168_CS_F351.json
+[169/540] 169_CS_F372.pdf  (elapsed 31.0m, ETA 68.6m)
+  handout_text length: 9547 chars
+  -> saved 169_CS_F372.json
+[170/540] 170_CS_F407.pdf  (elapsed 31.2m, ETA 68.4m)
+  handout_text length: 13048 chars
+  -> saved 170_CS_F407.json
+[171/540] 171_CS_F415.pdf  (elapsed 31.3m, ETA 68.2m)
+  handout_text length: 8996 chars
+  -> saved 171_CS_F415.json
+[172/540] 172_CS_F425.pdf  (elapsed 31.5m, ETA 67.9m)
+  handout_text length: 10591 chars
+  -> saved 172_CS_F425.json
+[173/540] 173_CS_F429.pdf  (elapsed 31.6m, ETA 67.7m)
+  handout_text length: 8808 chars
+  -> saved 173_CS_F429.json
+[174/540] 174_CS_F446.pdf  (elapsed 31.8m, ETA 67.5m)
+  handout_text length: 5735 chars
+  -> saved 174_CS_F446.json
+[175/540] 175_CS_F469.pdf  (elapsed 31.9m, ETA 67.1m)
+  handout_text length: 8152 chars
+  -> saved 175_CS_F469.json
+[176/540] 176_CS_G525.pdf  (elapsed 32.1m, ETA 66.9m)
+  handout_text length: 24743 chars
+  -> saved 176_CS_G525.json
+[177/540] 177_CS_G525.pdf  (elapsed 32.3m, ETA 66.8m)
+  handout_text length: 24743 chars
+  -> saved 177_CS_G525.json
+[178/540] 178_CS_G526.pdf  (elapsed 32.5m, ETA 66.6m)
+  handout_text length: 7689 chars
+  -> saved 178_CS_G526.json
+[179/540] 179_CS_G526.pdf  (elapsed 32.6m, ETA 66.3m)
+  handout_text length: 7689 chars
+  -> saved 179_CS_G526.json
+[180/540] 180_CS_G527.pdf  (elapsed 32.7m, ETA 65.9m)
+  handout_text length: 14412 chars
+  -> saved 180_CS_G527.json
+[181/540] 181_CS_G527.pdf  (elapsed 32.9m, ETA 65.8m)
+  handout_text length: 14412 chars
+  -> saved 181_CS_G527.json
+[182/540] 182_CS_G553.pdf  (elapsed 33.0m, ETA 65.5m)
+  handout_text length: 8579 chars
+  -> saved 182_CS_G553.json
+[183/540] 183_CS_G553.pdf  (elapsed 33.2m, ETA 65.3m)
+  handout_text length: 8579 chars
+  -> saved 183_CS_G553.json
+[184/540] 184_CS_G569.pdf  (elapsed 33.3m, ETA 65.0m)
+  handout_text length: 12434 chars
+  -> saved 184_CS_G569.json
+[185/540] 185_CS_G569.pdf  (elapsed 33.5m, ETA 64.9m)
+  handout_text length: 12434 chars
+  -> saved 185_CS_G569.json
+[186/540] 186_CS_G623.pdf  (elapsed 33.7m, ETA 64.6m)
+  handout_text length: 6916 chars
+  -> saved 186_CS_G623.json
+[187/540] 187_CS_G623.pdf  (elapsed 33.9m, ETA 64.4m)
+  handout_text length: 6916 chars
+  -> saved 187_CS_G623.json
+[188/540] 188_CS_U101.pdf  (elapsed 34.0m, ETA 64.2m)
+  handout_text length: 8950 chars
+  -> saved 188_CS_U101.json
+[189/540] 189_CS_U111.pdf  (elapsed 34.1m, ETA 63.9m)
+  handout_text length: 18296 chars
+  -> saved 189_CS_U111.json
+[190/540] 190_CS_U311.pdf  (elapsed 34.3m, ETA 63.8m)
+  handout_text length: 10496 chars
+  -> saved 190_CS_U311.json
+[191/540] 191_CS_U407.pdf  (elapsed 34.5m, ETA 63.6m)
+  handout_text length: 13048 chars
+  -> saved 191_CS_U407.json
+[192/540] 192_CS_U425.pdf  (elapsed 34.7m, ETA 63.3m)
+  handout_text length: 10591 chars
+  -> saved 192_CS_U425.json
+[193/540] 193_CS_U429.pdf  (elapsed 34.9m, ETA 63.2m)
+  handout_text length: 8808 chars
+  -> saved 193_CS_U429.json
+[194/540] 194_CS_U446.pdf  (elapsed 35.0m, ETA 62.9m)
+  handout_text length: 5735 chars
+  -> saved 194_CS_U446.json
+[195/540] 195_CS_U469.pdf  (elapsed 35.1m, ETA 62.6m)
+  handout_text length: 8152 chars
+  -> saved 195_CS_U469.json
+[196/540] 196_DE_G513.pdf  (elapsed 35.2m, ETA 62.3m)
+  handout_text length: 5547 chars
+  -> saved 196_DE_G513.json
+[197/540] 197_DE_G513.pdf  (elapsed 35.4m, ETA 62.0m)
+  handout_text length: 5547 chars
+  -> saved 197_DE_G513.json
+[198/540] 198_DE_G531.pdf  (elapsed 35.5m, ETA 61.7m)
+  handout_text length: 6263 chars
+  -> saved 198_DE_G531.json
+[199/540] 199_DE_G531.pdf  (elapsed 35.6m, ETA 61.5m)
+  handout_text length: 6263 chars
+  -> saved 199_DE_G531.json
+[200/540] 200_DE_G611.pdf  (elapsed 35.7m, ETA 61.2m)
+  handout_text length: 7745 chars
+  -> saved 200_DE_G611.json
+[201/540] 201_DE_G611.pdf  (elapsed 35.8m, ETA 60.9m)
+  handout_text length: 7745 chars
+  -> saved 201_DE_G611.json
+[202/540] 202_DE_G612.pdf  (elapsed 35.9m, ETA 60.6m)
+  handout_text length: 14202 chars
+  -> saved 202_DE_G612.json
+[203/540] 203_ECE_F211.pdf  (elapsed 36.3m, ETA 60.7m)
+  handout_text length: 10496 chars
+  -> saved 203_ECE_F211.json
+[204/540] 204_ECE_F214.pdf  (elapsed 89.4m, ETA 148.5m)
+  handout_text length: 11165 chars
+  -> saved 204_ECE_F214.json
+[205/540] 205_ECE_F215.pdf  (elapsed 89.6m, ETA 147.6m)
+  handout_text length: 11668 chars
+  -> saved 205_ECE_F215.json
+[206/540] 206_ECE_F266.pdf  (elapsed 89.8m, ETA 146.7m)
+  handout_text length: 2398 chars
+  -> saved 206_ECE_F266.json
+[207/540] 207_ECE_F311.pdf  (elapsed 89.9m, ETA 145.8m)
+  handout_text length: 19856 chars
+  -> saved 207_ECE_F311.json
+[208/540] 208_ECE_F314.pdf  (elapsed 90.1m, ETA 144.9m)
+  handout_text length: 6752 chars
+  -> saved 208_ECE_F314.json
+[209/540] 209_ECE_F331.pdf  (elapsed 90.2m, ETA 143.9m)
+  handout_text length: 12326 chars
+  -> saved 209_ECE_F331.json
+[210/540] 210_ECE_F366.pdf  (elapsed 90.3m, ETA 143.0m)
+  handout_text length: 2902 chars
+  -> saved 210_ECE_F366.json
+[211/540] 211_ECE_F367.pdf  (elapsed 90.5m, ETA 142.2m)
+  handout_text length: 2902 chars
+  -> saved 211_ECE_F367.json
+[212/540] 212_ECE_F376.pdf  (elapsed 90.6m, ETA 141.3m)
+  handout_text length: 2903 chars
+  -> saved 212_ECE_F376.json
+[213/540] 213_ECE_F377.pdf  (elapsed 90.8m, ETA 140.5m)
+  handout_text length: 2903 chars
+  -> saved 213_ECE_F377.json
+[214/540] 214_ECE_F434.pdf  (elapsed 91.0m, ETA 139.6m)
+  handout_text length: 9055 chars
+  -> saved 214_ECE_F434.json
+[215/540] 215_ECE_F491.pdf  (elapsed 91.1m, ETA 138.8m)
+  handout_text length: 2245 chars
+  -> saved 215_ECE_F491.json
+[216/540] 216_ECON_F211.pdf  (elapsed 91.3m, ETA 138.0m)
+  handout_text length: 10913 chars
+  -> saved 216_ECON_F211.json
+[217/540] 217_ECON_F212.pdf  (elapsed 91.4m, ETA 137.1m)
+  handout_text length: 15576 chars
+  -> saved 217_ECON_F212.json
+[218/540] 218_ECON_F213.pdf  (elapsed 91.5m, ETA 136.3m)
+  handout_text length: 19386 chars
+  -> saved 218_ECON_F213.json
+[219/540] 219_ECON_F214.pdf  (elapsed 91.8m, ETA 135.6m)
+  handout_text length: 19491 chars
+  -> saved 219_ECON_F214.json
+[220/540] 220_ECON_F311.pdf  (elapsed 92.0m, ETA 134.8m)
+  handout_text length: 14809 chars
+  -> saved 220_ECON_F311.json
+[221/540] 221_ECON_F312.pdf  (elapsed 92.1m, ETA 134.0m)
+  handout_text length: 9955 chars
+  -> saved 221_ECON_F312.json
+[222/540] 222_ECON_F313.pdf  (elapsed 92.3m, ETA 133.2m)
+  handout_text length: 22921 chars
+  -> saved 222_ECON_F313.json
+[223/540] 223_ECON_F315.pdf  (elapsed 92.5m, ETA 132.6m)
+  handout_text length: 13588 chars
+  -> saved 223_ECON_F315.json
+[224/540] 224_ECON_F354.pdf  (elapsed 92.7m, ETA 131.8m)
+  handout_text length: 17050 chars
+  -> saved 224_ECON_F354.json
+[225/540] 225_ECON_F355.pdf  (elapsed 92.8m, ETA 131.0m)
+  handout_text length: 16028 chars
+  -> saved 225_ECON_F355.json
+[226/540] 226_ECON_F412.pdf  (elapsed 93.0m, ETA 130.2m)
+  handout_text length: 12048 chars
+  -> saved 226_ECON_F412.json
+[227/540] 227_ECON_F413.pdf  (elapsed 93.1m, ETA 129.4m)
+  handout_text length: 5235 chars
+  -> saved 227_ECON_F413.json
+[228/540] 228_ECON_F414.pdf  (elapsed 93.2m, ETA 128.5m)
+  handout_text length: 13674 chars
+  -> saved 228_ECON_F414.json
+[229/540] 229_ECON_F415.pdf  (elapsed 93.4m, ETA 127.7m)
+  handout_text length: 8337 chars
+  -> saved 229_ECON_F415.json
+[230/540] 230_ECON_F417.pdf  (elapsed 93.5m, ETA 126.9m)
+  handout_text length: 14957 chars
+  -> saved 230_ECON_F417.json
+[231/540] 231_EE_G501.pdf  (elapsed 93.7m, ETA 126.2m)
+  handout_text length: 7055 chars
+  -> saved 231_EE_G501.json
+[232/540] 232_EE_G501.pdf  (elapsed 93.8m, ETA 125.5m)
+  handout_text length: 7055 chars
+  -> saved 232_EE_G501.json
+[233/540] 233_EE_G508.pdf  (elapsed 93.9m, ETA 124.7m)
+  handout_text length: 9772 chars
+  -> saved 233_EE_G508.json
+[234/540] 234_EE_G508.pdf  (elapsed 94.1m, ETA 123.9m)
+  handout_text length: 9772 chars
+  -> saved 234_EE_G508.json
+[235/540] 235_EEE_F111.pdf  (elapsed 94.2m, ETA 123.2m)
+  handout_text length: 11482 chars
+  -> saved 235_EEE_F111.json
+[236/540] 236_EEE_F211.pdf  (elapsed 94.3m, ETA 122.4m)
+  handout_text length: 10496 chars
+  -> saved 236_EEE_F211.json
+[237/540] 237_EEE_F214.pdf  (elapsed 94.5m, ETA 121.7m)
+  handout_text length: 11165 chars
+  -> saved 237_EEE_F214.json
+[238/540] 238_EEE_F215.pdf  (elapsed 94.6m, ETA 121.0m)
+  handout_text length: 11668 chars
+  -> saved 238_EEE_F215.json
+[239/540] 239_EEE_F244.pdf  (elapsed 94.8m, ETA 120.3m)
+  handout_text length: 10032 chars
+  -> saved 239_EEE_F244.json
+[240/540] 240_EEE_F266.pdf  (elapsed 94.9m, ETA 119.5m)
+  handout_text length: 2398 chars
+  -> saved 240_EEE_F266.json
+[241/540] 241_EEE_F311.pdf  (elapsed 95.1m, ETA 118.8m)
+  handout_text length: 19856 chars
+  -> saved 241_EEE_F311.json
+[242/540] 242_EEE_F313.pdf  (elapsed 95.3m, ETA 118.2m)
+  handout_text length: 9186 chars
+  -> saved 242_EEE_F313.json
+[243/540] 243_EEE_F314.pdf  (elapsed 95.4m, ETA 117.5m)
+  handout_text length: 7114 chars
+  -> saved 243_EEE_F314.json
+[244/540] 244_EEE_F346.pdf  (elapsed 95.6m, ETA 116.8m)
+  handout_text length: 10344 chars
+  -> saved 244_EEE_F346.json
+[245/540] 245_EEE_F366.pdf  (elapsed 95.7m, ETA 116.2m)
+  handout_text length: 2902 chars
+  -> saved 245_EEE_F366.json
+[246/540] 246_EEE_F367.pdf  (elapsed 96.0m, ETA 115.5m)
+  handout_text length: 2902 chars
+  -> saved 246_EEE_F367.json
+[247/540] 247_EEE_F376.pdf  (elapsed 96.1m, ETA 114.9m)
+  handout_text length: 2903 chars
+  -> saved 247_EEE_F376.json
+[248/540] 248_EEE_F377.pdf  (elapsed 96.3m, ETA 114.3m)
+  handout_text length: 2903 chars
+  -> saved 248_EEE_F377.json
+[249/540] 249_EEE_F411.pdf  (elapsed 96.5m, ETA 113.7m)
+  handout_text length: 11102 chars
+  -> saved 249_EEE_F411.json
+[250/540] 250_EEE_F422.pdf  (elapsed 96.7m, ETA 113.0m)
+  handout_text length: 8517 chars
+  -> saved 250_EEE_F422.json
+[251/540] 251_EEE_F426.pdf  (elapsed 96.8m, ETA 112.3m)
+  handout_text length: 13246 chars
+  -> saved 251_EEE_F426.json
+[252/540] 252_EEE_F434.pdf  (elapsed 97.0m, ETA 111.7m)
+  handout_text length: 9055 chars
+  -> saved 252_EEE_F434.json
+[253/540] 253_EEE_F435.pdf  (elapsed 97.2m, ETA 111.0m)
+  handout_text length: 7160 chars
+  -> saved 253_EEE_F435.json
+[254/540] 254_EEE_F437.pdf  (elapsed 97.3m, ETA 110.4m)
+  handout_text length: 9854 chars
+  -> saved 254_EEE_F437.json
+[255/540] 255_EEE_F472.pdf  (elapsed 97.4m, ETA 109.7m)
+  handout_text length: 10450 chars
+  -> saved 255_EEE_F472.json
+[256/540] 256_EEE_F491.pdf  (elapsed 97.6m, ETA 109.1m)
+  handout_text length: 2245 chars
+  -> saved 256_EEE_F491.json
+[257/540] 257_EEE_G511.pdf  (elapsed 97.8m, ETA 108.5m)
+  handout_text length: 11934 chars
+  -> saved 257_EEE_G511.json
+[258/540] 258_EEE_G511.pdf  (elapsed 98.0m, ETA 107.9m)
+  handout_text length: 11934 chars
+  -> saved 258_EEE_G511.json
+[259/540] 259_EEE_G512.pdf  (elapsed 98.1m, ETA 107.3m)
+  handout_text length: 16057 chars
+  -> saved 259_EEE_G512.json
+[260/540] 260_EEE_G512.pdf  (elapsed 98.3m, ETA 106.7m)
+  handout_text length: 16057 chars
+  -> saved 260_EEE_G512.json
+[261/540] 261_EEE_G513.pdf  (elapsed 98.5m, ETA 106.1m)
+  handout_text length: 9228 chars
+  -> saved 261_EEE_G513.json
+[262/540] 262_EEE_G513.pdf  (elapsed 98.6m, ETA 105.4m)
+  handout_text length: 9228 chars
+  -> saved 262_EEE_G513.json
+[263/540] 263_EEE_G515.pdf  (elapsed 98.7m, ETA 104.8m)
+  handout_text length: 5941 chars
+  -> saved 263_EEE_G515.json
+[264/540] 264_EEE_G515.pdf  (elapsed 98.9m, ETA 104.1m)
+  handout_text length: 5941 chars
+  -> saved 264_EEE_G515.json
+[265/540] 265_EEE_G516.pdf  (elapsed 99.0m, ETA 103.5m)
+  handout_text length: 13574 chars
+  -> saved 265_EEE_G516.json
+[266/540] 266_EEE_G516.pdf  (elapsed 99.1m, ETA 102.9m)
+  handout_text length: 13574 chars
+  -> saved 266_EEE_G516.json
+[267/540] 267_EEE_G539.pdf  (elapsed 99.3m, ETA 102.3m)
+  handout_text length: 9917 chars
+  -> saved 267_EEE_G539.json
+[268/540] 268_EEE_G549.pdf  (elapsed 99.4m, ETA 101.7m)
+  handout_text length: 10007 chars
+  -> saved 268_EEE_G549.json
+[269/540] 269_EEE_G554.pdf  (elapsed 99.6m, ETA 101.1m)
+  handout_text length: 6720 chars
+  -> saved 269_EEE_G554.json
+[270/540] 270_EEE_G554.pdf  (elapsed 99.7m, ETA 100.4m)
+  handout_text length: 6720 chars
+  -> saved 270_EEE_G554.json
+[271/540] 271_EEE_G559.pdf  (elapsed 99.8m, ETA 99.8m)
+  handout_text length: 4966 chars
+  -> saved 271_EEE_G559.json
+[272/540] 272_EEE_G559.pdf  (elapsed 99.9m, ETA 99.2m)
+  handout_text length: 4966 chars
+  -> saved 272_EEE_G559.json
+[273/540] 273_EEE_G593.pdf  (elapsed 100.0m, ETA 98.6m)
+  handout_text length: 10110 chars
+  -> saved 273_EEE_G593.json
+[274/540] 274_EEE_G593.pdf  (elapsed 100.2m, ETA 98.0m)
+  handout_text length: 10110 chars
+  -> saved 274_EEE_G593.json
+[275/540] 275_EEE_G595.pdf  (elapsed 100.3m, ETA 97.4m)
+  handout_text length: 7055 chars
+  -> saved 275_EEE_G595.json
+[276/540] 276_EEE_G595.pdf  (elapsed 100.5m, ETA 96.8m)
+  handout_text length: 7055 chars
+  -> saved 276_EEE_G595.json
+[277/540] 277_EEE_G614.pdf  (elapsed 100.6m, ETA 96.2m)
+  handout_text length: 8441 chars
+  -> saved 277_EEE_G614.json
+[278/540] 278_EEE_G614.pdf  (elapsed 100.8m, ETA 95.7m)
+  handout_text length: 8441 chars
+  -> saved 278_EEE_G614.json
+[279/540] 279_EEE_G622.pdf  (elapsed 101.0m, ETA 95.2m)
+  handout_text length: 9928 chars
+  -> saved 279_EEE_G622.json
+[280/540] 280_EEE_G622.pdf  (elapsed 101.2m, ETA 94.6m)
+  handout_text length: 9928 chars
+  -> saved 280_EEE_G622.json
+[281/540] 281_EEE_G626.pdf  (elapsed 101.3m, ETA 94.1m)
+  handout_text length: 5174 chars
+  -> saved 281_EEE_G626.json
+[282/540] 282_EEE_G626.pdf  (elapsed 101.4m, ETA 93.5m)
+  handout_text length: 5174 chars
+  -> saved 282_EEE_G626.json
+[283/540] 283_EEE_U111.pdf  (elapsed 101.6m, ETA 92.9m)
+  handout_text length: 13013 chars
+  -> saved 283_EEE_U111.json
+[284/540] 284_EEE_U422.pdf  (elapsed 101.8m, ETA 92.4m)
+  handout_text length: 8517 chars
+  -> saved 284_EEE_U422.json
+[285/540] 285_ENVS_F211.pdf  (elapsed 101.9m, ETA 91.8m)
+  handout_text length: 17498 chars
+  -> saved 285_ENVS_F211.json
+[286/540] 286_ENVS_F212.pdf  (elapsed 102.1m, ETA 91.4m)
+  handout_text length: 13534 chars
+  -> saved 286_ENVS_F212.json
+[287/540] 287_FIN_F212.pdf  (elapsed 102.3m, ETA 90.8m)
+  handout_text length: 15576 chars
+  -> saved 287_FIN_F212.json
+[288/540] 288_FIN_F313.pdf  (elapsed 102.4m, ETA 90.3m)
+  handout_text length: 12048 chars
+  -> saved 288_FIN_F313.json
+[289/540] 289_FIN_F315.pdf  (elapsed 102.5m, ETA 89.7m)
+  handout_text length: 13588 chars
+  -> saved 289_FIN_F315.json
+[290/540] 290_FIN_F414.pdf  (elapsed 102.7m, ETA 89.2m)
+  handout_text length: 10813 chars
+  -> saved 290_FIN_F414.json
+[291/540] 291_GS_F211.pdf  (elapsed 102.9m, ETA 88.7m)
+  handout_text length: 15514 chars
+  -> saved 291_GS_F211.json
+[292/540] 292_GS_F212.pdf  (elapsed 103.1m, ETA 88.2m)
+  handout_text length: 5847 chars
+  -> saved 292_GS_F212.json
+[293/540] 293_GS_F213.pdf  (elapsed 103.2m, ETA 87.7m)
+  handout_text length: 5893 chars
+  -> saved 293_GS_F213.json
+[294/540] 294_GS_F221.pdf  (elapsed 103.4m, ETA 87.2m)
+  handout_text length: 9003 chars
+  -> saved 294_GS_F221.json
+[295/540] 295_GS_F222.pdf  (elapsed 103.5m, ETA 86.6m)
+  handout_text length: 13278 chars
+  -> saved 295_GS_F222.json
+[296/540] 296_GS_F223.pdf  (elapsed 103.7m, ETA 86.1m)
+  handout_text length: 10427 chars
+  -> saved 296_GS_F223.json
+[297/540] 297_GS_F224.pdf  (elapsed 103.8m, ETA 85.6m)
+  handout_text length: 11888 chars
+  -> saved 297_GS_F224.json
+[298/540] 298_GS_F232.pdf  (elapsed 104.0m, ETA 85.1m)
+  handout_text length: 10636 chars
+  -> saved 298_GS_F232.json
+[299/540] 299_GS_F233.pdf  (elapsed 104.1m, ETA 84.6m)
+  handout_text length: 9626 chars
+  -> saved 299_GS_F233.json
+[300/540] 300_GS_F241.pdf  (elapsed 104.3m, ETA 84.0m)
+  handout_text length: 18249 chars
+  -> saved 300_GS_F241.json
+[301/540] 301_GS_F243.pdf  (elapsed 104.4m, ETA 83.5m)
+  handout_text length: 8431 chars
+  -> saved 301_GS_F243.json
+[302/540] 302_GS_F245.pdf  (elapsed 104.6m, ETA 83.0m)
+  handout_text length: 17013 chars
+  -> saved 302_GS_F245.json
+[303/540] 303_GS_F266.pdf  (elapsed 104.7m, ETA 82.6m)
+  handout_text length: 3145 chars
+  -> saved 303_GS_F266.json
+[304/540] 304_GS_F311.pdf  (elapsed 104.9m, ETA 82.1m)
+  handout_text length: 9043 chars
+  -> saved 304_GS_F311.json
+[305/540] 305_GS_F312.pdf  (elapsed 105.1m, ETA 81.6m)
+  handout_text length: 9227 chars
+  -> saved 305_GS_F312.json
+[306/540] 306_GS_F313.pdf  (elapsed 105.2m, ETA 81.1m)
+  handout_text length: 13976 chars
+  -> saved 306_GS_F313.json
+[307/540] 307_GS_F321.pdf  (elapsed 105.4m, ETA 80.6m)
+  handout_text length: 8231 chars
+  -> saved 307_GS_F321.json
+[308/540] 308_GS_F322.pdf  (elapsed 105.5m, ETA 80.1m)
+  handout_text length: 9320 chars
+  -> saved 308_GS_F322.json
+[309/540] 309_GS_F331.pdf  (elapsed 105.7m, ETA 79.6m)
+  handout_text length: 14045 chars
+  -> saved 309_GS_F331.json
+[310/540] 310_GS_F342.pdf  (elapsed 105.8m, ETA 79.1m)
+  handout_text length: 7437 chars
+  -> saved 310_GS_F342.json
+[311/540] 311_GS_F344.pdf  (elapsed 106.0m, ETA 78.6m)
+  handout_text length: 9631 chars
+  -> saved 311_GS_F344.json
+[312/540] 312_GS_F366.pdf  (elapsed 106.1m, ETA 78.1m)
+  handout_text length: 3069 chars
+  -> saved 312_GS_F366.json
+[313/540] 313_GS_F367.pdf  (elapsed 106.3m, ETA 77.7m)
+  handout_text length: 3072 chars
+  -> saved 313_GS_F367.json
+[314/540] 314_GS_F376.pdf  (elapsed 106.5m, ETA 77.2m)
+  handout_text length: 3010 chars
+  -> saved 314_GS_F376.json
+[315/540] 315_GS_F377.pdf  (elapsed 106.6m, ETA 76.7m)
+  handout_text length: 3011 chars
+  -> saved 315_GS_F377.json
+[316/540] 316_GS_F491.pdf  (elapsed 106.8m, ETA 76.3m)
+  handout_text length: 2816 chars
+  -> saved 316_GS_F491.json
+[317/540] 317_HSS_F221.pdf  (elapsed 107.0m, ETA 75.8m)
+  handout_text length: 8004 chars
+  -> saved 317_HSS_F221.json
+[318/540] 318_HSS_F222.pdf  (elapsed 107.1m, ETA 75.3m)
+  handout_text length: 9436 chars
+  -> saved 318_HSS_F222.json
+[319/540] 319_HSS_F223.pdf  (elapsed 107.3m, ETA 74.9m)
+  handout_text length: 15750 chars
+  -> saved 319_HSS_F223.json
+[320/540] 320_HSS_F227.pdf  (elapsed 107.5m, ETA 74.5m)
+  handout_text length: 11512 chars
+  -> saved 320_HSS_F227.json
+[321/540] 321_HSS_F235.pdf  (elapsed 107.6m, ETA 74.0m)
+  handout_text length: 13292 chars
+  -> saved 321_HSS_F235.json
+[322/540] 322_HSS_F266.pdf  (elapsed 107.8m, ETA 73.5m)
+  handout_text length: 3141 chars
+  -> saved 322_HSS_F266.json
+[323/540] 323_HSS_F316.pdf  (elapsed 107.9m, ETA 73.1m)
+  handout_text length: 8658 chars
+  -> saved 323_HSS_F316.json
+[324/540] 324_HSS_F323.pdf  (elapsed 108.1m, ETA 72.6m)
+  handout_text length: 11436 chars
+  -> saved 324_HSS_F323.json
+[325/540] 325_HSS_F324.pdf  (elapsed 108.3m, ETA 72.2m)
+  handout_text length: 9030 chars
+  -> saved 325_HSS_F324.json
+[326/540] 326_HSS_F328.pdf  (elapsed 108.4m, ETA 71.7m)
+  handout_text length: 11505 chars
+  -> saved 326_HSS_F328.json
+[327/540] 327_HSS_F329.pdf  (elapsed 108.6m, ETA 71.3m)
+  handout_text length: 9770 chars
+  -> saved 327_HSS_F329.json
+[328/540] 328_HSS_F334.pdf  (elapsed 108.8m, ETA 70.9m)
+  handout_text length: 13788 chars
+  -> saved 328_HSS_F334.json
+[329/540] 329_HSS_F343.pdf  (elapsed 109.0m, ETA 70.5m)
+  handout_text length: 13086 chars
+  -> saved 329_HSS_F343.json
+[330/540] 330_HSS_F346.pdf  (elapsed 109.2m, ETA 70.0m)
+  handout_text length: 9256 chars
+  -> saved 330_HSS_F346.json
+[331/540] 331_HSS_F349.pdf  (elapsed 109.4m, ETA 69.6m)
+  handout_text length: 7519 chars
+  -> saved 331_HSS_F349.json
+[332/540] 332_HSS_U141.pdf  (elapsed 109.5m, ETA 69.2m)
+  handout_text length: 12872 chars
+  -> saved 332_HSS_U141.json
+[333/540] 333_INSTR_F211.pdf  (elapsed 109.7m, ETA 68.7m)
+  handout_text length: 10496 chars
+  -> saved 333_INSTR_F211.json
+[334/540] 334_INSTR_F214.pdf  (elapsed 109.9m, ETA 68.3m)
+  handout_text length: 11165 chars
+  -> saved 334_INSTR_F214.json
+[335/540] 335_INSTR_F215.pdf  (elapsed 110.1m, ETA 67.9m)
+  handout_text length: 11668 chars
+  -> saved 335_INSTR_F215.json
+[336/540] 336_INSTR_F266.pdf  (elapsed 110.3m, ETA 67.5m)
+  handout_text length: 2398 chars
+  -> saved 336_INSTR_F266.json
+[337/540] 337_INSTR_F311.pdf  (elapsed 110.5m, ETA 67.1m)
+  handout_text length: 10816 chars
+  -> saved 337_INSTR_F311.json
+[338/540] 338_INSTR_F312.pdf  (elapsed 110.6m, ETA 66.6m)
+  handout_text length: 12736 chars
+  -> saved 338_INSTR_F312.json
+[339/540] 339_INSTR_F313.pdf  (elapsed 110.8m, ETA 66.2m)
+  handout_text length: 9186 chars
+  -> saved 339_INSTR_F313.json
+[340/540] 340_INSTR_F366.pdf  (elapsed 110.9m, ETA 65.8m)
+  handout_text length: 2902 chars
+  -> saved 340_INSTR_F366.json
+[341/540] 341_INSTR_F367.pdf  (elapsed 111.1m, ETA 65.4m)
+  handout_text length: 2902 chars
+  -> saved 341_INSTR_F367.json
+[342/540] 342_INSTR_F376.pdf  (elapsed 111.3m, ETA 65.0m)
+  handout_text length: 2903 chars
+  -> saved 342_INSTR_F376.json
+[343/540] 343_INSTR_F377.pdf  (elapsed 111.5m, ETA 64.6m)
+  handout_text length: 2903 chars
+  -> saved 343_INSTR_F377.json
+[344/540] 344_INSTR_F491.pdf  (elapsed 111.7m, ETA 64.2m)
+  handout_text length: 2902 chars
+  -> saved 344_INSTR_F491.json
+[345/540] 345_MAC_F211.pdf  (elapsed 111.9m, ETA 63.8m)
+  handout_text length: 11141 chars
+  -> saved 345_MAC_F211.json
+[346/540] 346_MAC_F212.pdf  (elapsed 112.1m, ETA 63.4m)
+  handout_text length: 13123 chars
+  -> saved 346_MAC_F212.json
+[347/540] 347_MAC_F213.pdf  (elapsed 112.3m, ETA 62.9m)
+  handout_text length: 8369 chars
+  -> saved 347_MAC_F213.json
+[348/540] 348_MAC_F214.pdf  (elapsed 112.4m, ETA 62.5m)
+  handout_text length: 0 chars
+  -> saved 348_MAC_F214.json
+[349/540] 349_MAC_F266.pdf  (elapsed 112.5m, ETA 62.1m)
+  handout_text length: 3369 chars
+  -> saved 349_MAC_F266.json
+[350/540] 350_MAC_F311.pdf  (elapsed 112.7m, ETA 61.7m)
+  handout_text length: 8334 chars
+  -> saved 350_MAC_F311.json
+[351/540] 351_MAC_F312.pdf  (elapsed 112.8m, ETA 61.3m)
+  handout_text length: 10389 chars
+  -> saved 351_MAC_F312.json
+[352/540] 352_MAC_F314.pdf  (elapsed 113.1m, ETA 60.9m)
+  handout_text length: 6862 chars
+  -> saved 352_MAC_F314.json
+[353/540] 353_MAC_F366.pdf  (elapsed 113.2m, ETA 60.5m)
+  handout_text length: 3371 chars
+  -> saved 353_MAC_F366.json
+[354/540] 354_MAC_F367.pdf  (elapsed 113.4m, ETA 60.1m)
+  handout_text length: 3373 chars
+  -> saved 354_MAC_F367.json
+[355/540] 355_MAC_F376.pdf  (elapsed 113.6m, ETA 59.7m)
+  handout_text length: 3360 chars
+  -> saved 355_MAC_F376.json
+[356/540] 356_MAC_F377.pdf  (elapsed 113.8m, ETA 59.3m)
+  handout_text length: 3365 chars
+  -> saved 356_MAC_F377.json
+[357/540] 357_MAC_F491.pdf  (elapsed 114.0m, ETA 58.9m)
+  handout_text length: 3117 chars
+  -> saved 357_MAC_F491.json
+[358/540] 358_MATH_F101.pdf  (elapsed 114.1m, ETA 58.5m)
+  handout_text length: 14702 chars
+  -> saved 358_MATH_F101.json
+[359/540] 359_MATH_F211.pdf  (elapsed 114.3m, ETA 58.1m)
+  handout_text length: 13470 chars
+  -> saved 359_MATH_F211.json
+[360/540] 360_MATH_F212.pdf  (elapsed 114.4m, ETA 57.7m)
+  handout_text length: 9138 chars
+  -> saved 360_MATH_F212.json
+[361/540] 361_MATH_F213.pdf  (elapsed 114.6m, ETA 57.3m)
+  handout_text length: 8371 chars
+  -> saved 361_MATH_F213.json
+[362/540] 362_MATH_F214.pdf  (elapsed 114.7m, ETA 56.9m)
+  handout_text length: 0 chars
+  -> saved 362_MATH_F214.json
+[363/540] 363_MATH_F215.pdf  (elapsed 114.8m, ETA 56.4m)
+  handout_text length: 8337 chars
+  -> saved 363_MATH_F215.json
+[364/540] 364_MATH_F266.pdf  (elapsed 114.9m, ETA 56.0m)
+  handout_text length: 3370 chars
+  -> saved 364_MATH_F266.json
+[365/540] 365_MATH_F311.pdf  (elapsed 115.1m, ETA 55.7m)
+  handout_text length: 6653 chars
+  -> saved 365_MATH_F311.json
+[366/540] 366_MATH_F312.pdf  (elapsed 115.3m, ETA 55.3m)
+  handout_text length: 7950 chars
+  -> saved 366_MATH_F312.json
+[367/540] 367_MATH_F313.pdf  (elapsed 115.4m, ETA 54.9m)
+  handout_text length: 13828 chars
+  -> saved 367_MATH_F313.json
+[368/540] 368_MATH_F366.pdf  (elapsed 115.6m, ETA 54.5m)
+  handout_text length: 3373 chars
+  -> saved 368_MATH_F366.json
+[369/540] 369_MATH_F376.pdf  (elapsed 115.8m, ETA 54.1m)
+  handout_text length: 3362 chars
+  -> saved 369_MATH_F376.json
+[370/540] 370_MATH_F377.pdf  (elapsed 116.0m, ETA 53.7m)
+  handout_text length: 3367 chars
+  -> saved 370_MATH_F377.json
+[371/540] 371_MATH_F421.pdf  (elapsed 116.2m, ETA 53.4m)
+  handout_text length: 8735 chars
+  -> saved 371_MATH_F421.json
+[372/540] 372_MATH_F428.pdf  (elapsed 116.3m, ETA 53.0m)
+  handout_text length: 13789 chars
+  -> saved 372_MATH_F428.json
+[373/540] 373_MATH_F432.pdf  (elapsed 116.5m, ETA 52.6m)
+  handout_text length: 12653 chars
+  -> saved 373_MATH_F432.json
+[374/540] 374_MATH_F491.pdf  (elapsed 116.7m, ETA 52.2m)
+  handout_text length: 3119 chars
+  -> saved 374_MATH_F491.json
+[375/540] 375_MATH_U101.pdf  (elapsed 116.8m, ETA 51.9m)
+  handout_text length: 14702 chars
+  -> saved 375_MATH_U101.json
+[376/540] 376_MATH_U110.pdf  (elapsed 117.0m, ETA 51.5m)
+  handout_text length: 12462 chars
+  -> saved 376_MATH_U110.json
+[377/540] 377_ME_F211.pdf  (elapsed 117.2m, ETA 51.1m)
+  handout_text length: 15524 chars
+  -> saved 377_ME_F211.json
+[378/540] 378_ME_F212.pdf  (elapsed 117.5m, ETA 50.8m)
+  handout_text length: 7788 chars
+  -> saved 378_ME_F212.json
+[379/540] 379_ME_F216.pdf  (elapsed 117.6m, ETA 50.4m)
+  handout_text length: 23507 chars
+  -> saved 379_ME_F216.json
+[380/540] 380_ME_F217.pdf  (elapsed 117.9m, ETA 50.1m)
+  handout_text length: 10575 chars
+  -> saved 380_ME_F217.json
+[381/540] 381_ME_F314.pdf  (elapsed 118.0m, ETA 49.7m)
+  handout_text length: 7929 chars
+  -> saved 381_ME_F314.json
+[382/540] 382_ME_F315.pdf  (elapsed 118.2m, ETA 49.3m)
+  handout_text length: 7799 chars
+  -> saved 382_ME_F315.json
+[383/540] 383_ME_F316.pdf  (elapsed 118.3m, ETA 48.9m)
+  handout_text length: 5671 chars
+  -> saved 383_ME_F316.json
+[384/540] 384_ME_F317.pdf  (elapsed 118.4m, ETA 48.6m)
+  handout_text length: 17756 chars
+  -> saved 384_ME_F317.json
+[385/540] 385_ME_F321.pdf  (elapsed 118.6m, ETA 48.2m)
+  handout_text length: 10646 chars
+  -> saved 385_ME_F321.json
+[386/540] 386_ME_F323.pdf  (elapsed 118.8m, ETA 47.8m)
+  handout_text length: 8716 chars
+  -> saved 386_ME_F323.json
+[387/540] 387_ME_F340.pdf  (elapsed 118.9m, ETA 47.5m)
+  handout_text length: 10246 chars
+  -> saved 387_ME_F340.json
+[388/540] 388_ME_F415.pdf  (elapsed 119.1m, ETA 47.1m)
+  handout_text length: 9464 chars
+  -> saved 388_ME_F415.json
+[389/540] 389_ME_F423.pdf  (elapsed 119.3m, ETA 46.7m)
+  handout_text length: 8200 chars
+  -> saved 389_ME_F423.json
+[390/540] 390_ME_F427.pdf  (elapsed 119.4m, ETA 46.4m)
+  handout_text length: 3874 chars
+  -> saved 390_ME_F427.json
+[391/540] 391_ME_F428.pdf  (elapsed 119.5m, ETA 46.0m)
+  handout_text length: 13317 chars
+  -> saved 391_ME_F428.json
+[392/540] 392_ME_F443.pdf  (elapsed 119.7m, ETA 45.6m)
+  handout_text length: 5391 chars
+  -> saved 392_ME_F443.json
+[393/540] 393_ME_F461.pdf  (elapsed 119.8m, ETA 45.2m)
+  handout_text length: 8366 chars
+  -> saved 393_ME_F461.json
+[394/540] 394_ME_G511.pdf  (elapsed 120.0m, ETA 44.9m)
+  handout_text length: 8091 chars
+  -> saved 394_ME_G511.json
+[395/540] 395_ME_G511.pdf  (elapsed 120.1m, ETA 44.5m)
+  handout_text length: 8091 chars
+  -> saved 395_ME_G511.json
+[396/540] 396_ME_G512.pdf  (elapsed 120.2m, ETA 44.1m)
+  handout_text length: 8541 chars
+  -> saved 396_ME_G512.json
+[397/540] 397_ME_G512.pdf  (elapsed 120.4m, ETA 43.8m)
+  handout_text length: 8541 chars
+  -> saved 397_ME_G512.json
+[398/540] 398_ME_G532.pdf  (elapsed 120.6m, ETA 43.4m)
+  handout_text length: 6461 chars
+  -> saved 398_ME_G532.json
+[399/540] 399_ME_G532.pdf  (elapsed 120.7m, ETA 43.1m)
+  handout_text length: 6461 chars
+  -> saved 399_ME_G532.json
+[400/540] 400_ME_G545.pdf  (elapsed 120.9m, ETA 42.7m)
+  handout_text length: 7353 chars
+  -> saved 400_ME_G545.json
+[401/540] 401_ME_G545.pdf  (elapsed 121.0m, ETA 42.3m)
+  handout_text length: 7353 chars
+  -> saved 401_ME_G545.json
+[402/540] 402_ME_G552.pdf  (elapsed 121.1m, ETA 42.0m)
+  handout_text length: 10233 chars
+  -> saved 402_ME_G552.json
+[403/540] 403_ME_G553.pdf  (elapsed 121.3m, ETA 41.6m)
+  handout_text length: 10848 chars
+  -> saved 403_ME_G553.json
+[404/540] 404_ME_G615.pdf  (elapsed 121.4m, ETA 41.3m)
+  handout_text length: 9505 chars
+  -> saved 404_ME_G615.json
+[405/540] 405_ME_G615.pdf  (elapsed 121.6m, ETA 40.9m)
+  handout_text length: 9505 chars
+  -> saved 405_ME_G615.json
+[406/540] 406_ME_G641.pdf  (elapsed 121.8m, ETA 40.6m)
+  handout_text length: 7064 chars
+  -> saved 406_ME_G641.json
+[407/540] 407_ME_G641.pdf  (elapsed 121.9m, ETA 40.2m)
+  handout_text length: 7064 chars
+  -> saved 407_ME_G641.json
+[408/540] 408_ME_U423.pdf  (elapsed 122.0m, ETA 39.9m)
+  handout_text length: 8250 chars
+  -> saved 408_ME_U423.json
+[409/540] 409_ME_U428.pdf  (elapsed 122.2m, ETA 39.5m)
+  handout_text length: 13317 chars
+  -> saved 409_ME_U428.json
+[410/540] 410_ME_U443.pdf  (elapsed 122.3m, ETA 39.2m)
+  handout_text length: 5391 chars
+  -> saved 410_ME_U443.json
+[411/540] 411_MEL_G623.pdf  (elapsed 122.4m, ETA 38.8m)
+  handout_text length: 9452 chars
+  -> saved 411_MEL_G623.json
+[412/540] 412_MEL_G623.pdf  (elapsed 122.6m, ETA 38.5m)
+  handout_text length: 9438 chars
+  -> saved 412_MEL_G623.json
+[413/540] 413_MEL_G624.pdf  (elapsed 122.8m, ETA 38.1m)
+  handout_text length: 9356 chars
+  -> saved 413_MEL_G624.json
+[414/540] 414_MEL_G624.pdf  (elapsed 122.9m, ETA 37.8m)
+  handout_text length: 9356 chars
+  -> saved 414_MEL_G624.json
+[415/540] 415_MEL_G625.pdf  (elapsed 123.0m, ETA 37.4m)
+  handout_text length: 11238 chars
+  -> saved 415_MEL_G625.json
+[416/540] 416_MEL_G625.pdf  (elapsed 123.1m, ETA 37.1m)
+  handout_text length: 11238 chars
+  -> saved 416_MEL_G625.json
+[417/540] 417_MEL_G627.pdf  (elapsed 123.3m, ETA 36.7m)
+  handout_text length: 8669 chars
+  -> saved 417_MEL_G627.json
+[418/540] 418_MEL_G627.pdf  (elapsed 123.4m, ETA 36.4m)
+  handout_text length: 8669 chars
+  -> saved 418_MEL_G627.json
+[419/540] 419_MEL_G628.pdf  (elapsed 123.6m, ETA 36.1m)
+  handout_text length: 8016 chars
+  -> saved 419_MEL_G628.json
+[420/540] 420_MEL_G631.pdf  (elapsed 123.7m, ETA 35.7m)
+  handout_text length: 8719 chars
+  -> saved 420_MEL_G631.json
+[421/540] 421_MEL_G631.pdf  (elapsed 123.9m, ETA 35.4m)
+  handout_text length: 8719 chars
+  -> saved 421_MEL_G631.json
+[422/540] 422_MEL_G643.pdf  (elapsed 124.0m, ETA 35.1m)
+  handout_text length: 12463 chars
+  -> saved 422_MEL_G643.json
+[423/540] 423_MEL_G643.pdf  (elapsed 124.2m, ETA 34.7m)
+  handout_text length: 12535 chars
+  -> saved 423_MEL_G643.json
+[424/540] 424_MF_F211.pdf  (elapsed 124.4m, ETA 34.4m)
+  handout_text length: 15524 chars
+  -> saved 424_MF_F211.json
+[425/540] 425_MF_F216.pdf  (elapsed 124.6m, ETA 34.1m)
+  handout_text length: 23507 chars
+  -> saved 425_MF_F216.json
+[426/540] 426_MF_F217.pdf  (elapsed 124.8m, ETA 33.8m)
+  handout_text length: 4883 chars
+  -> saved 426_MF_F217.json
+[427/540] 427_MF_F218.pdf  (elapsed 125.0m, ETA 33.4m)
+  handout_text length: 8129 chars
+  -> saved 427_MF_F218.json
+[428/540] 428_MF_F314.pdf  (elapsed 125.2m, ETA 33.1m)
+  handout_text length: 7929 chars
+  -> saved 428_MF_F314.json
+[429/540] 429_MF_F315.pdf  (elapsed 125.3m, ETA 32.8m)
+  handout_text length: 6059 chars
+  -> saved 429_MF_F315.json
+[430/540] 430_MF_F316.pdf  (elapsed 125.4m, ETA 32.4m)
+  handout_text length: 7605 chars
+  -> saved 430_MF_F316.json
+[431/540] 431_MF_F418.pdf  (elapsed 125.5m, ETA 32.1m)
+  handout_text length: 8464 chars
+  -> saved 431_MF_F418.json
+[432/540] 432_MF_F422.pdf  (elapsed 125.7m, ETA 31.8m)
+  handout_text length: 10680 chars
+  -> saved 432_MF_F422.json
+[433/540] 433_MGTS_U102.pdf  (elapsed 125.9m, ETA 31.5m)
+  handout_text length: 10975 chars
+  -> saved 433_MGTS_U102.json
+[434/540] 434_MPBA_G501.pdf  (elapsed 126.1m, ETA 31.2m)
+  handout_text length: 9196 chars
+  -> saved 434_MPBA_G501.json
+[435/540] 435_MPBA_G502.pdf  (elapsed 126.3m, ETA 30.8m)
+  handout_text length: 6320 chars
+  -> saved 435_MPBA_G502.json
+[436/540] 436_MPBA_G502.pdf  (elapsed 126.4m, ETA 30.5m)
+  handout_text length: 6320 chars
+  -> saved 436_MPBA_G502.json
+[437/540] 437_MPBA_G503.pdf  (elapsed 126.5m, ETA 30.2m)
+  handout_text length: 9469 chars
+  -> saved 437_MPBA_G503.json
+[438/540] 438_MPBA_G503.pdf  (elapsed 126.6m, ETA 29.9m)
+  handout_text length: 9469 chars
+  -> saved 438_MPBA_G503.json
+[439/540] 439_MPBA_G504.pdf  (elapsed 126.8m, ETA 29.5m)
+  handout_text length: 12318 chars
+  -> saved 439_MPBA_G504.json
+[440/540] 440_MPBA_G504.pdf  (elapsed 127.0m, ETA 29.2m)
+  handout_text length: 12318 chars
+  -> saved 440_MPBA_G504.json
+[441/540] 441_MPBA_G505.pdf  (elapsed 127.1m, ETA 28.9m)
+  handout_text length: 19112 chars
+  -> saved 441_MPBA_G505.json
+[442/540] 442_MPBA_G505.pdf  (elapsed 127.3m, ETA 28.6m)
+  handout_text length: 19112 chars
+  -> saved 442_MPBA_G505.json
+[443/540] 443_MPBA_G506.pdf  (elapsed 127.4m, ETA 28.3m)
+  handout_text length: 11507 chars
+  -> saved 443_MPBA_G506.json
+[444/540] 444_MPBA_G506.pdf  (elapsed 127.7m, ETA 28.0m)
+  handout_text length: 11507 chars
+  -> saved 444_MPBA_G506.json
+[445/540] 445_MPBA_G507.pdf  (elapsed 127.9m, ETA 27.6m)
+  handout_text length: 16732 chars
+  -> saved 445_MPBA_G507.json
+[446/540] 446_MPBA_G507.pdf  (elapsed 128.1m, ETA 27.4m)
+  handout_text length: 16732 chars
+  -> saved 446_MPBA_G507.json
+[447/540] 447_MPBA_G514.pdf  (elapsed 128.4m, ETA 27.1m)
+  handout_text length: 7681 chars
+  -> saved 447_MPBA_G514.json
+[448/540] 448_MPBA_G514.pdf  (elapsed 128.5m, ETA 26.7m)
+  handout_text length: 7681 chars
+  -> saved 448_MPBA_G514.json
+[449/540] 449_MPBA_G515.pdf  (elapsed 128.7m, ETA 26.4m)
+  handout_text length: 17436 chars
+  -> saved 449_MPBA_G515.json
+[450/540] 450_MPBA_G515.pdf  (elapsed 128.9m, ETA 26.1m)
+  handout_text length: 17436 chars
+  -> saved 450_MPBA_G515.json
+[451/540] 451_MPBA_G517.pdf  (elapsed 129.1m, ETA 25.8m)
+  handout_text length: 10660 chars
+  -> saved 451_MPBA_G517.json
+[452/540] 452_MPBA_G520.pdf  (elapsed 129.3m, ETA 25.5m)
+  handout_text length: 11779 chars
+  -> saved 452_MPBA_G520.json
+[453/540] 453_MPBA_G520.pdf  (elapsed 129.4m, ETA 25.2m)
+  handout_text length: 11779 chars
+  -> saved 453_MPBA_G520.json
+[454/540] 454_MPBA_G523.pdf  (elapsed 129.6m, ETA 24.9m)
+  handout_text length: 6735 chars
+  -> saved 454_MPBA_G523.json
+[455/540] 455_MPBA_G523.pdf  (elapsed 129.7m, ETA 24.6m)
+  handout_text length: 6735 chars
+  -> saved 455_MPBA_G523.json
+[456/540] 456_MPBA_G524.pdf  (elapsed 129.9m, ETA 24.3m)
+  handout_text length: 16240 chars
+  -> saved 456_MPBA_G524.json
+[457/540] 457_MPBA_G524.pdf  (elapsed 130.0m, ETA 24.0m)
+  handout_text length: 16240 chars
+  -> saved 457_MPBA_G524.json
+[458/540] 458_MPBA_G526.pdf  (elapsed 130.2m, ETA 23.6m)
+  handout_text length: 6676 chars
+  -> saved 458_MPBA_G526.json
+[459/540] 459_MPBA_G529.pdf  (elapsed 130.3m, ETA 23.3m)
+  handout_text length: 10448 chars
+  -> saved 459_MPBA_G529.json
+[460/540] 460_MPBA_G529.pdf  (elapsed 130.5m, ETA 23.0m)
+  handout_text length: 10448 chars
+  -> saved 460_MPBA_G529.json
+[461/540] 461_MPBA_G530.pdf  (elapsed 130.6m, ETA 22.7m)
+  handout_text length: 8786 chars
+  -> saved 461_MPBA_G530.json
+[462/540] 462_MPBA_G531.pdf  (elapsed 130.7m, ETA 22.4m)
+  handout_text length: 8653 chars
+  -> saved 462_MPBA_G531.json
+[463/540] 463_MPBA_G532.pdf  (elapsed 130.9m, ETA 22.1m)
+  handout_text length: 9742 chars
+  -> saved 463_MPBA_G532.json
+[464/540] 464_MPBA_G532.pdf  (elapsed 131.0m, ETA 21.8m)
+  handout_text length: 9742 chars
+  -> saved 464_MPBA_G532.json
+[465/540] 465_MPBA_G534.pdf  (elapsed 131.1m, ETA 21.5m)
+  handout_text length: 17579 chars
+  -> saved 465_MPBA_G534.json
+[466/540] 466_MPBA_G534.pdf  (elapsed 131.3m, ETA 21.2m)
+  handout_text length: 17579 chars
+  -> saved 466_MPBA_G534.json
+[467/540] 467_MSE_G515.pdf  (elapsed 131.5m, ETA 20.9m)
+  handout_text length: 10738 chars
+  -> saved 467_MSE_G515.json
+[468/540] 468_MSE_G515.pdf  (elapsed 131.6m, ETA 20.6m)
+  handout_text length: 10738 chars
+  -> saved 468_MSE_G515.json
+[469/540] 469_MSE_G521.pdf  (elapsed 131.8m, ETA 20.3m)
+  handout_text length: 14115 chars
+  -> saved 469_MSE_G521.json
+[470/540] 470_MSE_G521.pdf  (elapsed 131.9m, ETA 20.0m)
+  handout_text length: 14115 chars
+  -> saved 470_MSE_G521.json
+[471/540] 471_PHA_F211.pdf  (elapsed 132.0m, ETA 19.7m)
+  handout_text length: 10447 chars
+  -> saved 471_PHA_F211.json
+[472/540] 472_PHA_F242.pdf  (elapsed 132.2m, ETA 19.4m)
+  handout_text length: 13103 chars
+  -> saved 472_PHA_F242.json
+[473/540] 473_PHA_F311.pdf  (elapsed 132.4m, ETA 19.1m)
+  handout_text length: 9875 chars
+  -> saved 473_PHA_F311.json
+[474/540] 474_PHA_F312.pdf  (elapsed 132.6m, ETA 18.8m)
+  handout_text length: 16696 chars
+  -> saved 474_PHA_F312.json
+[475/540] 475_PHA_F313.pdf  (elapsed 132.8m, ETA 18.5m)
+  handout_text length: 12549 chars
+  -> saved 475_PHA_F313.json
+[476/540] 476_PHA_F315.pdf  (elapsed 133.0m, ETA 18.2m)
+  handout_text length: 15211 chars
+  -> saved 476_PHA_F315.json
+[477/540] 477_PHA_F413.pdf  (elapsed 133.2m, ETA 17.9m)
+  handout_text length: 7213 chars
+  -> saved 477_PHA_F413.json
+[478/540] 478_PHA_F415.pdf  (elapsed 133.3m, ETA 17.6m)
+  handout_text length: 9636 chars
+  -> saved 478_PHA_F415.json
+[479/540] 479_PHA_F419.pdf  (elapsed 133.5m, ETA 17.3m)
+  handout_text length: 7660 chars
+  -> saved 479_PHA_F419.json
+[480/540] 480_PHA_G532.pdf  (elapsed 133.7m, ETA 17.0m)
+  handout_text length: 9093 chars
+  -> saved 480_PHA_G532.json
+[481/540] 481_PHA_G534.pdf  (elapsed 133.8m, ETA 16.7m)
+  handout_text length: 7427 chars
+  -> saved 481_PHA_G534.json
+[482/540] 482_PHA_G534.pdf  (elapsed 134.0m, ETA 16.4m)
+  handout_text length: 7427 chars
+  -> saved 482_PHA_G534.json
+[483/540] 483_PHA_G537.pdf  (elapsed 134.1m, ETA 16.1m)
+  handout_text length: 12181 chars
+  -> saved 483_PHA_G537.json
+[484/540] 484_PHA_G538.pdf  (elapsed 134.3m, ETA 15.8m)
+  handout_text length: 8022 chars
+  -> saved 484_PHA_G538.json
+[485/540] 485_PHA_G538.pdf  (elapsed 134.4m, ETA 15.6m)
+  handout_text length: 8022 chars
+  -> saved 485_PHA_G538.json
+[486/540] 486_PHA_G540.pdf  (elapsed 134.5m, ETA 15.3m)
+  handout_text length: 12738 chars
+  -> saved 486_PHA_G540.json
+[487/540] 487_PHA_G540.pdf  (elapsed 134.6m, ETA 15.0m)
+  handout_text length: 12738 chars
+  -> saved 487_PHA_G540.json
+[488/540] 488_PHA_G541.pdf  (elapsed 134.8m, ETA 14.7m)
+  handout_text length: 10496 chars
+  -> saved 488_PHA_G541.json
+[489/540] 489_PHA_G541.pdf  (elapsed 135.0m, ETA 14.4m)
+  handout_text length: 10496 chars
+  -> saved 489_PHA_G541.json
+[490/540] 490_PHA_G542.pdf  (elapsed 135.1m, ETA 14.1m)
+  handout_text length: 11938 chars
+  -> saved 490_PHA_G542.json
+[491/540] 491_PHA_G543.pdf  (elapsed 135.3m, ETA 13.8m)
+  handout_text length: 5826 chars
+  -> saved 491_PHA_G543.json
+[492/540] 492_PHA_G543.pdf  (elapsed 135.4m, ETA 13.5m)
+  handout_text length: 5826 chars
+  -> saved 492_PHA_G543.json
+[493/540] 493_PHA_G612.pdf  (elapsed 135.5m, ETA 13.2m)
+  handout_text length: 8644 chars
+  -> saved 493_PHA_G612.json
+[494/540] 494_PHA_G612.pdf  (elapsed 135.6m, ETA 12.9m)
+  handout_text length: 8644 chars
+  -> saved 494_PHA_G612.json
+[495/540] 495_PHA_G613.pdf  (elapsed 135.8m, ETA 12.6m)
+  handout_text length: 8054 chars
+  -> saved 495_PHA_G613.json
+[496/540] 496_PHA_G613.pdf  (elapsed 135.9m, ETA 12.4m)
+  handout_text length: 8054 chars
+  -> saved 496_PHA_G613.json
+[497/540] 497_PHA_G616.pdf  (elapsed 136.1m, ETA 12.1m)
+  handout_text length: 13378 chars
+  -> saved 497_PHA_G616.json
+[498/540] 498_PHA_G617.pdf  (elapsed 136.2m, ETA 11.8m)
+  handout_text length: 11271 chars
+  -> saved 498_PHA_G617.json
+[499/540] 499_PHA_G618.pdf  (elapsed 136.4m, ETA 11.5m)
+  handout_text length: 8230 chars
+  -> saved 499_PHA_G618.json
+[500/540] 500_PHA_G618.pdf  (elapsed 136.5m, ETA 11.2m)
+  handout_text length: 8230 chars
+  -> saved 500_PHA_G618.json
+[501/540] 501_PHA_G619.pdf  (elapsed 136.7m, ETA 10.9m)
+  handout_text length: 10063 chars
+  -> saved 501_PHA_G619.json
+[502/540] 502_PHA_G619.pdf  (elapsed 136.8m, ETA 10.7m)
+  handout_text length: 10063 chars
+  -> saved 502_PHA_G619.json
+[503/540] 503_PHA_G623.pdf  (elapsed 137.0m, ETA 10.4m)
+  handout_text length: 7794 chars
+  -> saved 503_PHA_G623.json
+[504/540] 504_PHA_G623.pdf  (elapsed 137.1m, ETA 10.1m)
+  handout_text length: 7794 chars
+  -> saved 504_PHA_G623.json
+[505/540] 505_PHA_G624.pdf  (elapsed 137.2m, ETA 9.8m)
+  handout_text length: 8024 chars
+  -> saved 505_PHA_G624.json
+[506/540] 506_PHA_G624.pdf  (elapsed 137.3m, ETA 9.5m)
+  handout_text length: 8024 chars
+  -> saved 506_PHA_G624.json
+[507/540] 507_PHA_G625.pdf  (elapsed 137.5m, ETA 9.2m)
+  handout_text length: 8755 chars
+  -> saved 507_PHA_G625.json
+[508/540] 508_PHY_F211.pdf  (elapsed 137.6m, ETA 9.0m)
+  handout_text length: 14527 chars
+  -> saved 508_PHY_F211.json
+[509/540] 509_PHY_F212.pdf  (elapsed 137.8m, ETA 8.7m)
+  handout_text length: 5653 chars
+  -> saved 509_PHY_F212.json
+[510/540] 510_PHY_F213.pdf  (elapsed 137.9m, ETA 8.4m)
+  handout_text length: 11727 chars
+  -> saved 510_PHY_F213.json
+[511/540] 511_PHY_F214.pdf  (elapsed 138.1m, ETA 8.1m)
+  handout_text length: 8909 chars
+  -> saved 511_PHY_F214.json
+[512/540] 512_PHY_F311.pdf  (elapsed 138.2m, ETA 7.8m)
+  handout_text length: 6157 chars
+  -> saved 512_PHY_F311.json
+[513/540] 513_PHY_F312.pdf  (elapsed 138.4m, ETA 7.6m)
+  handout_text length: 23543 chars
+  -> saved 513_PHY_F312.json
+[514/540] 514_PHY_F313.pdf  (elapsed 138.6m, ETA 7.3m)
+  handout_text length: 7294 chars
+  -> saved 514_PHY_F313.json
+[515/540] 515_PHY_F318.pdf  (elapsed 138.7m, ETA 7.0m)
+  handout_text length: 6081 chars
+  -> saved 515_PHY_F318.json
+[516/540] 516_PHY_F413.pdf  (elapsed 138.8m, ETA 6.7m)
+  handout_text length: 20621 chars
+  -> saved 516_PHY_F413.json
+[517/540] 517_PHY_F416.pdf  (elapsed 139.0m, ETA 6.5m)
+  handout_text length: 7348 chars
+  -> saved 517_PHY_F416.json
+[518/540] 518_PHY_F422.pdf  (elapsed 139.1m, ETA 6.2m)
+  handout_text length: 9204 chars
+  -> saved 518_PHY_F422.json
+[519/540] 519_PHY_F426.pdf  (elapsed 139.3m, ETA 5.9m)
+  handout_text length: 8966 chars
+  -> saved 519_PHY_F426.json
+[520/540] 520_PHY_G541.pdf  (elapsed 139.4m, ETA 5.6m)
+  handout_text length: 9354 chars
+  -> saved 520_PHY_G541.json
+[521/540] 521_PHY_G541.pdf  (elapsed 139.5m, ETA 5.4m)
+  handout_text length: 9354 chars
+  -> saved 521_PHY_G541.json
+[522/540] 522_PHY_U101.pdf  (elapsed 139.6m, ETA 5.1m)
+  handout_text length: 16433 chars
+  -> saved 522_PHY_U101.json
+[523/540] 523_PHY_U102.pdf  (elapsed 139.8m, ETA 4.8m)
+  handout_text length: 8337 chars
+  -> saved 523_PHY_U102.json
+[524/540] 524_PHY_U110.pdf  (elapsed 139.9m, ETA 4.5m)
+  handout_text length: 4882 chars
+  -> saved 524_PHY_U110.json
+[525/540] 525_SAN_G511.pdf  (elapsed 140.0m, ETA 4.3m)
+  handout_text length: 12502 chars
+  -> saved 525_SAN_G511.json
+[526/540] 526_SAN_G511.pdf  (elapsed 140.2m, ETA 4.0m)
+  handout_text length: 12502 chars
+  -> saved 526_SAN_G511.json
+[527/540] 527_SCM_G511.pdf  (elapsed 140.3m, ETA 3.7m)
+  handout_text length: 12695 chars
+  -> saved 527_SCM_G511.json
+[528/540] 528_SCM_G511.pdf  (elapsed 140.5m, ETA 3.5m)
+  handout_text length: 12695 chars
+  -> saved 528_SCM_G511.json
+[529/540] 529_SCM_G513.pdf  (elapsed 140.6m, ETA 3.2m)
+  handout_text length: 20786 chars
+  -> saved 529_SCM_G513.json
+[530/540] 530_SCM_G514.pdf  (elapsed 140.8m, ETA 2.9m)
+  handout_text length: 20124 chars
+  -> saved 530_SCM_G514.json
+[531/540] 531_SCM_G515.pdf  (elapsed 141.0m, ETA 2.7m)
+  handout_text length: 18128 chars
+  -> saved 531_SCM_G515.json
+[532/540] 532_SCM_G515.pdf  (elapsed 141.2m, ETA 2.4m)
+  handout_text length: 18128 chars
+  -> saved 532_SCM_G515.json
+[533/540] 533_SNS_F211.pdf  (elapsed 141.4m, ETA 2.1m)
+  handout_text length: 13479 chars
+  -> saved 533_SNS_F211.json
+[534/540] 534_SNS_F214.pdf  (elapsed 141.6m, ETA 1.9m)
+  handout_text length: 9697 chars
+  -> saved 534_SNS_F214.json
+[535/540] 535_SNS_F242.pdf  (elapsed 141.7m, ETA 1.6m)
+  handout_text length: 11165 chars
+  -> saved 535_SNS_F242.json
+[536/540] 536_SS_G514.pdf  (elapsed 141.9m, ETA 1.3m)
+  handout_text length: 7440 chars
+  -> saved 536_SS_G514.json
+[537/540] 537_SS_G514.pdf  (elapsed 142.1m, ETA 1.1m)
+  handout_text length: 7440 chars
+  -> saved 537_SS_G514.json
+[538/540] 538_SS_G562.pdf  (elapsed 142.3m, ETA 0.8m)
+  handout_text length: 15424 chars
+  -> saved 538_SS_G562.json
+[539/540] 539_SS_G562.pdf  (elapsed 142.5m, ETA 0.5m)
+  handout_text length: 15424 chars
+  -> saved 539_SS_G562.json
+[540/540] 540_SW_E101.pdf  (elapsed 142.7m, ETA 0.3m)
+  handout_text length: 6115 chars
+  -> saved 540_SW_E101.json
+
+540/540 succeeded in 142.8 minutes.
