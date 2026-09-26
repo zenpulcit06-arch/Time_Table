@@ -5,7 +5,7 @@ import json
 import time
 import ollama
 
-# ---- Paths ----
+
 HANDOUTS_DIR = pathlib.Path("../data/handouts")
 OUTPUT_DIR = pathlib.Path("../data/output")
 FAILED_LOG = pathlib.Path("../data/failed_log.txt")
@@ -13,14 +13,11 @@ TOO_LONG_LOG = pathlib.Path("../data/too_long_for_local_llm.txt")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# ---- Config ----
-MAX_RETRIES = 3
-NUM_CTX = 16384  # was silently defaulting to something much smaller — this was the real bug
 
-# Safety net only now that num_ctx is fixed — your longest handout so far was
-# 17,869 chars and succeeded fine. This just catches a genuinely pathological
-# outlier (e.g. a broken extraction that duplicates content, or a handout with
-# a huge embedded table) rather than doing real work like before.
+MAX_RETRIES = 3
+NUM_CTX = 16384  
+
+
 MAX_HANDOUT_CHARS = 60000
 
 EXTRACTION_PROMPT = """You are extracting structured data from a university course handout. Return ONLY a single valid JSON object — no markdown code fences, no explanation before or after, no trailing commentary.
@@ -66,7 +63,7 @@ REQUIRED_KEYS = {
 
 
 def extract_pdf_text(pdf_path: pathlib.Path) -> str:
-    """Stage 1: PDF -> cleaned combined text."""
+    
     texts = []
     tables = []
     with pdfplumber.open(pdf_path) as pdf:
@@ -101,7 +98,7 @@ def extract_pdf_text(pdf_path: pathlib.Path) -> str:
 
 
 def call_llm(handout_text: str) -> str:
-    """Stage 2: text -> raw LLM response string."""
+    
     prompt = EXTRACTION_PROMPT.format(handout_text=handout_text)
     response = ollama.chat(
         model="qwen2.5:7b",
@@ -113,12 +110,12 @@ def call_llm(handout_text: str) -> str:
 
 
 def parse_response(raw_response: str) -> dict:
-    """Stage 3: raw string -> Python dict. Raises json.JSONDecodeError on invalid JSON."""
+    
     return json.loads(raw_response)
 
 
 def validate_schema(data: dict) -> list[str]:
-    """Stage 4: return a list of problems (empty list = valid)."""
+    
     problems = []
     missing = REQUIRED_KEYS - data.keys()
     if missing:
@@ -129,11 +126,7 @@ def validate_schema(data: dict) -> list[str]:
 
 
 def process_handout(pdf_path: pathlib.Path) -> dict:
-    """
-    Stages 1-4 with retry and a length-based safety-net skip.
-    Returns either a valid extracted dict, or a dict with a "_skip_reason" key
-    explaining why it wasn't extracted.
-    """
+   
     handout_text = extract_pdf_text(pdf_path)
     text_len = len(handout_text)
     print(f"  handout_text length: {text_len} chars")
@@ -214,7 +207,7 @@ def main():
 
 
 if __name__ == "__main__":
-    #main()
-    text = extract_pdf_text(pathlib.Path("../data/handouts/362_MATH_F214.pdf"))
-    print(repr(text[:500]))
-    print(len(text))
+    main()
+    # text = extract_pdf_text(pathlib.Path("../data/handouts/362_MATH_F214.pdf"))
+    # print(repr(text[:500]))
+    # print(len(text))
