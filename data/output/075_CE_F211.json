@@ -1,0 +1,53 @@
+{
+  "course_id": "CE F211",
+  "course_title": "Mechanics of Solids",
+  "credits": null,
+  "instructor_in_charge": "G MUTHUKUMAR (muthug@pilani.bits-pilani.ac.in, 1209-H)",
+  "evaluation_components": [
+    {
+      "component": "Tutorial 1",
+      "weightage_percent": 5,
+      "when": "August 17th, 2026",
+      "notes": null
+    },
+    {
+      "component": "Tutorial 2",
+      "weightage_percent": 5,
+      "when": "September 7th, 2026",
+      "notes": null
+    },
+    {
+      "component": "Tutorial 3",
+      "weightage_percent": 5,
+      "when": "September 21st, 2026",
+      "notes": null
+    },
+    {
+      "component": "Tutorial 4",
+      "weightage_percent": 5,
+      "when": "October 26th, 2026",
+      "notes": null
+    },
+    {
+      "component": "Tutorial 5",
+      "weightage_percent": 5,
+      "when": "November 16th, 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 35,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "<TEST_C>",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-Sem or comprehensive exam only.",
+  "extraction_notes": null
+}

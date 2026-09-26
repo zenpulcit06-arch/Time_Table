@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA G 534",
+  "course_title": "Separation and Structure Elucidation Techniques",
+  "credits": null,
+  "instructor_in_charge": "Prof. Paul Atish Tulshiram",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Continuous assessment",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Presentation [I & II]",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge. IN NO CASE THE MAKE-UP APPLICATION BE SLIPPED INSIDE THE CHAMBER OF THE INSTRUCTOR-IN-CHARGE. However, the decision of the Instructor-in-Charge in the above matter will be final.",
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "GS F221",
+  "course_title": "Business Communication",
+  "credits": null,
+  "instructor_in_charge": "SUSHILA SHEKHAWAT",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "10/10 FN1",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "15/12 FN",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Assignments (4)",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": "1)Professional Presentations 2)Group Discussions 3)Interviews 10% *Class participation and attendance"
+    }
+  ],
+  "attendance_policy": "Learning happens if you are present in the class. Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make Up- subject to prior permission.",
+  "extraction_notes": null
+}

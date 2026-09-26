@@ -1,0 +1,41 @@
+{
+  "course_id": "PHA F419",
+  "course_title": "Herbal Drug Technology",
+  "credits": null,
+  "instructor_in_charge": "Prof. Paul Atish Tulshiram",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 10,
+      "when": "2 weeks",
+      "notes": null
+    },
+    {
+      "component": "Seminar",
+      "weightage_percent": 10,
+      "when": "20 min",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge. IN NO CASE THE MAKE-UP APPLICATION BE SLIPPED INSIDE THE CHAMBER OF THE INSTRUCTOR-IN-CHARGE. However, the decision of the Instructor-in-Charge in the above matter will be final.",
+  "extraction_notes": null
+}

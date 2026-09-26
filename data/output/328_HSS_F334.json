@@ -1,0 +1,35 @@
+{
+  "course_id": "HSS F334",
+  "course_title": "SRIMAD BHAGAVAD GITA",
+  "credits": null,
+  "instructor_in_charge": "PROF. VINAY CHAMOLA",
+  "evaluation_components": [
+    {
+      "component": "Mid semester exam",
+      "weightage_percent": 35,
+      "when": "6/10/2026 FN1",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 15,
+      "when": "28th November 2026",
+      "notes": null
+    },
+    {
+      "component": "Google Form-based Exercises",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": "Three announced exercises will be conducted through Google Forms. The exercises will carry 10 marks in total, distributed as 2 marks (Exercise 1), 4 marks (Exercise 2), and 4 marks (Exercise 3)."
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "05/12/2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "For a foreseen absence in mid-semester test, comprehensive examination or quiz, the make-up request should be made personally to the Instructor-in-Charge, well ahead of the component. Reasons for unanticipated absence that qualify a student to apply for make-up include medical emergencies or personal exigencies only. In such an event, the student should contact the Instructor-in-Charge at the earliest.",
+  "extraction_notes": null
+}

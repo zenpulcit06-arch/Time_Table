@@ -1,0 +1,35 @@
+{
+  "course_id": "BIO G523",
+  "course_title": "Advanced & Applied Microbiology",
+  "credits": null,
+  "instructor_in_charge": "Prabhat Nath Jha (Email: prabhatjha@pilani.bits-pilani.ac.in, Room: 3277-V)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Sem",
+      "weightage_percent": 30,
+      "when": "05/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Quiz/Assignments*",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": "To be evaluated periodically"
+    },
+    {
+      "component": "Lab",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "03/12/ AN",
+      "notes": "Partly OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up decisions will be made on a case-by-case basis and only for genuine cases as determined by the team and validated by the appropriate body. No make-up for Lab component and Quizzes.",
+  "extraction_notes": null
+}

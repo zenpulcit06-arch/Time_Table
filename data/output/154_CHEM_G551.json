@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM G551",
+  "course_title": "Advanced Organic Chemistry",
+  "credits": null,
+  "instructor_in_charge": "INDRESH KUMAR",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "To be announced separately",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Assignments/quizzes",
+      "weightage_percent": 15,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Seminars/Literature search",
+      "weightage_percent": 15,
+      "when": "Continuous",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup would be considered only for genuine reasons. Make-up for continuous evaluation (assignments/quizzes) will be considered (for genuine cases) only if a student misses more than one component (assignments/quizzes).",
+  "extraction_notes": null
+}

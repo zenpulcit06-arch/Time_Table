@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA G625",
+  "course_title": "Cellular and Molecular Pharmacology",
+  "credits": null,
+  "instructor_in_charge": "Dr. Gaikwad Anil Bhanudas",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem Examination",
+      "weightage_percent": 30,
+      "when": "90 min",
+      "notes": "CB"
+    },
+    {
+      "component": "Continuous Assessment*",
+      "weightage_percent": 40,
+      "when": null,
+      "notes": "OB"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 30,
+      "when": "120min",
+      "notes": "CB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Generally, make-up will be considered for regular students only (80% attendance in lecture classes). It is solely dependent on the \u201cgenuineness\u201d of the circumstances. The make-up application should be personally given to instructor-in-charge.",
+  "extraction_notes": null
+}

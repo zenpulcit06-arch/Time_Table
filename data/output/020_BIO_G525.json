@@ -1,0 +1,41 @@
+{
+  "course_id": "BIO G525",
+  "course_title": "ENVIRONMENTAL BIOTECHNOLOGY AND WASTE MANAGEMENT",
+  "credits": null,
+  "instructor_in_charge": "B. Vani",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 25,
+      "when": "10/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Lab Assignment",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Quiz (several)",
+      "weightage_percent": 10,
+      "when": "20 Min",
+      "notes": null
+    },
+    {
+      "component": "Seminar",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "16/12 AN",
+      "notes": "CB + OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up except in case of hospitalization.",
+  "extraction_notes": null
+}

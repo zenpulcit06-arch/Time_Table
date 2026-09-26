@@ -1,0 +1,47 @@
+{
+  "course_id": "CHE G552",
+  "course_title": "Advanced Transport Phenomena | ATP",
+  "credits": null,
+  "instructor_in_charge": "SAIKAT BHATTACHARJEE",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester test",
+      "weightage_percent": 20,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Lecture Quiz (3 out of 4)",
+      "weightage_percent": 10,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Assignment (2)",
+      "weightage_percent": 20,
+      "when": "-",
+      "notes": null
+    },
+    {
+      "component": "Seminar presentation",
+      "weightage_percent": 10,
+      "when": "-",
+      "notes": null
+    },
+    {
+      "component": "Writing of a short review article on the topic chosen and discussed with the IC",
+      "weightage_percent": 10,
+      "when": "-",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted for genuine medical cases only. Proper justification from the warden of the respective bhavan, certificate from authenticated doctor, and from the in-campus medical center must accompany make-up application (only prescription or vouchers for medicines will not be sufficient). Prior permission of IC is compulsory. The student must refer to the procedure prescribed by AUGSD for applying for Make-up.",
+  "extraction_notes": null
+}

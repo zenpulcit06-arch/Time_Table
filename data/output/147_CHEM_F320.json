@@ -1,0 +1,29 @@
+{
+  "course_id": "CHEM F320",
+  "course_title": "Introductory Computational Chemistry Laboratory",
+  "credits": null,
+  "instructor_in_charge": "Prashant Uday Manohar (pumanohar@pilani.bits-pilani.ac.in; #3268-P)",
+  "evaluation_components": [
+    {
+      "component": "Laboratory practicals",
+      "weightage_percent": 75,
+      "when": "continuous",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester examination",
+      "weightage_percent": 10,
+      "when": "To be announced*",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive examination",
+      "weightage_percent": 15,
+      "when": "To be announced*",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Attendance is compulsory. Students must perform all the experiments and submit the records regularly. Due to operational reasons, there is only limited scope for offering make-up for any experiment. Make-ups may be considered only in exceptional circumstances.",
+  "makeup_policy": null,
+  "extraction_notes": null
+}

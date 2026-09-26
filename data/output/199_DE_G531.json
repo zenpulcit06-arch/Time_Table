@@ -1,0 +1,35 @@
+{
+  "course_id": "DE G531",
+  "course_title": "Product Design",
+  "credits": null,
+  "instructor_in_charge": "Radha Raman Mishra",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Examination",
+      "weightage_percent": 25,
+      "when": "10/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": null,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Project/Assignment",
+      "weightage_percent": 30,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "16/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be permitted only in genuine cases with prior permission. Other than medical reasons, prior permission of the IC is compulsory. No make-up for quizzes.",
+  "extraction_notes": null
+}

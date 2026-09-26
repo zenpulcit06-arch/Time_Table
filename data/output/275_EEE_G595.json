@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE G595",
+  "course_title": "NANO-ELECTRONICS AND NANO-PHOTONICS TECHNOLOGY",
+  "credits": null,
+  "instructor_in_charge": "V K CHAUBEY",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem Test",
+      "weightage_percent": 30,
+      "when": "05/10/26 AN2",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20,
+      "when": "CB",
+      "notes": null
+    },
+    {
+      "component": "Assignment/Seminar",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Compre",
+      "weightage_percent": 35,
+      "when": "03/12/26 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be give n on extremely genuine grounds only. Prior application should be made for seeking the make-up examination.",
+  "extraction_notes": null
+}

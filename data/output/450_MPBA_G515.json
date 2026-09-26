@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA G515",
+  "course_title": "PRESCRIPTIVE ANALYTICS WITH MATHEMATICAL PROGRAMMING",
+  "credits": null,
+  "instructor_in_charge": "PROF RAJESH MATAI",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 20,
+      "when": "10/10/2026 (AN2)",
+      "notes": null
+    },
+    {
+      "component": "Mini Case Discussions",
+      "weightage_percent": 18,
+      "when": "To be announced",
+      "notes": "Students have to participate in these mini case discussions. Anyone absent from class will get no credit in that case. Cases will be assigned time to time"
+    },
+    {
+      "component": "Quiz (One)",
+      "weightage_percent": 7,
+      "when": "Announced in class",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Mini Project",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": "Students will work in groups on any Prescriptive Analytics Problem. Formulate and solve it in Lingo/suitable software, present the findings in a presentation, and submit a report at semester's end. Students can use databases available in the Library to solve a problem in the Marketing, Finance, Operations, Logistics, Supply Chain, or Health Care domains, or in any domain of their interest."
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "16/12/2026 (AN)",
+      "notes": "Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-ups may be allowed only in genuine medical cases with prior permission of I/C. For Quiz and Mini Case discussions, no make-up will be given.",
+  "extraction_notes": null
+}

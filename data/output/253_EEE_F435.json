@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F435",
+  "course_title": "Digital Image Processing",
+  "credits": null,
+  "instructor_in_charge": "Pawan Kamalkishor Ajmera",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "Close book",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "Close Book",
+      "notes": null
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 15,
+      "when": "Open Book",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 15,
+      "when": "Open Book",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be given ONLY in extremely genuine cases; IC should be informed.",
+  "extraction_notes": null
+}

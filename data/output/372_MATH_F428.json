@@ -1,0 +1,41 @@
+{
+  "course_id": "MATH F428",
+  "course_title": "TIME SERIES ANALYSIS AND FORECASTING",
+  "credits": null,
+  "instructor_in_charge": "SUMANTA PASARI",
+  "evaluation_components": [
+    {
+      "component": "Mid-Sem Examination",
+      "weightage_percent": 25,
+      "when": "October 10, 2026",
+      "notes": null
+    },
+    {
+      "component": "Laboratory Components",
+      "weightage_percent": 15,
+      "when": "C o n t i n u o u s a s s e s sment",
+      "notes": null
+    },
+    {
+      "component": "Group Assignments (two)",
+      "weightage_percent": 10,
+      "when": "Will be announced later",
+      "notes": null
+    },
+    {
+      "component": "Quizzes (best three out of four)",
+      "weightage_percent": 15,
+      "when": "Announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "December 16, 2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up for midsem and comprehensive examination will be granted only in genuine cases. There is no make-up for other components. Students should follow proper guideline for applying make ups.",
+  "extraction_notes": null
+}

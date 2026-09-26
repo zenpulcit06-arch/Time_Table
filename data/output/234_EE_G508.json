@@ -1,0 +1,41 @@
+{
+  "course_id": "EE G508",
+  "course_title": "Urban Water Management",
+  "credits": null,
+  "instructor_in_charge": "Prof. Rallapalli Srinivas",
+  "evaluation_components": [
+    {
+      "component": "Class discussions/Assignments",
+      "weightage_percent": 10,
+      "when": "In class",
+      "notes": "In class, Open book"
+    },
+    {
+      "component": "Handson software usage in class",
+      "weightage_percent": 10,
+      "when": "In class",
+      "notes": "In class, Open book/Open-laptop"
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 20,
+      "when": "3 months",
+      "notes": "In class, Presentations and reports"
+    },
+    {
+      "component": "Mid Semester]/Software demonstration and problem solving in class",
+      "weightage_percent": 25,
+      "when": "90 min, 5/10 AN2",
+      "notes": "[Open/close notes]"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "180 min, 3/12 AN",
+      "notes": "[Open/close notes]"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Only in extreme medical emergency",
+  "extraction_notes": null
+}

@@ -1,0 +1,59 @@
+{
+  "course_id": "MAC F312",
+  "course_title": "Foundations of Data Science",
+  "credits": null,
+  "instructor_in_charge": "Prof. NILADRI CHATTERJEE (niladri.chatterjee@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Quiz-Q1 (Closed Book)",
+      "weightage_percent": 5,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz-Q2 (Closed Book)",
+      "weightage_percent": 5,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz-Q3 (Closed Book)",
+      "weightage_percent": 5,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz Best 2 of 3",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Lab Assignment",
+      "weightage_percent": 10,
+      "when": "Throughout Semester",
+      "notes": "TBA"
+    },
+    {
+      "component": "Self Study Report",
+      "weightage_percent": 20,
+      "when": "October 28, 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Exam (Closed Book)",
+      "weightage_percent": 25,
+      "when": "10 October FN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination (Closed Book)",
+      "weightage_percent": 35,
+      "when": "15 December FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No makeup will be given for the quizzes. Make-up for other components will be given only in genuine cases of absence as per institute rules. Prior permission from I/C is a must for makeup of any evaluation component.",
+  "extraction_notes": null
+}

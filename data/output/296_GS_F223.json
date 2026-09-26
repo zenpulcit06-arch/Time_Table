@@ -1,0 +1,35 @@
+{
+  "course_id": "GS F223",
+  "course_title": "Introduction to Mass Communication",
+  "credits": null,
+  "instructor_in_charge": "SUSHILA SHEKHAWAT",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "5/10 (FN1)",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "1/12(FN)",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Assignments (4)",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "Open book/Close book"
+    },
+    {
+      "component": "Class participation and attendance",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up is subject to prior permission.",
+  "extraction_notes": null
+}

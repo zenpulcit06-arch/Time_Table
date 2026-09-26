@@ -1,0 +1,29 @@
+{
+  "course_id": "BIO F421",
+  "course_title": "ENZYMOLOGY",
+  "credits": null,
+  "instructor_in_charge": "P. R. DEEPA (deepa@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "<TEST_C>",
+      "notes": "CB / OB"
+    },
+    {
+      "component": "Quiz(zes) / Assignment(s) / Mini-Project (including Presentation + Report)",
+      "weightage_percent": 30,
+      "when": "Announced/surprise",
+      "notes": "Details of Mini-Project will be discussed during class sessions\nCB / OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up may be granted only to genuine cases (hospitalization), subject to getting permission from IC. No make-up for Quiz/Assignments/Mini-projects under any circumstance.",
+  "extraction_notes": null
+}

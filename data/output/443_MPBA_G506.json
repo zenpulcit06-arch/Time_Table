@@ -1,0 +1,53 @@
+{
+  "course_id": "MPBA G506",
+  "course_title": "Data Management & Warehousing (DMW)",
+  "credits": 3,
+  "instructor_in_charge": "Prof. Abhishek Verma",
+  "evaluation_components": [
+    {
+      "component": "Pre mid-sem Quizzes",
+      "weightage_percent": 10,
+      "when": "TBA in Class",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 10,
+      "when": "TBA in Class",
+      "notes": null
+    },
+    {
+      "component": "Lab tests",
+      "weightage_percent": 10,
+      "when": "TBA in Class",
+      "notes": null
+    },
+    {
+      "component": "Mid-term exam",
+      "weightage_percent": 20,
+      "when": "9th October 2026 4:00 PM-5:30 PM",
+      "notes": null
+    },
+    {
+      "component": "In-class/lab Assignment",
+      "weightage_percent": 10,
+      "when": "Weekly once",
+      "notes": null
+    },
+    {
+      "component": "Post-MID Sem Quiz",
+      "weightage_percent": 10,
+      "when": "1st Week of November",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 30,
+      "when": "14th December 2026 2.00 PM-5.00 PM",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up would be allowed for any open-book components and Mid-Semester exam. For other components proper medical certification from the institute medical center clearly specifying you are unfit to write the test will be essential.",
+  "extraction_notes": null
+}

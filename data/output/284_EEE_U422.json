@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F 422",
+  "course_title": "Modern Control Systems",
+  "credits": null,
+  "instructor_in_charge": "Prof. Dheerendra Singh",
+  "evaluation_components": [
+    {
+      "component": "Midsem",
+      "weightage_percent": 25,
+      "when": "07/10 AN",
+      "notes": null
+    },
+    {
+      "component": "Compre",
+      "weightage_percent": 40,
+      "when": "08/12 FN",
+      "notes": null
+    },
+    {
+      "component": "Quizzes 1 & 2",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": "TBA indicates that the date has not been scheduled yet."
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "TBA indicates that the date has not been scheduled yet."
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted only to exceptional cases with very strong reasons.",
+  "extraction_notes": null
+}

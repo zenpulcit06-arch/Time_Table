@@ -1,0 +1,29 @@
+{
+  "course_id": "GS F224",
+  "course_title": "PRINT & AUDIO-VISUAL ADVERTISING",
+  "credits": null,
+  "instructor_in_charge": "SANGEETA SHARMA",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "7/10 AN-1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "10/12 FN",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 40,
+      "when": "To be announced in class",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior permission should be taken from the Instructor-in-charge Sangeeta Sharma",
+  "extraction_notes": null
+}

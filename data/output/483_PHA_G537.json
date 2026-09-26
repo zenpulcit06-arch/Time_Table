@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA G537",
+  "course_title": "PARENTERAL PRODUCT DEVELOPMENT",
+  "credits": null,
+  "instructor_in_charge": "ANIL JINDAL",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Test",
+      "weightage_percent": 30,
+      "when": "[90 min] As announced in timetable",
+      "notes": "[Open notes/Closed book]"
+    },
+    {
+      "component": "Quizzes/Seminars/Assignments",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 40,
+      "when": "[120 min] As announced in timetable",
+      "notes": "[Open notes/Closed book]"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "A student may apply for the makeup if he/she is not able to attend regular midsemester and comprehensive exams due to genuine exigencies. No makeup request will be accepted for quizzes and other continuous assessment component.",
+  "extraction_notes": null
+}

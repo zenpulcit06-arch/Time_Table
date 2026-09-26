@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F217",
+  "course_title": "Applied Thermodynamics",
+  "credits": null,
+  "instructor_in_charge": "Prof. Suvanjan Bhattacharyya",
+  "evaluation_components": [
+    {
+      "component": "Quizzes (Best 3 out of 4)",
+      "weightage_percent": 15,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester test",
+      "weightage_percent": 25,
+      "when": "07/10/2026",
+      "notes": null
+    },
+    {
+      "component": "Lab Report, Quiz and Lab Examination",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive test",
+      "weightage_percent": 35,
+      "when": "08/12/2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "It will be as per the institute rules. Only genuine cases will be considered. No makeup will be provided for the tutorial and lab quizzes.",
+  "extraction_notes": null
+}

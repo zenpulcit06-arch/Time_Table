@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA F312",
+  "course_title": "Medicinal Chemistry-I",
+  "credits": null,
+  "instructor_in_charge": "R. Mahesh",
+  "evaluation_components": [
+    {
+      "component": "Mid. Sem. Test $$$",
+      "weightage_percent": 25,
+      "when": "90 mins",
+      "notes": "Closed book, as announced by AUGSD/AGSRD"
+    },
+    {
+      "component": "Continuous Assessment of classroom participation and discussions and resulting surprize quiz(zes)#",
+      "weightage_percent": 10,
+      "when": "continuous",
+      "notes": "As announced in class by I/C, Open Book & or Closed Book"
+    },
+    {
+      "component": "Continuous Assessment (lab. component) , Lab. comprehensive examination components ( Practicum experience)**",
+      "weightage_percent": 30,
+      "when": "continuous",
+      "notes": "As announced in class by I/C, Open Book & or Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "180 mins.",
+      "notes": "As announced by AUGSD/AGSRD, Open Book & or Closed Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge.",
+  "extraction_notes": null
+}

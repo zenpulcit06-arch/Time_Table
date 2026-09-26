@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F222",
+  "course_title": "Discrete Structures for Computer Science",
+  "credits": null,
+  "instructor_in_charge": "L. Rajya Lakshmi",
+  "evaluation_components": [
+    {
+      "component": "Midsem Test",
+      "weightage_percent": 25,
+      "when": "05/10/2026 (AN1)",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 30,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "3/12/2026 (FN)",
+      "notes": "Partly Open"
+    },
+    {
+      "component": "Participation linked assessments",
+      "weightage_percent": 10,
+      "when": "Lectures:6, Tutorials:4",
+      "notes": "Closed book"
+    }
+  ],
+  "attendance_policy": "Students are expected to attend all the classes & tutorials, and take part in at least 50% of the participation linked assessments, in both lecture as well as tutorials.",
+  "makeup_policy": "Make-ups are generally considered only for medical emergencies leading to hospitalization (or a personal emergency of similar nature). For a foreseen absence, make-up request should be made personally by meeting the Instructor-in-Charge. Reasons for unanticipated absence that qualify one for make-up include medical or similar personal emergencies only. In such cases, the Instructor-in-Charge must be informed either by email or telephone, at the earliest. Please note that there would be no exclusive makeup for a quiz. There would be one common makeup for all the three quizzes, towards the end of the semester. The decision by the Instructor-in-Charge regarding granting makeups shall be final.",
+  "extraction_notes": null
+}

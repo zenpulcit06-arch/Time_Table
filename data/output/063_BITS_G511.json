@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS G511",
+  "course_title": "Advanced Project",
+  "credits": null,
+  "instructor_in_charge": "Associate Dean, AGSRD",
+  "evaluation_components": [
+    {
+      "component": "Research Plan",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "Contains Format, Objectives, Literature survey and Presentation"
+    },
+    {
+      "component": "Development related Report",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "Includes Report (5+5) Viva/presentation (5+5)"
+    },
+    {
+      "component": "Research related Day-to-day observation",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": "Includes Reports (10 + 20) Seminar/presentation/viva (10 +10)"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

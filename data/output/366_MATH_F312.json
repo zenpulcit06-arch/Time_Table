@@ -1,0 +1,35 @@
+{
+  "course_id": "MATH F312",
+  "course_title": "Ordinary Differential Equations",
+  "credits": null,
+  "instructor_in_charge": "BALRAM DUBEY, Email: bdubey@pilani.bits-pilani.ac.in, Chamber No: 6067-B",
+  "evaluation_components": [
+    {
+      "component": "Midsem Test",
+      "weightage_percent": 35,
+      "when": "As announced in Time OB Table",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 18,
+      "when": "Announced/unannounced CB/OB",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 2,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "As announced in CB Time Table",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Prior permission is needed for makeup. Makeup will be given only in a very genuine case. No makeup will be granted in Quizzes/Assignment component.",
+  "extraction_notes": null
+}

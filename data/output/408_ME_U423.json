@@ -1,0 +1,35 @@
+{
+  "course_id": "ME U423",
+  "course_title": "Micro Fluidics And Its Applications",
+  "credits": null,
+  "instructor_in_charge": "Prof. A R Harikrishnan",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester exam",
+      "weightage_percent": 30,
+      "when": "10/10/2025",
+      "notes": "90 min. Closed book"
+    },
+    {
+      "component": "Minor projects*",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": "Continuous Open book"
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "Will be announced in class Open book"
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 35,
+      "when": "13/12/2025",
+      "notes": "3 hrs. Partially closed and partially open book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "It will be as per the institute rules. Only genuine cases will be considered.",
+  "extraction_notes": null
+}

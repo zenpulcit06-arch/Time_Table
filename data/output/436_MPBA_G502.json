@@ -1,0 +1,29 @@
+{
+  "course_id": "MPBA G502",
+  "course_title": "Financial Statement Analysis and Reporting",
+  "credits": null,
+  "instructor_in_charge": "Prof. Saurabh Chadha",
+  "evaluation_components": [
+    {
+      "component": "Quizzes and Assignment",
+      "weightage_percent": 40,
+      "when": "Will be Announced",
+      "notes": null
+    },
+    {
+      "component": "Mid Sem Exam",
+      "weightage_percent": 20,
+      "when": "10/10/2026 FN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "15/12/2026 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

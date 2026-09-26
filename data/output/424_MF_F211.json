@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F211/MF F211",
+  "course_title": "Mechanics of Solids",
+  "credits": null,
+  "instructor_in_charge": "Prof. Sharad Shrivastava",
+  "evaluation_components": [
+    {
+      "component": "MID SEM",
+      "weightage_percent": 30,
+      "when": "10/10 AN",
+      "notes": null
+    },
+    {
+      "component": "TUTORIAL",
+      "weightage_percent": 20,
+      "when": "Will be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Surprise test in Tutorial",
+      "weightage_percent": 10,
+      "when": "Surprise",
+      "notes": null
+    },
+    {
+      "component": "Compre. Exam.",
+      "weightage_percent": 40,
+      "when": "16/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes, tutorials, and practical sessions and to participate in all evaluation components. A 10% weight is assigned to assessment linked to attendance and participation. To this end, a small surprise quiz will be conducted in the tutorial class. The scores in surprise quizzes linked to attendance and participation will be considered in the final score. This score will be considered only for students with a minimum attendance of 50% in the lecture and tutorial classes separately. For students with attendance less than 50% in either the lecture or tutorial class, zero marks will be assigned, irrespective of the scores in the surprise quizzes attempted.",
+  "makeup_policy": "Make-up request for mid-semester examination is to be submitted 7 days before the exam (or within 72 hrs in case of medical emergency). For comprehensive examination the request is to be made to AUGSD as per its guidelines. It is mandatory to submit the necessary supporting documents (such as: listed below) along with make-up request: o Letter of invitation/selection for a national/international event where the applicant is representing BITS Pilani. o Proof of hospitalization, medical certificate, prescription, medicine purchase bill , etc. The decision of granting make-up to the applicant is taken mutually by the team of course instructors and would be final in all such matters. There is no makeup for the tutorial and quiz. Make-up in mid sem and compre exams only will be granted only to genuine cases.",
+  "extraction_notes": null
+}

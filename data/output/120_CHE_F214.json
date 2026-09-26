@@ -1,0 +1,35 @@
+{
+  "course_id": "CHE F214",
+  "course_title": "Engineering Chemistry",
+  "credits": null,
+  "instructor_in_charge": "Prof. Krishna Etika",
+  "evaluation_components": [
+    {
+      "component": "Class Tests",
+      "weightage_percent": 30,
+      "when": "announced at least five days in advance",
+      "notes": null
+    },
+    {
+      "component": "Mid Examination",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "AI Based Term Project",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": "It is expected that each student must attend all lectures and tutorials and participate in all the evaluative components.",
+  "makeup_policy": "The granting of a makeup exam is a privilege and not a right! Make-up will be granted for genuine medical emergencies after thorough verification of provided documents. Merely submitting a prescription by a doctor recommending bed rest is not sufficient without diagnostic tests corroborating the doctor\u2019s advice. The doctor must issue a certificate on their official letter head stating the reasons for prescribing bed rest backed by relevant diagnostic confirmations. In case of out of campus medical consultation, the CMO of BITS Medical Center must certify the authenticity of your document and issue you a certificate on their official letter head. Except for emergency situations, prior permission of IC is compulsory. No makeup will be granted for evaluative components with a buffer.",
+  "extraction_notes": null
+}

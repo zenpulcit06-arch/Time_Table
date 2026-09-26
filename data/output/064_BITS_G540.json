@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS G540",
+  "course_title": "Research Practice",
+  "credits": null,
+  "instructor_in_charge": "Associate Dean, AGSRD",
+  "evaluation_components": [
+    {
+      "component": "Research Proposal",
+      "weightage_percent": 25,
+      "when": "To be announced",
+      "notes": "Weightage explicitly given as 25%, but the exact evaluation criteria and when it is due are not specified in the handout."
+    },
+    {
+      "component": "Development related Activities",
+      "weightage_percent": 25,
+      "when": "To be announced",
+      "notes": "Weightage explicitly given as 25%, but the exact evaluation criteria and when it is due are not specified in the handout."
+    },
+    {
+      "component": "Research related activities",
+      "weightage_percent": 50,
+      "when": "To be announced",
+      "notes": "Weightage explicitly given as 50%, but the exact evaluation criteria and when it is due are not specified in the handout."
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

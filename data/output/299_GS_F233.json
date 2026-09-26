@@ -1,0 +1,35 @@
+{
+  "course_id": "GS F233",
+  "course_title": "Public Policy",
+  "credits": null,
+  "instructor_in_charge": "Prof. Natasha Hazarika",
+  "evaluation_components": [
+    {
+      "component": "Class discussions (Linked to attendance)",
+      "weightage_percent": 5,
+      "when": "In class Every class",
+      "notes": null
+    },
+    {
+      "component": "Mid Sem Exam",
+      "weightage_percent": 30,
+      "when": "08/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Assignment / Test",
+      "weightage_percent": 30,
+      "when": "To be Announced",
+      "notes": "To be announced"
+    },
+    {
+      "component": "Compre. Exam.",
+      "weightage_percent": 35,
+      "when": "01/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

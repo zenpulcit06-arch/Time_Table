@@ -1,0 +1,41 @@
+{
+  "course_id": "SCM G515",
+  "course_title": "Management Accounting",
+  "credits": null,
+  "instructor_in_charge": "PAVAN KUMAR PENUMAKALA (Hyderabad Campus) : SRIKANTA ROUTROY (Pilani Campus)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "8/10 2:00-3:30 PM",
+      "notes": null
+    },
+    {
+      "component": "Article Presentations",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Case Study",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Class surprise quizzes (n-2) and practical evaluation",
+      "weightage_percent": 10,
+      "when": "In class hour",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "10/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted ONLY in genuine cases with prior permission. The request application for make-up test must be reached to the Instructor-in-charge before commencement of the scheduled test (documentary proof is essential).",
+  "extraction_notes": null
+}

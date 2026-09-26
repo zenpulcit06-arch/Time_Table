@@ -1,0 +1,47 @@
+{
+  "course_id": "MPBA G521/BITS F455",
+  "course_title": "Analytics for Supply Chain",
+  "credits": null,
+  "instructor_in_charge": "Dr Satyendra Kumar Sharma",
+  "evaluation_components": [
+    {
+      "component": "Case study participation",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Course Project",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Class participation",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-Up Test/Exam will be conducted only at selected exam centres on the dates to be announced later.",
+  "extraction_notes": null
+}

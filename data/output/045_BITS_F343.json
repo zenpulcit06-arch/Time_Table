@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F343",
+  "course_title": "FUZZY LOGIC & APPLICATIONS",
+  "credits": null,
+  "instructor_in_charge": "CHANDRA SHEKHAR",
+  "evaluation_components": [
+    {
+      "component": "Assignment/Presentation",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Announced Quizzes",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 30,
+      "when": "5/10/26 FN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "11/12/26 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

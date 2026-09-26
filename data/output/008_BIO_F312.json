@@ -1,0 +1,35 @@
+{
+  "course_id": "BIO F312",
+  "course_title": "Plant Physiology",
+  "credits": null,
+  "instructor_in_charge": "JITENDRA PANWAR (jpanwar@pilani.bits-pilani.ac.in; Room: 3277X)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "07/10; AN1",
+      "notes": null
+    },
+    {
+      "component": "Quizzes / Assignments",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Practical Assignments",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 45,
+      "when": "10/12; FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up decisions will be made on a case-by-case basis and only genuine cases as determined by the Departmental team will be considered. No make-up for Quizzes and Practical Assignments.",
+  "extraction_notes": null
+}

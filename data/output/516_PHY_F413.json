@@ -1,0 +1,35 @@
+{
+  "course_id": "PHY F413",
+  "course_title": "Particle Physics",
+  "credits": null,
+  "instructor_in_charge": "Rishikesh Vaidya",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Tutorials tests",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Project with Viva voce",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Genuine cases of illness with convincing evidence and documents.",
+  "extraction_notes": null
+}

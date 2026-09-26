@@ -1,0 +1,29 @@
+{
+  "course_id": "ECON F413",
+  "course_title": "FINANCIAL ENGINEERING",
+  "credits": null,
+  "instructor_in_charge": "Prof. Aditya Sharma",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Assignments / Labs / Quizzes",
+      "weightage_percent": 30,
+      "when": "TBD",
+      "notes": "Continuous"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be given only on genuine cases and on prior approval.",
+  "extraction_notes": null
+}

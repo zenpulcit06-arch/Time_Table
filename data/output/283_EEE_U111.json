@@ -1,0 +1,47 @@
+{
+  "course_id": "EEE U111",
+  "course_title": "ELECTRICAL SCIENCES",
+  "credits": null,
+  "instructor_in_charge": "ABHIJIT ASATI (abhijit_asati@pilani.bits-pilani.ac.in, 2220-Q)",
+  "evaluation_components": [
+    {
+      "component": "Class participation*",
+      "weightage_percent": 5,
+      "when": "During lecture Hour",
+      "notes": null
+    },
+    {
+      "component": "Tutorial - Quizzes",
+      "weightage_percent": 15,
+      "when": "During Tutorial Hour",
+      "notes": null
+    },
+    {
+      "component": "Lab Regularity",
+      "weightage_percent": 20,
+      "when": "During Lab Hour",
+      "notes": null
+    },
+    {
+      "component": "Lab Comprehensive Evaluation",
+      "weightage_percent": 10,
+      "when": "During Lab Comprehensive Exam",
+      "notes": null
+    },
+    {
+      "component": "Mid-Sem. Exam",
+      "weightage_percent": 20,
+      "when": "9/10/2026 (AN2)",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 30,
+      "when": "14/12/2026 (AN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for mid semester or comprehensive exam only.",
+  "extraction_notes": null
+}

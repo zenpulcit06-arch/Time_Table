@@ -1,0 +1,35 @@
+{
+  "course_id": "ECON F417/FIN F413",
+  "course_title": "RISK MANAGEMENT AND INSURANCE",
+  "credits": null,
+  "instructor_in_charge": "N V M RAO",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "05/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Surprise Tests/ Home Assignments/",
+      "weightage_percent": null,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Class Participation/ Project Report",
+      "weightage_percent": 10,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "03/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Class Participation and Attendance is important. The student\u2019s success in this class will be dependent upon their participation and the amount and quality of effort expended. Students are expected to have read basic class materials for every session and to be able to lead discussions and/or answer questions based on the readings. Students will be held responsible for material covered in class. Class participation will be assessed occasionally and at the instructor\u2019s discretion. Attendance may be taken randomly and small in-class assignments may be used to measure participation.",
+  "makeup_policy": "Make-up exams may be given only on genuine grounds and at the discretion of the instructor. Permission to take a make-up exam will depend upon the particular circumstances. Prior permission of I/C has to be obtained to get make-up. Strictly, no makeup exams for quizzes/surprise class tests. Exam and quiz ground rules (additional ground rules may be announced at a later date).",
+  "extraction_notes": null
+}

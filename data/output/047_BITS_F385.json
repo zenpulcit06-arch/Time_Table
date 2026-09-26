@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F385",
+  "course_title": "Introduction to Gender Studies",
+  "credits": null,
+  "instructor_in_charge": "Dr. Madhurima Das",
+  "evaluation_components": [
+    {
+      "component": "Assignment 1",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Assignment 2",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-Sem or comprehensive exam only.",
+  "extraction_notes": null
+}

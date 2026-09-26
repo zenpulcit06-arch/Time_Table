@@ -1,0 +1,29 @@
+{
+  "course_id": "MAC F314",
+  "course_title": "Mathematical Modelling",
+  "credits": null,
+  "instructor_in_charge": "DHIRAJ KUMAR DAS (6020 O, dhiraj.das@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 35,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightag_percent": 45,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Quiz + seminar* (Continuous assessment)",
+      "weightage_percent": 20,
+      "when": "To be announced by the instructor",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "(i) In midsem and comprehensive exam, make-up will be given ONLY if the case is very genuine, and prior approval must be obtained from the IC. (ii) No makeup will be given for continuous assessment components.",
+  "extraction_notes": null
+}

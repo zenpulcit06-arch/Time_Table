@@ -1,0 +1,35 @@
+{
+  "course_id": "CHE G554",
+  "course_title": "COMPUTATIONAL FLUID DYNAMICS",
+  "credits": null,
+  "instructor_in_charge": "SAIKAT BHATTACHARJEE",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "90 Min.",
+      "notes": null
+    },
+    {
+      "component": "Final Project",
+      "weightage_percent": 15,
+      "when": "2 to 3 weeks",
+      "notes": "To be announced in the class (Take home)"
+    },
+    {
+      "component": "Case Studies /Simulations/Assignments/lecture tests (4)",
+      "weightage_percent": 20,
+      "when": "continuous",
+      "notes": "Take Home"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "180 Min.",
+      "notes": "CB&OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for Mid Semester and Comprehensive exams will be granted only in case of illness justified with a medical certificate from BITS CMO. An only medical prescription will NOT be considered. There is no make-up for any class evaluative (Class testing/ class project). Any make-up request without prior permission will not even be considered.",
+  "extraction_notes": null
+}

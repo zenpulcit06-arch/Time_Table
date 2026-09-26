@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F411",
+  "course_title": "Internet of Things",
+  "credits": null,
+  "instructor_in_charge": "Prof. Vinay Chamola",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "Please refer timetable",
+      "notes": null
+    },
+    {
+      "component": "Lab Test",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Project ( Prototype implementation )",
+      "weightage_percent": 15,
+      "when": "Will be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "Please refer timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up without prior permission",
+  "extraction_notes": null
+}

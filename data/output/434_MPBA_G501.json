@@ -1,0 +1,47 @@
+{
+  "course_id": "MPBA G501",
+  "course_title": "Managerial Economics",
+  "credits": null,
+  "instructor_in_charge": "Leela Rani",
+  "evaluation_components": [
+    {
+      "component": "Mid semester test",
+      "weightage_percent": 25,
+      "when": "10/10/25",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Case studies (2/3)",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": "Open book"
+    },
+    {
+      "component": "Excel based ex. (1)",
+      "weightage_percent": 5,
+      "when": "TBA",
+      "notes": "Open book"
+    },
+    {
+      "component": "Announced Quiz",
+      "weightage_percent": 7,
+      "when": "TBA",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Project: poster & viva",
+      "weightage_percent": 8,
+      "when": "TBA",
+      "notes": "Open book; Viva \u2013 CB"
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 35,
+      "when": "16/12/25",
+      "notes": "Partly Closed book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Only in case of self-medical urgency (with prior permission)",
+  "extraction_notes": null
+}

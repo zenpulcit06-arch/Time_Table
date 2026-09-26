@@ -1,0 +1,47 @@
+{
+  "course_id": "HSS F346",
+  "course_title": "INTERNATIONALRELATIONS",
+  "credits": null,
+  "instructor_in_charge": "Dr. VeenaR",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "08/10/2025",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "09/12/2025",
+      "notes": null
+    },
+    {
+      "component": "Self-Study Assignment (SSA) First Draft",
+      "weightage_percent": 10,
+      "when": "16/09/2025 11:59 P.M.",
+      "notes": null
+    },
+    {
+      "component": "SSA Final Draft",
+      "weightage_percent": 10,
+      "when": "11/11/2025 11:59 P.M.",
+      "notes": null
+    },
+    {
+      "component": "SSA Presentation",
+      "weightage_percent": 5,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Attendance and Participation",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": "As per the guideline",
+  "makeup_policy": "As per the AUGSD guidelines",
+  "extraction_notes": null
+}

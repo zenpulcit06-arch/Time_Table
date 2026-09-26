@@ -1,0 +1,41 @@
+{
+  "course_id": "CS F425",
+  "course_title": "Deep Learning",
+  "credits": null,
+  "instructor_in_charge": "Dr. Bharat Richhariya [IC] [bharat.richhariya@pilani.bits-pilani.ac.in] : Ghufran Alam Siddiqui (RS) [p20230434@pilani.bits-pilani.ac.in]",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "07/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Term Project",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Lab assessment",
+      "weightage_percent": 10,
+      "when": "Weekly",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "8/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up: To be granted only in case of serious illness or emergency. Please see AUGSD guidelines. Make-up in Lab component: No makeup will be given. Make-up in Quiz component: No makeup will be given.",
+  "extraction_notes": null
+}

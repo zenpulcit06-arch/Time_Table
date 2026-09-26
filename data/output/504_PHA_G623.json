@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA G623",
+  "course_title": "Pharmaceutical Applications of Polymers and Biopolymers",
+  "credits": null,
+  "instructor_in_charge": "Aniruddha Roy",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Continuous Assessment",
+      "weightage_percent": 30,
+      "when": "During semester",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

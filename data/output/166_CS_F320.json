@@ -1,0 +1,41 @@
+{
+  "course_id": "CS F320",
+  "course_title": "Foundations of Data Science",
+  "credits": null,
+  "instructor_in_charge": "NAVNEET GOYAL (goel@)",
+  "evaluation_components": [
+    {
+      "component": "Midsem Test (Closed Book)",
+      "weightage_percent": 30,
+      "when": "09/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Assignments (02)*",
+      "weightage_percent": null,
+      "when": null,
+      "notes": "First Assignment will be uploaded in the first week of September and the second assignment immediately after Midsem. Assignment-based questions will be there in midsem (up to 5%/10 marks - based on assignment 1) and Comprehensive examination (up to 10%/20 marks - based on assignment 2)."
+    },
+    {
+      "component": "Evaluatory Labs. (best 08 out of 10)",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "25/09 F9 (Class Hour)",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam (partly open)",
+      "weightage_percent": 40,
+      "when": "13/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "To be granted only in case of serious illness or emergency.",
+  "extraction_notes": null
+}

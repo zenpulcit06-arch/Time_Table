@@ -1,0 +1,41 @@
+{
+  "course_id": "BITS F482/ECON F414",
+  "course_title": "Creating and Leading Entrepreneurial Organization",
+  "credits": null,
+  "instructor_in_charge": "JYOTI",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 30,
+      "when": "08/10 AN1",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Surprise Quizzes",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "Close Book (1 quiz will be considered in buffer)"
+    },
+    {
+      "component": "Assignments/Exercises",
+      "weightage_percent": 5,
+      "when": "To be announced in the class",
+      "notes": "1 assignment will be considered in buffer."
+    },
+    {
+      "component": "Business Plan Preparation and Presentation",
+      "weightage_percent": 15,
+      "when": "To be announced in the class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 30,
+      "when": "12/12 FN",
+      "notes": "Partially Close and Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up exam will be given to only genuine cases that to with prior permission.",
+  "extraction_notes": null
+}

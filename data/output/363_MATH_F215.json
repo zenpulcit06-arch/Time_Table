@@ -1,0 +1,29 @@
+{
+  "course_id": "MATH F215",
+  "course_title": "ALGEBRA I",
+  "credits": null,
+  "instructor_in_charge": "RAHUL KUMAR (kumar.rahul@pilani.bits-pilani.ac.in, 6067G)",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Exam",
+      "weightage_percent": 35,
+      "when": "As per Timetable",
+      "notes": null
+    },
+    {
+      "component": "Continuous Evaluation (Quizzes)",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 45,
+      "when": "As per Timetable",
+      "notes": "Closed/Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up for the mid-semester/comprehensive examination will be given to genuine cases with prior permission only. Quizzes will not have any make-ups. No requests for make-make-up will be entertained.",
+  "extraction_notes": null
+}

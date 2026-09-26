@@ -1,0 +1,29 @@
+{
+  "course_id": "BIO G532",
+  "course_title": "BIOSTATISTICS & BIOMODELING",
+  "credits": null,
+  "instructor_in_charge": "SUSHMITA BASU",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "Closed Book",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "Closed Book/ Open Book",
+      "notes": null
+    },
+    {
+      "component": "Practice based Laboratory Component/ Quizzes/ Assignments",
+      "weightage_percent": 40,
+      "when": "Distributed through- out the semester",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be given only in case of hospitalization cases and under emergency conditions for which all documents need to be provided. It is expected that students shall avoid misuse of this feature. The decision of IC/ Course Instructor will be final.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "CHE F415",
+  "course_title": "MOLECULAR AND STATISTICAL THERMODYNAMICS",
+  "credits": null,
+  "instructor_in_charge": "MOHIT GARG",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 30,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Group Projects and Presentation",
+      "weightage_percent": 20,
+      "when": "In-Class & Take-home (10-15 min per group)",
+      "notes": null
+    },
+    {
+      "component": "Surprise Tests",
+      "weightage_percent": 10,
+      "when": "Best 2 out of 4, 30 min each",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "There is no marks for attendance. Attending classes would certainly make difference in learning & marks would reflect the same.",
+  "makeup_policy": "Make-up request for the mid-semester examination is to be submitted 7 days in advance of the exam (or within 72 hrs. in case of medical emergency). For comprehensive examination the request is often made to AUGSD. There is no makeup for the project presentations. However, students can mutually change the dates with permission from I/C.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "ME G552",
+  "course_title": "Industrial Robotics and Controls",
+  "credits": null,
+  "instructor_in_charge": "Dr. Yogesh Singh (yogesh.singh@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Lab Practicals/Hands-On Experiments",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Case Studies",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 20,
+      "when": "90 min(s)",
+      "notes": "As announced in the timetable (Open Book)"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "180 min(s)",
+      "notes": "As announced in the timetable (Open Book and/or partly Software Based (MATLAB, Python, Robot Software, etc.))"
+    }
+  ],
+  "attendance_policy": "Attendance is not mandatory. However, students are strongly encouraged to attend lectures, actively engage in class discussions, and benefit from the learning experience.",
+  "makeup_policy": "Make-up will be granted only in genuine cases with prior permission as per the institute's rules.",
+  "extraction_notes": null
+}

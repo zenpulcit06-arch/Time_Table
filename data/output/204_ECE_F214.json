@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F214/INSTR F214/ECE F214/SNS F242",
+  "course_title": "ELECTRONIC DEVICES",
+  "credits": null,
+  "instructor_in_charge": "NAVNEET GUPTA (ngupta@pilani.bits-pilani.ac.in) (Chamber Bo.: 2210-H)",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem Test",
+      "weightage_percent": 30,
+      "when": "05/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20,
+      "when": "Tutorial hour",
+      "notes": "Each quiz will be of 15 marks. Total 6 quizzes will be conducted out of which best 4 will be considered for grading. 50% quizzes will be surprise."
+    },
+    {
+      "component": "Class Participation",
+      "weightage_percent": null,
+      "when": "Lecture hour",
+      "notes": "This component evaluates student engagement during lecture hours. This is also linked with the attendance in the lecture class."
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 40,
+      "when": "03/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up for mid-sem and comprehensive examination will be considered ONLY in genuine cases ((accompanied by proof). (NOTE: no make-up will be given for quizzes and class participation).",
+  "extraction_notes": null
+}

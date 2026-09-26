@@ -1,0 +1,29 @@
+{
+  "course_id": "BIO F421",
+  "course_title": "ENZYMOLOGY",
+  "credits": null,
+  "instructor_in_charge": "P. R. DEEPA",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightag_percent": 30,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightag_percent": 40,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Quiz(zes) / Assignment(s) / Mini-Project (including Presentation + Report)",
+      "weightag_percent": 30,
+      "when": "Announced/surprise",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Regular attendance and active participation in class will be monitored and recorded. Absenting from classes without prior permission, lack of punctuality in reporting to class, non-submission of evaluative reports/assignments as per the scheduled timeline, can all impact Grades during evaluation.",
+  "makeup_policy": "Make-up may be granted only to genuine cases (hospitalization), subject to getting permission from IC. No make-up for Quiz/Assignments/Mini-projects under any circumstance.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F467 / BITS U467",
+  "course_title": "BIOETHICS AND BIOSAFETY",
+  "credits": null,
+  "instructor_in_charge": "R. MAHESH",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "90 mins As announced by AUGSD/AGSRD",
+      "notes": null
+    },
+    {
+      "component": "Continuous Assessment of classroom participation and discussions and resulting surprize quiz(zes)",
+      "weightage_percent": 10,
+      "when": "continuous As announced in class by I/C",
+      "notes": null
+    },
+    {
+      "component": "Assignments, seminars, practical reports, case studies, field study, data collection and analysis, Lab. data study. (practicum experience)",
+      "weightage_percent": 25,
+      "when": "continuous As announced in class by I/C",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "180 mins. Minimum As announced by AUGSD/AGSRD",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Attendance is equally important which may be directly / indirectly related to grading.",
+  "makeup_policy": "Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in- Charge. In no case the make-up letter be slipped inside the chamber of the Instructor-In-Charge or intimation sent after the evaluative (applicable only for mid-sem. test and comprehensive examination). The decision of the Instructor- in-Charge in these aspects will be final. No messaging or mails will be entertained as students being residential on campus, can met the I/C of the course, in terms of any difficulty.",
+  "extraction_notes": null
+}

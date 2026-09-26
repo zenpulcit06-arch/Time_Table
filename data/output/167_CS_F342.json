@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F342",
+  "course_title": "COMPUTER ARCHITECTURE",
+  "credits": null,
+  "instructor_in_charge": "VIRENDRA SINGH SHEKHAWAT",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 30,
+      "when": "7-10-2026 (AN1)",
+      "notes": null
+    },
+    {
+      "component": "Lab Participation",
+      "weightage_percent": 3,
+      "when": "NA",
+      "notes": null
+    },
+    {
+      "component": "Lab Exam",
+      "weightage_percent": 22,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 45,
+      "when": "10-12-2026 (FN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "In genuine cases, on a case-by-case basis, makeup shall be allowed. Prior permission from the instructor-In-charge is a must.",
+  "extraction_notes": null
+}

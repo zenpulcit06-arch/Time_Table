@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F317",
+  "course_title": "Reinforcement Learning",
+  "credits": null,
+  "instructor_in_charge": "Dr. Prashant Trivedi",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Sem",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Course Project (with final presentation and viva)",
+      "weightage_percent": 35,
+      "when": "Details will be announced during the lecture sessions.",
+      "notes": null
+    },
+    {
+      "component": "Assignment/Quiz",
+      "weightage_percent": 10,
+      "when": "Quizzes will be taken during the lecture hours. Details will be announced in the class.",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "13/12/2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Compulsory in first week only.",
+  "makeup_policy": "The make-up policy will be in accordance with the AUGSD guidelines.",
+  "extraction_notes": null
+}

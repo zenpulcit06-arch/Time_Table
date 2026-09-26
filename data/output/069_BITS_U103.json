@@ -1,0 +1,41 @@
+{
+  "course_id": "BITS U103",
+  "course_title": "Engineering Design & Prototyping",
+  "credits": null,
+  "instructor_in_charge": "GEETA BHATT",
+  "evaluation_components": [
+    {
+      "component": "Attendance-associated discussion- Workshop",
+      "weightage_percent": 6,
+      "when": "Workshop (all non-evaluative sessions)",
+      "notes": null
+    },
+    {
+      "component": "Lab Assignments (Evaluatives)",
+      "weightage_percent": 23.33,
+      "when": "As per the dates announced by IC in the Lab (workshop/IPC)",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 17.33,
+      "when": "Two design review meetings",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester test (On prototyping)",
+      "weightage_percent": 20,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 33.33,
+      "when": "1. Written exam (on prototyping) 2. Computer-based test (on Design portion)",
+      "notes": "Written exam details will be communicated. Computer test will be on date announced by AUGSD as per the schedule sent by IC."
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all the classes and participate in all the evaluation components.",
+  "makeup_policy": "No make-up exams will be conducted for lab-based evaluation. Make-up requests for tests (Before mid-semester/ comprehensive examination) must be submitted at least one day before the exam date on the AUGSD portal only.",
+  "extraction_notes": null
+}

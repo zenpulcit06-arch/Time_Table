@@ -1,0 +1,41 @@
+{
+  "course_id": "EEE G622",
+  "course_title": "Advanced Digital Communication",
+  "credits": null,
+  "instructor_in_charge": "Dr. Sharda Tripathi",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "05-10-2026 FN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "11-12-2026 AN",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": "Spread Across Semester",
+      "notes": null
+    },
+    {
+      "component": "Regular lab assignments",
+      "weightage_percent": 15,
+      "when": "Spread Across Semester",
+      "notes": null
+    },
+    {
+      "component": "Research Seminars / Research Project",
+      "weightage_percent": 15,
+      "when": "Spread Across Semester",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be given for Quizzes and Lab evaluatives. However, for other components, make-up will be allowed ONLY in genuine cases. In such cases students must produce enough proof or must have taken the prior permission from the IC.",
+  "extraction_notes": null
+}

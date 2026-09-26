@@ -1,0 +1,35 @@
+{
+  "course_id": "SCM G514",
+  "course_title": "Logistics and Procurement",
+  "credits": null,
+  "instructor_in_charge": "AMIT KUMAR JAIN",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "08/10 AN2",
+      "notes": "Close Book (CB)"
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "To be announced in class",
+      "notes": "Close Book (CB), Best 2 of 3"
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 30,
+      "when": "To be announced in class",
+      "notes": "Open Book (OB)"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "12/12 AN",
+      "notes": "Close Book (CB) + Open Book (OB)"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up will be permitted only for genuine cases with prior permission. For the Quiz and Project, no make-ups will be granted.",
+  "extraction_notes": null
+}

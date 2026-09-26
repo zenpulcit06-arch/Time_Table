@@ -1,0 +1,41 @@
+{
+  "course_id": "Soft Switching Converter Technologies",
+  "course_title": "EEE G554",
+  "credits": null,
+  "instructor_in_charge": "Rajneesh Kumar",
+  "evaluation_components": [
+    {
+      "component": "Quiz (2 No)",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Simulation Assignments",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Literature Survey and Seminar",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid-Sem",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "NA",
+  "makeup_policy": "As per the institute guidelines",
+  "extraction_notes": null
+}

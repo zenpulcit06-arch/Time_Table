@@ -1,0 +1,35 @@
+{
+  "course_id": "CHE F212",
+  "course_title": "Fluid Mechanics",
+  "credits": null,
+  "instructor_in_charge": "DR PRATIK N SHETH",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "Oct 7, 2026 FN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "Dec 8, 2026 FN",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Tests",
+      "weightage_percent": 20,
+      "when": "During the tutorial class hour",
+      "notes": "All tutorial tests would be announced, and all assignments would be surprise-based. Best 6 tut marks out of 7 will be considered."
+    },
+    {
+      "component": "Assignment/Class Activity",
+      "weightage_percent": 10,
+      "when": "During lecture or tutorial hours",
+      "notes": "Best X assignment marks out of (X+1) will be considered. Based on the analysis of case-study/design/experiment/video/story (individual/group)."
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup is granted only for genuine cases with valid justification and prior permission of the Instructor-in-charge. There is no makeup for the tutorial test or quiz.",
+  "extraction_notes": null
+}

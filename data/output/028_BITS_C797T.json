@@ -1,0 +1,23 @@
+{
+  "course_id": "BITS C797T",
+  "course_title": "Ph.D. SEMINAR",
+  "credits": null,
+  "instructor_in_charge": "Associate Dean, AGSRD",
+  "evaluation_components": [
+    {
+      "component": "Seminar-1",
+      "weightage_percent": 50,
+      "when": "8th week of the semester/ 4th week of summer term",
+      "notes": null
+    },
+    {
+      "component": "Seminar-2",
+      "weightage_percent": 50,
+      "when": "Last week of class work in the semester/term",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

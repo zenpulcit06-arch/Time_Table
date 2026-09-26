@@ -1,0 +1,29 @@
+{
+  "course_id": "MAC F213",
+  "course_title": "Discrete Mathematics",
+  "credits": null,
+  "instructor_in_charge": "DIVYUM SHARMA",
+  "evaluation_components": [
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20,
+      "when": "05/10 AN2 or, as announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester",
+      "weightage_percent": 35,
+      "when": "05/10 AN2 or, as announced by AUGSD",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "03/12 AN or, as announced by AUGSD",
+      "notes": "Open book/Closed book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and appear in all evaluative components.",
+  "makeup_policy": "Make-up formid-semesterandcomprehensiveexamswillbegivenonlyforverygenuinecases,andpriorpermissionmustbeobtainedfromIC.No makeup will be given for quizzes under any circumstances whatsoever.",
+  "extraction_notes": null
+}

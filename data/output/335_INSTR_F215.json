@@ -1,0 +1,47 @@
+{
+  "course_id": "EEE / ECE / INSTR / CS F342",
+  "course_title": "Digital Design",
+  "credits": null,
+  "instructor_in_charge": "Saurabh Gandhi (IC)",
+  "evaluation_components": [
+    {
+      "component": "Midsemester exam",
+      "weightage_percent": 50,
+      "when": "See tentative schedule above",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 60,
+      "when": "See tentative schedule above",
+      "notes": null
+    },
+    {
+      "component": "Quizzes (best 2 / 3)",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Lab exam$",
+      "weightage_percent": 32.35,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Class participation%",
+      "weightage_percent": 29.03,
+      "when": "All classes",
+      "notes": null
+    },
+    {
+      "component": "Lab performance#",
+      "weightage_percent": 9.23,
+      "when": "All labs",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be granted to extremely genuine cases only (like hospitalization, etc.), provided the IC has been informed.",
+  "extraction_notes": null
+}

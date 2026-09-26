@@ -1,0 +1,29 @@
+{
+  "course_id": "GS F342",
+  "course_title": "Computer-Mediated Communication",
+  "credits": null,
+  "instructor_in_charge": "Virendra Singh Nirban",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Test",
+      "weightage_percent": 40,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. Criterion for NC: [20% of the average of the top three performers or 30% of the median, whichever is lower.]",
+  "makeup_policy": "No make-up for the tutorials. If the student cannot appear for the Regular Test/Examination due to genuine exigencies, the student must refer to the procedure for applying for a Make-up Examination.",
+  "extraction_notes": null
+}

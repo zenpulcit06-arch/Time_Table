@@ -1,0 +1,47 @@
+{
+  "course_id": "HSS F 223",
+  "course_title": "Appreciation of Indian Music",
+  "credits": null,
+  "instructor_in_charge": "Dr. Hricha Rashmi",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem - Open Book",
+      "weightage_percent": 25,
+      "when": "05/10/2026 - FN1",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "To be announced in the class",
+      "notes": null
+    },
+    {
+      "component": "Practical Test -Open Book",
+      "weightage_percent": 20,
+      "when": "To be announced in the class",
+      "notes": null
+    },
+    {
+      "component": "Home Assignment",
+      "weightage_percent": null,
+      "when": "To be announced in the class",
+      "notes": null
+    },
+    {
+      "component": "Compre- Written",
+      "weightage_percent": 15,
+      "when": "11/12/2026 FN",
+      "notes": null
+    },
+    {
+      "component": "Compre-Practical",
+      "weightage_percent": 20,
+      "when": "11/12/2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

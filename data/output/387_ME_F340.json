@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F340",
+  "course_title": "Introduction to Sport Engineering",
+  "credits": null,
+  "instructor_in_charge": "M. S. Dasgupta",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Hands-on session*",
+      "weightage_percent": 15,
+      "when": "Tentatively, weekly one Hands-on session will be conducted. Attendance and performance in 4 best marks in hands-on sessions will be counted towards evaluation.",
+      "notes": null
+    },
+    {
+      "component": "Individual project",
+      "weightage_percent": 15,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "CB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No Make-up is permissible in Hands-on session (evaluated or non-evaluated). Make-up request for Mid Semester / Comprehensive examination must accompany appropriate supporting medical / exigency documents.",
+  "extraction_notes": null
+}

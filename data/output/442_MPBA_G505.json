@@ -1,0 +1,35 @@
+{
+  "course_id": "MPBA G505",
+  "course_title": "Statistics & Basic Econometrics",
+  "credits": null,
+  "instructor_in_charge": "Udayan Chanda, Daitri Tiwary",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Quiz",
+      "weightage_percent": 26.67,
+      "when": "80 OB minutes",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Quiz",
+      "weightage_percent": 33.33,
+      "when": "180 CB minutes",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 13.33,
+      "when": "40 OB",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 13.33,
+      "when": "40 CB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

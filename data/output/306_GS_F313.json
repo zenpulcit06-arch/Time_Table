@@ -1,0 +1,41 @@
+{
+  "course_id": "GS F313",
+  "course_title": "Marxian Thought",
+  "credits": null,
+  "instructor_in_charge": "Dr. Paul Mathew",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10/2026 FN1",
+      "notes": null
+    },
+    {
+      "component": "In Class Assignment",
+      "weightage_percent": 20,
+      "when": "Declared in Advance",
+      "notes": null
+    },
+    {
+      "component": "Surprise Quiz",
+      "weightage_percent": 5,
+      "when": "Declared in Class",
+      "notes": null
+    },
+    {
+      "component": "Surprise Quiz",
+      "weightage_percent": 5,
+      "when": "Declared in Class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "05/12/2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Permitted at the discretion of the instructor-in-charge, and only in emergencies or significant unforeseen circumstances.",
+  "extraction_notes": null
+}

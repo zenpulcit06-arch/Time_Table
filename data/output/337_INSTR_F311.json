@@ -1,0 +1,35 @@
+{
+  "course_id": "INSTR F311",
+  "course_title": "Electronic Instruments and Instrumentation Technology",
+  "credits": null,
+  "instructor_in_charge": "Sujan Yenuganti",
+  "evaluation_components": [
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "---------",
+      "notes": "Date & Time is not specified."
+    },
+    {
+      "component": "Mid-Semester exam",
+      "weightage_percent": 25,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Lab component",
+      "weightage_percent": 25,
+      "when": "-----",
+      "notes": "Date & Time is not specified."
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be given on extremely genuine grounds only. An application should be made in advance to request the make-up examination.",
+  "extraction_notes": null
+}

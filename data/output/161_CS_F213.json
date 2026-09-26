@@ -1,0 +1,41 @@
+{
+  "course_id": "CS F213 / MAC F212",
+  "course_title": "Object Oriented Programming",
+  "credits": null,
+  "instructor_in_charge": "Dr. Pratik Narang",
+  "evaluation_components": [
+    {
+      "component": "Quizzes",
+      "weightage_percent": 7.5,
+      "when": "TBA",
+      "notes": "TBA"
+    },
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 25,
+      "when": "As per the time table",
+      "notes": null
+    },
+    {
+      "component": "Lab Test",
+      "weightage_percent": 25,
+      "when": "November 2nd/3rd week",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "As per the time table",
+      "notes": "TBA"
+    },
+    {
+      "component": "Weekly Labs",
+      "weightage_percent": 7.5,
+      "when": "Weekly",
+      "notes": "Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected and encouraged to attend all lectures and participate in all evaluation components. However, we do not have any marks for attendance in lectures.",
+  "makeup_policy": "Make-up will be granted only in case of exceptional cases such as hospitalization.",
+  "extraction_notes": null
+}

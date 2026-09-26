@@ -1,0 +1,35 @@
+{
+  "course_id": "CE G565",
+  "course_title": "Transportation Planning",
+  "credits": null,
+  "instructor_in_charge": "Dr. Durgesh Vikram (Email: durgesh.vikram@pilani.bits-pilani.ac.in, Chamber number: 1211 C)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "Refer to the timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "Refer to the timetable",
+      "notes": null
+    },
+    {
+      "component": "Quiz/Assignment",
+      "weightage_percent": 20,
+      "when": "Spread over the semester",
+      "notes": "Open/Closed Book"
+    },
+    {
+      "component": "Term paper",
+      "weightage_percent": 20,
+      "when": "Spread over the semester",
+      "notes": "Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

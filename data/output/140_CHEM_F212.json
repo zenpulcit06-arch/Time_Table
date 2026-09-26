@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM F212",
+  "course_title": "Organic Chemistry I",
+  "credits": null,
+  "instructor_in_charge": "PARITOSH SHUKLA",
+  "evaluation_components": [
+    {
+      "component": "Quiz/Assignment",
+      "weightage_percent": 24,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Attendance Linked Evaluation",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 26,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "As a part of attendance linked evaluation, 2 quizzes (1 before midsem & 1 after midsem) will be held, which will account for 10% weightage. These quizzes will be considered for students with attendance \uf0b3 50%",
+  "makeup_policy": "Make-up only in genuine emergency/unavoidable cases such as medical admission in hospital or participation in an event to represent the Institute. No make-up to attend marriages or other social functions.",
+  "extraction_notes": null
+}

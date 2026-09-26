@@ -1,0 +1,29 @@
+{
+  "course_id": "ME F316",
+  "course_title": "MANUFACTURING MANAGEMENT",
+  "credits": null,
+  "instructor_in_charge": "GIRISH KANT GARG",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "8/10 FN1",
+      "notes": "90 Min. Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "1/12 FN",
+      "notes": "180 Min. Closed Book"
+    },
+    {
+      "component": "Tutorials and Quiz",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": "20 + 10 Tutorial Class Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up (Mid sem and Compre exam) will be granted only to genuine cases with prior permission.",
+  "extraction_notes": null
+}

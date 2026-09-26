@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM F213",
+  "course_title": "Physical Chemistry-II",
+  "credits": null,
+  "instructor_in_charge": "Prof. Avik Kumar Pati",
+  "evaluation_components": [
+    {
+      "component": "Continuous Evaluation-Type I (Quiz)",
+      "weightage_percent": 20,
+      "when": "To Be Announced",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Continuous Evaluation \u2013Type II (Quiz)",
+      "weightage_percent": 10,
+      "when": "To Be Announced",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per the AUGSD timetable",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per the AUGSD timetable",
+      "notes": "Partially Closed and Partially Open Book\u03b1"
+    }
+  ],
+  "attendance_policy": "A total of THREE quizzes (each of 10 marks) will be conducted under continuous evaluation. Best TWO will be considered for final evaluation (i.e., ONE buffer). This Type-II quiz marks (10%) will be considered for final grading only if the student maintains a minimum of 50% attendance. This requirement applies to students with ID numbers 2024B2XXXX and 2025B2XXXX.",
+  "makeup_policy": "Make-up will be considered for genuine cases as per the Institute rules against an application by the student with proper documents. See Part I for details.",
+  "extraction_notes": null
+}

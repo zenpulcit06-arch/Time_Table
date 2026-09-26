@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA G618",
+  "course_title": "Retrosynthetic Analysis",
+  "credits": null,
+  "instructor_in_charge": "Dr. Sandeep Sundriyal",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "10/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "16/12 AN",
+      "notes": null
+    },
+    {
+      "component": "Continuous assessment (test/assignment)",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Generally, make-up is not given as a routine. It is solely dependent on the 'genuineness' of the circumstance under which a student fails to appear in a scheduled evaluation component. However, the make-up application should be personally given to Instructor-in-Charge and not slipped into the chamber of the instructor-in-Charge.",
+  "extraction_notes": null
+}

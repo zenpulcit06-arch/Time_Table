@@ -1,0 +1,29 @@
+{
+  "course_id": "MPBA G532",
+  "course_title": "Financial Modelling and Valuation",
+  "credits": null,
+  "instructor_in_charge": "Prof. Saurabh Chadha (Dept. of Management)",
+  "evaluation_components": [
+    {
+      "component": "Mid-term Exam",
+      "weightage_percent": 20,
+      "when": "07/10/26 FN2",
+      "notes": null
+    },
+    {
+      "component": "Quizzes and Assignment",
+      "weightage_percent": 40,
+      "when": "Announce basis",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "08/12/26 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

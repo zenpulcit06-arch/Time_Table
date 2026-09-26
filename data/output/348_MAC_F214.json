@@ -1,0 +1,29 @@
+{
+  "course_id": "MATH F214/MAC F214",
+  "course_title": "Elementary Real Analysis",
+  "credits": null,
+  "instructor_in_charge": "Sangita Yadav (sangita.yadav@pilani.bits-pilani.ac.in, 6067K)",
+  "evaluation_components": [
+    {
+      "component": "Continuous Evaluation",
+      "weightage_percent": 21,
+      "when": "TBA",
+      "notes": "4 announced quizzes each of 7% weightage. The score of the best three quizzes will be considered for grading. Closed Book"
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 34,
+      "when": "As announced by AUGSD",
+      "notes": "Duration 90 Min. Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "As announced by AUGSD",
+      "notes": "Duration 180 Min. Open/Closed Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up for mid-semester test and comprehensive exam will be granted only in genuine cases. There is no makeup for the quizzes under any circumstances.",
+  "extraction_notes": "Source PDF had no embedded text layer (image-only); this record was entered manually from a visual read of the source document rather than extracted by the pipeline."
+}

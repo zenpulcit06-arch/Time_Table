@@ -1,0 +1,29 @@
+{
+  "course_id": "CHEM G553",
+  "course_title": "Advanced Physical Chemistry",
+  "credits": null,
+  "instructor_in_charge": "Satyajit Patra",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10 FN2",
+      "notes": null
+    },
+    {
+      "component": "Assignments + Seminars+ Term Papers",
+      "weightage_percent": 30,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "05/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "PHAF413",
+  "course_title": "Pharmaceutical Management and Quality Control",
+  "credits": null,
+  "instructor_in_charge": "Prof. Murali M Pandey",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester test",
+      "weightage_percent": 25,
+      "when": "CB",
+      "notes": null
+    },
+    {
+      "component": "Continues assessment",
+      "weightage_percent": 30,
+      "when": "Throughout the semester",
+      "notes": "CB/OB"
+    },
+    {
+      "component": "Compre Exam",
+      "weightage_percent": 45,
+      "when": "CB/OB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "The facility of make-up test is meant to take care of \u2018Unavoidable\u2019 absence from scheduled tests. It is expected that the students will \u201ckeep faith\u201d in this respect and avoid any misuse of this useful feature. There will be no insistence on \u201ccertificate\u201d but all decisions to give or not to give make-up tests would be based on mutual faith and trust.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "DE G513",
+  "course_title": "TRIBOLOGY",
+  "credits": null,
+  "instructor_in_charge": "Dr. ARUN KUMAR JALAN",
+  "evaluation_components": [
+    {
+      "component": "Mid-sem",
+      "weightage_percent": 25,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Seminar/ Project/Lab assignment",
+      "weightage_percent": 30,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "Quiz/Test",
+      "weightage_percent": 10,
+      "when": "OB/CB",
+      "notes": null
+    },
+    {
+      "component": "Compre. Exam",
+      "weightage_percent": 35,
+      "when": "<TEST_C>",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F415/ BITS U415",
+  "course_title": "Introduction to MEMS",
+  "credits": null,
+  "instructor_in_charge": "Venkatesh Kadbur Prabhakar Rao",
+  "evaluation_components": [
+    {
+      "component": "Quiz/ Assignment",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Project work",
+      "weightage_percent": 25,
+      "when": "Project work to be discussed in the class",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "08th Oct 2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "11th Dec 2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Only for Mid-Sem and End-Sem. Makeup will be permitted only in cases with appropriate reasons and necessary proof related to the absence.",
+  "extraction_notes": null
+}

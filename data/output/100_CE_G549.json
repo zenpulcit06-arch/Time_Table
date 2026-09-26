@@ -1,0 +1,35 @@
+{
+  "course_id": "CE G549",
+  "course_title": "Rural Road Technology",
+  "credits": null,
+  "instructor_in_charge": "Dr. Vijay Bajirao Kakade",
+  "evaluation_components": [
+    {
+      "component": "Quiz",
+      "weightage_percent": 21,
+      "when": "Quiz 1: 3/9/26 Quiz 2: 1/10/26 Quiz 3: 19/11/26",
+      "notes": "All quizes are mandatory. Closed book"
+    },
+    {
+      "component": "DPR Checking",
+      "weightage_percent": 19,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 25,
+      "when": "07/10/2026",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "08/12/2026",
+      "notes": "Open book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up will be granted only on genuine reasons and will be considered on a case by case basis. However, prior permission is a must. It should follow the official request procedure. No other mod of request shall be entertained. For medical cases, a certificate from the concerned physician from the Medical Centre must be produced. (Subjected to Academic regulations)",
+  "extraction_notes": null
+}

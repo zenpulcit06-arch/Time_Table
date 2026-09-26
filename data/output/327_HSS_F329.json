@@ -1,0 +1,41 @@
+{
+  "course_id": "HSS F329",
+  "course_title": "Musicology - An - Introduction",
+  "credits": null,
+  "instructor_in_charge": "Dr. Hricha Rashmi",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem- OB",
+      "weightage_percent": 25,
+      "when": "10/10/2026 AN1",
+      "notes": null
+    },
+    {
+      "component": "Practical Test",
+      "weightage_percent": 20,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Home Assignment",
+      "weightage_percent": 10,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Compre",
+      "weightage_percent": 35,
+      "when": "15/12/2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "If the student is unable to appear for the Regular Test/Examination due to genuine exigencies, the student must refer to the procedure for applying for Make-up Test/Examination. No make up for the tutorials.",
+  "extraction_notes": null
+}

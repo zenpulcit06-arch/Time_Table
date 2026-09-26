@@ -1,0 +1,35 @@
+{
+  "course_id": "HSS F222",
+  "course_title": "LINGUISTICS",
+  "credits": null,
+  "instructor_in_charge": "SANJIV KUMAR CHOUDHARY",
+  "evaluation_components": [
+    {
+      "component": "Homework Assignment",
+      "weightage_percent": 10,
+      "when": "To be submitted by 15 November 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "6/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Class Assignments",
+      "weightage_percent": 15,
+      "when": "Second /third week of September 2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "7/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Please Do Not Print Unless Necessary\nBIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani\nPilani Campus\nAUGSD\nThe make-up for an evaluation component will be given only in genuine cases. Moreover, the\nstudent has to contact the instructor in charge for prior approval. In these matters decision of\nthe IC shall be final.",
+  "extraction_notes": null
+}

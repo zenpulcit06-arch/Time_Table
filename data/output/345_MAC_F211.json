@@ -1,0 +1,29 @@
+{
+  "course_id": "MAC F211",
+  "course_title": "Linear Algebra and its Applications",
+  "credits": null,
+  "instructor_in_charge": "J ITENDER KUMAR",
+  "evaluation_components": [
+    {
+      "component": "Midsemester Exam",
+      "weightage_percent": 30,
+      "when": "As per Timetable",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Quizzes (03 Quizzes)",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "Quiz-1(M): 07.09.2026; Quiz-2(Th): 01.10.2026; Quiz-3(M): 16.11.2026; *Score of Best-2 Quizzes will be considered for grading."
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "As per Timetable",
+      "notes": "Closed/Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

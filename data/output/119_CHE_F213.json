@@ -1,0 +1,35 @@
+{
+  "course_id": "CHE F213",
+  "course_title": "Chemical Engineering Thermodynamics",
+  "credits": null,
+  "instructor_in_charge": "Prof. Mohit Garg",
+  "evaluation_components": [
+    {
+      "component": "Tutorial Test",
+      "weightage_percent": 20,
+      "when": "30 min",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "90 min",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "180 min",
+      "notes": null
+    },
+    {
+      "component": "Continuous evaluation",
+      "weightage_percent": 10,
+      "when": "During lecture (best 2 out of 4)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted for genuine cases only (No make-up for tutorial tests).",
+  "extraction_notes": null
+}

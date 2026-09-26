@@ -1,0 +1,35 @@
+{
+  "course_id": "GSF243",
+  "course_title": "Current Affairs",
+  "credits": null,
+  "instructor_in_charge": "SANJIV KUMAR CHOUDHARY",
+  "evaluation_components": [
+    {
+      "component": "Homework Assignment",
+      "weightage_percent": 10,
+      "when": "To be submitted by 15 th November 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "7/10AN1",
+      "notes": "90 Minutes, Close Book"
+    },
+    {
+      "component": "Class Assignments",
+      "weightage_percent": 15,
+      "when": "Second/Third week of September 2026",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "10/12 FN",
+      "notes": "180 Minutes, Close Book"
+    }
+  ],
+  "attendance_policy": "Regular Class participation will be rewarded up to 5% weightage.",
+  "makeup_policy": "The make-up for an evaluation component will be given only in genuine cases. Moreover, the student has to contact the instructor in charge for prior approval. In these matters decision of the IC shall be final.",
+  "extraction_notes": null
+}

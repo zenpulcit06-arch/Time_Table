@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F234",
+  "course_title": "Introduction to Engineering Design",
+  "credits": null,
+  "instructor_in_charge": "ABHIJIT DATE, GEETA BHATT",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "90 Min. Will be announced by IC",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "2 h 10 min 30/11/2026 FN",
+      "notes": null
+    },
+    {
+      "component": "Lab Assessments",
+      "weightage_percent": 20,
+      "when": "Will be announced by IC",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 30,
+      "when": "Evaluation due in week 15",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up requests must be submitted well in advance.",
+  "extraction_notes": null
+}

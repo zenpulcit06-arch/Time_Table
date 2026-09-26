@@ -1,0 +1,35 @@
+{
+  "course_id": "MF F315",
+  "course_title": "AUTOMATION AND CONTROL",
+  "credits": null,
+  "instructor_in_charge": "PRATEEK KALA",
+  "evaluation_components": [
+    {
+      "component": "Tests",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Lab",
+      "weightage_percent": 30,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Mid Sem",
+      "weightage_percent": 20,
+      "when": "Refer Time table",
+      "notes": null
+    },
+    {
+      "component": "Compree",
+      "weightage_percent": 25,
+      "when": "Refer Time Table",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup request will not be entertained unless prior permission is taken. Students are expected to attend regular class and practical.",
+  "extraction_notes": null
+}

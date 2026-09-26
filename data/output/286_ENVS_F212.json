@@ -1,0 +1,29 @@
+{
+  "course_id": "ENVS F212",
+  "course_title": "Environmental Chemistry and Environmental Biotechnology",
+  "credits": null,
+  "instructor_in_charge": "Prof. Bibhas R. Sarkar",
+  "evaluation_components": [
+    {
+      "component": "MIDSEM Test",
+      "weightage_percent": 25,
+      "when": "07 Oct 2026, FN1",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Tests",
+      "weightage_percent": 30,
+      "when": "To be declared",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "08 Dec 2026, FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "As per institute\u2019s policy",
+  "extraction_notes": null
+}

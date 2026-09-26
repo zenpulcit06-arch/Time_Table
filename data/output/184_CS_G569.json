@@ -1,0 +1,41 @@
+{
+  "course_id": "CS G569",
+  "course_title": "Agentic AI",
+  "credits": null,
+  "instructor_in_charge": "Dr. Dhruv Kumar",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Examination",
+      "weightage_percent": 25,
+      "when": "90 mins",
+      "notes": "Time Table, Partly Open Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "180 mins.",
+      "notes": "Time Table, Partly Open Book"
+    },
+    {
+      "component": "Labs",
+      "weightage_percent": 5,
+      "when": "2 hours per week",
+      "notes": "Time Table, Will include reviewing and reproducing case studies from OpenAI, Anthropic, Google etc."
+    },
+    {
+      "component": "Research Project",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": "Well-defined evaluation criteria along with multiple deadlines throughout the semester. Also, includes paper presentation and review."
+    },
+    {
+      "component": "Research Paper Presentation and Discussion",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": "Each student or student team will have to present a set of research papers/topics and discuss in the classroom."
+    }
+  ],
+  "attendance_policy": "Attendance in the lectures is highly encouraged. But there are no marks associated with attendance in the lectures.",
+  "makeup_policy": "Make-up tests will be given only to genuine cases.",
+  "extraction_notes": null
+}

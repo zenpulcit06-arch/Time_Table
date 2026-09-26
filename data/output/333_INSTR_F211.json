@@ -1,0 +1,47 @@
+{
+  "course_id": "EEE F211/ECE F211/INSTR F211",
+  "course_title": "Electrical Machines",
+  "credits": null,
+  "instructor_in_charge": "HARI OM BANSAL",
+  "evaluation_components": [
+    {
+      "component": "Class Participation",
+      "weightage_percent": 6.67,
+      "when": "During lecture hours",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 13.33,
+      "when": "During Tutorial Hours",
+      "notes": "Best 5 out of 6"
+    },
+    {
+      "component": "Midsem Test",
+      "weightage_percent": 25,
+      "when": "10/10 AN1",
+      "notes": "OB (TB1 and class notes allowed)"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "16/12 FN",
+      "notes": "CB"
+    },
+    {
+      "component": "Practical",
+      "weightage_percent": 13.33,
+      "when": "Regular Lab Sessions",
+      "notes": "OB (Except Viva)"
+    },
+    {
+      "component": "Lab Exam",
+      "weightage_percent": 6.67,
+      "when": "To be Announced",
+      "notes": "CB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No makeup will be granted for Class Participation and Quizzes. Makeup for other components will be granted to genuine cases only.",
+  "extraction_notes": null
+}

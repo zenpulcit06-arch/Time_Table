@@ -1,0 +1,23 @@
+{
+  "course_id": "CHEM F242",
+  "course_title": "Chemical Experimentation I",
+  "credits": null,
+  "instructor_in_charge": "Dalip Kumar",
+  "evaluation_components": [
+    {
+      "component": "Laboratory Work & Reports",
+      "weightage_percent": 8.4,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Lab tests I and II",
+      "weightage_percent": 16,
+      "when": "To be announced",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "For continuous evaluation linked to attendance, final grades will be awarded only to students who maintain a minimum attendance of 50% (two marks have been assigned for being participation and punctual in each class).",
+  "makeup_policy": "Since there are TWO buffers, hence NO MAKEUP will be available in this course for whatsoever reasons.",
+  "extraction_notes": null
+}

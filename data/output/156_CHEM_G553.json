@@ -1,0 +1,29 @@
+{
+  "course_id": "CHEM G553",
+  "course_title": "Advanced Physical Chemistry",
+  "credits": null,
+  "instructor_in_charge": "Satyajit Patra",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10 FN2",
+      "notes": null
+    },
+    {
+      "component": "Assignments + Seminars+ Term Papers",
+      "weightage_percent": 30,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "05/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "At least 40% of evaluation components that are open book in the form of written test/ take home assignments\n*At most 60% of evaluation components in the form of Tests/Exam.\nAssignments and Seminars: Assignments will be given periodically to supplement the material discussed in the class. These will include problem sets. Students will also have to deliver seminars on various topics related to the course. Two or more research-oriented activities (Literature Survey, Seminars/Presentations/Research Summaries, Design/Development of processes/ products/ artifacts, Experimental or Quantitative Analysis of processes/ products/ phenomena, Design of Experiments etc.) will be conducted.\n*10% of the maximum marks will be allocated to surprise assessments as part of continuous evaluation. These marks will be awarded only if the student maintains a minimum of 75% attendance.",
+  "makeup_policy": null,
+  "extraction_notes": null
+}

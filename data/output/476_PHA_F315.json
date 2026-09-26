@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA F315",
+  "course_title": "PHARMACEUTICAL FORMULATIONS II",
+  "credits": null,
+  "instructor_in_charge": "Ankit Jain (ankit.j@pilani.bits-pilani.ac.in, 3170-M)",
+  "evaluation_components": [
+    {
+      "component": "Continuous assessments",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Laboratory Components",
+      "weightage_percent": 30,
+      "when": "Continuous Lab hours",
+      "notes": null
+    },
+    {
+      "component": "Mid-Sem Exam",
+      "weightage_percent": 20,
+      "when": "90 min. As announced in the Timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "180 min. As announced in the Timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for the Mid-semester or comprehensive exam only.",
+  "extraction_notes": null
+}

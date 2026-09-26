@@ -1,0 +1,35 @@
+{
+  "course_id": "BIO F418",
+  "course_title": "Genetic Engineering Techniques",
+  "credits": null,
+  "instructor_in_charge": "Sandhya Marathe (sandhya.marathe@pilani.bits-pilani.ac.in, chamber no.: 3277-B)",
+  "evaluation_components": [
+    {
+      "component": "Quizzes, Assignments and discussions",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "Closed/open book"
+    },
+    {
+      "component": "Lab performance",
+      "weightage_percent": 30,
+      "when": "Every lab",
+      "notes": "Open notes"
+    },
+    {
+      "component": "Mid semester",
+      "weightage_percent": 10,
+      "when": "One week",
+      "notes": "Lab-based evaluation"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 45,
+      "when": "1/12 FN",
+      "notes": "Lab-compre (15%): 7-8 days; Theory (30%): 3 hours, Closed/open book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "For a foreseen absence, a make-up request should be made to the instructor-in-charge. Reasons for unanticipated absence that qualify one for make-up include medical or similar personal emergencies only. Makeup will be given only for the Mid-semester or comprehensive exam only.",
+  "extraction_notes": null
+}

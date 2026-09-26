@@ -1,0 +1,29 @@
+{
+  "course_id": "MEL G625",
+  "course_title": "Advance Analog and Mixed Signal Design",
+  "credits": null,
+  "instructor_in_charge": "Neeraj Mishra",
+  "evaluation_components": [
+    {
+      "component": "Mid-Term Exam",
+      "weightage_percent": 25,
+      "when": "OB/ CB",
+      "notes": null
+    },
+    {
+      "component": "Reading assignments/ Design Project/ Final Project/ Quiz/ Presentations/ Paper submission",
+      "weightage_percent": 40,
+      "when": "Spread throughout the semester",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "CB/OB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up assessments will be considered only for valid and documented reasons. Prior approval from the Instructor-in-Charge (IC) is mandatory.",
+  "extraction_notes": null
+}

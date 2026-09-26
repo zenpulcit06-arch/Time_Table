@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS F110",
+  "course_title": "ENGINEERING GRAPHICS",
+  "credits": null,
+  "instructor_in_charge": "GEETA BHATT",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 25,
+      "when": "As Announced in the Timetable",
+      "notes": null
+    },
+    {
+      "component": "Lab Assignments",
+      "weightage_percent": 35,
+      "when": "As per the Lab evaluation plan",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "As Announced in the Timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No makeup exams will be conducted for lab class assignments. Make-up request for Mid-Semester / Comprehensive examination must be submitted at least one day before the exam date on the AUGSD portal only.",
+  "extraction_notes": null
+}

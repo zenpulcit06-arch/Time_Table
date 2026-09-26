@@ -1,0 +1,41 @@
+{
+  "course_id": "ME G512",
+  "course_title": "Finite Element Method",
+  "credits": null,
+  "instructor_in_charge": "Gaurav Watts",
+  "evaluation_components": [
+    {
+      "component": "Class Quizzes",
+      "weightage_percent": 10,
+      "when": "in class",
+      "notes": "Continuous, Best 10 out of 12"
+    },
+    {
+      "component": "Lab Assignments",
+      "weightage_percent": 20,
+      "when": "100 min Lab Class",
+      "notes": "Open book, Best 4 out of 5"
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 20,
+      "when": "Throughout the Semester",
+      "notes": "Continuous, Presentations"
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "90 mins.",
+      "notes": "TBA, Open Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "180 mins.",
+      "notes": "TBA, Open-Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-uptestswillbegivenonlytogenuinecases. Nomake-upwillbegivenfortheclassquizzes,labassignmentsandprojectpresentations.",
+  "extraction_notes": null
+}

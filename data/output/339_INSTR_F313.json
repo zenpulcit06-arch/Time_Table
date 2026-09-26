@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE/ INSTR F313",
+  "course_title": "ANALOG AND DIGITAL VLSI DESIGN",
+  "credits": null,
+  "instructor_in_charge": "ANU GUPTA",
+  "evaluation_components": [
+    {
+      "component": "Midsem Test",
+      "weightage_percent": 25,
+      "when": "CB/OB",
+      "notes": null
+    },
+    {
+      "component": "Weekly Tutorial /Quiz",
+      "weightage_percent": 20,
+      "when": "Spread Across The Semester",
+      "notes": "OB"
+    },
+    {
+      "component": "Lab Assignments /Design project/ term paper/ Quiz",
+      "weightage_percent": 20,
+      "when": "Spread Across The Semester",
+      "notes": "OB"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "OB/ CB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for mid-semester and comprehensive examination will be considered ONLY in genuine cases, and the IC decision will be final. Prior permission from the instructor-in-charge is necessary before the examination.",
+  "extraction_notes": null
+}

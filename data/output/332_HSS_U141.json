@@ -1,0 +1,35 @@
+{
+  "course_id": "HSSU 141",
+  "course_title": "Academic Writing Lab",
+  "credits": null,
+  "instructor_in_charge": "CHINTALAPALLI VIJAYAKUMAR",
+  "evaluation_components": [
+    {
+      "component": "Portfolio Evaluative 1",
+      "weightage_percent": 15,
+      "when": "CCE",
+      "notes": null
+    },
+    {
+      "component": "Portfolio Evaluative 2",
+      "weightage_percent": 20,
+      "when": "CCE",
+      "notes": null
+    },
+    {
+      "component": "Portfolio Evaluative 3",
+      "weightage_percent": 25,
+      "when": "CCE",
+      "notes": null
+    },
+    {
+      "component": "Portfolio Evaluative 4",
+      "weightage_percent": 30,
+      "when": "CCE",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be given only to genuine cases. The request application should reach the Instructor\u2013in\u2013charge before the commencement of the scheduled test.",
+  "extraction_notes": null
+}

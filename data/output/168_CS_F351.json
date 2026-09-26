@@ -1,0 +1,41 @@
+{
+  "course_id": "CS F351",
+  "course_title": "Theory of Computation",
+  "credits": null,
+  "instructor_in_charge": "VISHAL GUPTA",
+  "evaluation_components": [
+    {
+      "component": "Quiz 1",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz 2",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz 3",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid Sem Exam",
+      "weightage_percent": 30,
+      "when": "Oct 10, 2026 (as per AUGSD)",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "Dec 15, 2026 (as per AUGSD)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Quiz1, Quiz2, and Quiz3 would have one make up combined. This means, that a student can abstain herself/himself (on valid reasons) in one of the Quiz. This make up would be conducted at last and would include complete syllabus. Of course, the student would apply for the make up in advance with documentary proof. Only on producing documentary proof of possible absence, which proves that student would be physically unable to appear for the test/exam, the decision of granting the make-up will be taken. Prior Permission of AUGSD is required to get make-up for the comprehensive exam.",
+  "extraction_notes": null
+}

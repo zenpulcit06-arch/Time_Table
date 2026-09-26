@@ -1,0 +1,41 @@
+{
+  "course_id": "CHE F311",
+  "course_title": "Kinetics & Reactor Design (KRD)",
+  "credits": null,
+  "instructor_in_charge": "BHAVAN VARDHAN REDDY KUNCHARAM",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Surprise Quiz",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Announced Tutorial Quizzes",
+      "weightage_percent": 15,
+      "when": "Announced 1 week before the quiz",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 5,
+      "when": "1 Week",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Attendance in all lectures and tutorials is recommended for continuous reinforced learning. A record of attendance will be kept without any prejudice as per the institute's policy. Long absences in the tutorial/lecture classes will result in a warning through email, and further, it may be reported to AUGSD/SWD for a student welfare check.",
+  "makeup_policy": "If a student cannot appear for the Comprehensive and/or Midsemester Examination due to genuine exigencies, the student must refer to the procedure prescribed by AUGSD for applying for the Make-up Test/Examination. All makeup applications should come through AUGSD portal only. If possible, it is recommended to discuss with IC prior to the absence. No make-up will be granted for the tutorials/surprise quizzes/discussion/projects/assignments.",
+  "extraction_notes": null
+}

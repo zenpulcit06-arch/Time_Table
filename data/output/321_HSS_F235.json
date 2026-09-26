@@ -1,0 +1,29 @@
+{
+  "course_id": "HSS F235",
+  "course_title": "Introductory Philosophy",
+  "credits": null,
+  "instructor_in_charge": "Anupam Yadav",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "As per AUGSD Timetable",
+      "notes": null
+    },
+    {
+      "component": "Assignment/Case Study/Presentation",
+      "weightage_percent": 30,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per AUGSD Timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up components will be allowed only for mid-semester and comprehensive exams provided there is a valid documentary proof to support the case.",
+  "extraction_notes": null
+}

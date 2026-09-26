@@ -1,0 +1,35 @@
+{
+  "course_id": "CE G527",
+  "course_title": "CONSTRUCTION MANAGEMENT",
+  "credits": null,
+  "instructor_in_charge": "ANSHUMAN",
+  "evaluation_components": [
+    {
+      "component": "Mid-Test",
+      "weightage_percent": 30,
+      "when": "06/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 20,
+      "when": "OB/CB",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 10,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "05/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

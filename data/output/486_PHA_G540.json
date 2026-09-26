@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA G540",
+  "course_title": "Modern Pharmaceutical Analytical Techniques",
+  "credits": null,
+  "instructor_in_charge": "Prof. S. Murugesan",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Exam",
+      "weightage_percent": 30,
+      "when": "05/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Continuous assessment including practicum component",
+      "weightage_percent": 35,
+      "when": "AN2 CB & OB (or) CB/OB",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "03/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge.",
+  "extraction_notes": null
+}

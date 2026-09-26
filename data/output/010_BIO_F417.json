@@ -1,0 +1,35 @@
+{
+  "course_id": "BIO F417",
+  "course_title": "Biomolecular Modeling",
+  "credits": null,
+  "instructor_in_charge": "SHIBASISH CHOWDHURY",
+  "evaluation_components": [
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "07/12 FN",
+      "notes": "Partial Close Book"
+    },
+    {
+      "component": "Assignment/seminar",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": "Open Book (several)"
+    },
+    {
+      "component": "Surprise Quiz",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "Close Book/Open Book (several)"
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": "Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up will be given on genuine grounds as determined by the Instructor-in-charge",
+  "extraction_notes": null
+}

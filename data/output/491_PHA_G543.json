@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA G543",
+  "course_title": "CLINICAL RESEARCH",
+  "credits": null,
+  "instructor_in_charge": "HEMANT R. JADHAV",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Test",
+      "weightage_percent": 30,
+      "when": "9/10 FN2",
+      "notes": null
+    },
+    {
+      "component": "Continuous assessment",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "8/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Attendance is not compulsory, but regularity in theory and practical classes will be a decisive factor during grading, especially in borderline cases.",
+  "makeup_policy": "Generally, make-up will be considered for regular students only.",
+  "extraction_notes": null
+}

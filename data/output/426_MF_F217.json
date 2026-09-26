@@ -1,0 +1,29 @@
+{
+  "course_id": "MF F217",
+  "course_title": "Machine Drawing",
+  "credits": null,
+  "instructor_in_charge": "Prof. Amit R. Singh",
+  "evaluation_components": [
+    {
+      "component": "Lab assignments",
+      "weightage_percent": 30,
+      "when": "Lab hours",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester test",
+      "weightage_percent": 30,
+      "when": "90 mins. To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "180 mins. To be announced",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up policy for the Mid-semester exam and the comprehensive exam will be as per AUGS guidelines. For lab assignments, no make-up will be allowed.",
+  "extraction_notes": null
+}

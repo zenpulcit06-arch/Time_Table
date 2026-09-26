@@ -1,0 +1,41 @@
+{
+  "course_id": "CHE F313",
+  "course_title": "Separation Processes II",
+  "credits": null,
+  "instructor_in_charge": "PROF. SOMAK CHATTERJEE",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10/2026 (FN1)",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "05/12/2026 (FN)",
+      "notes": "Closed and Open Book"
+    },
+    {
+      "component": "Tutorial Tests",
+      "weightage_percent": 15,
+      "when": "3 before Midsem; 3 after Midsem (To be announced one week before, through notice, posted in Nalanda LMS)",
+      "notes": "Closed Book (Best 3 of 6, Each tutorial test carries 15 marks)"
+    },
+    {
+      "component": "Lecture Quizzes",
+      "weightage_percent": 10,
+      "when": "3 before Midsem; 3 after Midsem (Surprise in nature)",
+      "notes": "Closed Book (Best 3 of 6, Each quiz carries 10 marks)"
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 5,
+      "when": "1 before Midsem and 1 after Midsem",
+      "notes": "Take home type (Each assignment carries 7.5 marks)"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "If the student is unable to appear for the Regular Test/Examination due to genuine exigencies, the student must refer to the procedure prescribed by AUGSD for applying for Make-up Test/Examination. Make-up will be granted only for extreme emergencies or for genuine reason(s). Proper proofs must be submitted along with the Make-up application. Prior permission of IC is compulsory. Decision of the IC in all matters of make-up shall be final. No make-up will be granted for the tutorials/lecture quizzes/discussion/projects/assignments.",
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA G541",
+  "course_title": "Computer Aided Drug Design",
+  "credits": null,
+  "instructor_in_charge": "Prof. S. Murugesan",
+  "evaluation_components": [
+    {
+      "component": "Mid-sem Exam",
+      "weightage_percent": 30,
+      "when": "06/10 FN2",
+      "notes": "CB"
+    },
+    {
+      "component": "Continuous assessment including practicum component*",
+      "weightage_percent": 35,
+      "when": "06/10 FN2, 05/12 AN",
+      "notes": "CB & OB (or) CB / OB"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "05/12 AN",
+      "notes": "CB & OB (or) CB / OB"
+    }
+  ],
+  "attendance_policy": "Attendance is compulsory as per the Institute policy, regularity in theory and practical classes will be decisive factor during make-up and grading, especially in borderline cases as well as make-up's.",
+  "makeup_policy": "Generally, make-up will be considered for regular students only and make-up's are not given as a routine. It is solely dependent on the 'genuineness' of the circumstance under which a student fails to appear in a scheduled evaluation component. However, the make-up application should be personally given to Instructor-in-Charge and not slipped into the chamber of the Instructor-in-Charge.",
+  "extraction_notes": null
+}

@@ -1,0 +1,53 @@
+{
+  "course_id": "BITS F463",
+  "course_title": "Cryptography",
+  "credits": null,
+  "instructor_in_charge": "Ankan Pal (ankan.pal@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Quiz-Q1",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz-Q2",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz-Q3",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz-Q4",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Programming Assignment",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 30,
+      "when": "07-10-2026, FN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "08-12-2025, FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Students are expected to attend all the lectures and tutorials. The attendance is not linked to any of the academic evaluation components.",
+  "makeup_policy": "Make-up for other components will be given only in genuine cases of absence as per institute rules. Prior permission from I/C is a must for makeup of any evaluation component.",
+  "extraction_notes": null
+}

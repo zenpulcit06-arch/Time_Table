@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY F214",
+  "course_title": "Electromagnetic and Optics Laboratory",
+  "credits": null,
+  "instructor_in_charge": "Sajal Mukherjee",
+  "evaluation_components": [
+    {
+      "component": "Day to day Performance",
+      "weightage_percent": 50,
+      "when": "4 Hrs / Week",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Lab Exam",
+      "weightage_percent": 20,
+      "when": "1.5 Hrs",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Written Exam",
+      "weightage_percent": 30,
+      "when": "1.5 Hrs",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

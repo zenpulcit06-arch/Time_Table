@@ -1,0 +1,29 @@
+{
+  "course_id": "CHEM F333",
+  "course_title": "Chemistry of Materials",
+  "credits": null,
+  "instructor_in_charge": "MADHUSHREE SARKAR",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Continuous Evaluations",
+      "weightage_percent": 30,
+      "when": "Continuous",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up would be considered only for genuine cases.",
+  "extraction_notes": null
+}

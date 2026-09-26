@@ -1,0 +1,41 @@
+{
+  "course_id": "CE G547",
+  "course_title": "Pavement Failure Evaluation and Rehabilitation",
+  "credits": null,
+  "instructor_in_charge": "Nishant Bhargava",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "05/10/2026 AN2",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "03/12/2026 AN",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": "*",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Laboratory",
+      "weightage_percent": 10,
+      "when": "*",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 20,
+      "when": "*",
+      "notes": "Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up will be granted only on genuine reasons and will be considered on a case by case basis. However, prior permission is a must. It should follow the official request procedure. No other mode of request shall be entertained. For medical cases, a certificate from the concerned physician from the Medical Centre must be produced (Subjected to Academic regulations). Make up policy is only applicable to Mid \u2013 Semester test and Comprehensive Examination. It is not applicable to quiz and project presentation.",
+  "extraction_notes": null
+}

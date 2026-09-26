@@ -1,0 +1,35 @@
+{
+  "course_id": "CS G514 / SS G514",
+  "course_title": "Object Oriented Analysis and Design",
+  "credits": null,
+  "instructor_in_charge": "MUKESH KUMAR ROHIL",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "Saturday, Oct 10, 2026 FN2 (11:30 AM \u2013 12:30 PM)",
+      "notes": null
+    },
+    {
+      "component": "Case Studies$",
+      "weightage_percent": null,
+      "when": "During class hour",
+      "notes": "Before Mid-Semester"
+    },
+    {
+      "component": "Project*",
+      "weightage_percent": null,
+      "when": "Three weeks",
+      "notes": "After Mid-Semester Test"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "Tuesday, Dec 15, 2026 AN (02 PM to 05 PM)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted in case of extreme exigencies only.",
+  "extraction_notes": null
+}

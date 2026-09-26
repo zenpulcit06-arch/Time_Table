@@ -1,0 +1,35 @@
+{
+  "course_id": "HSS F 227",
+  "course_title": "Cross Cultural Skills",
+  "credits": null,
+  "instructor_in_charge": "PUSHP LATA",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem",
+      "weightage_percent": 25,
+      "when": "10/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Classroom Discussion and Evaluatives",
+      "weightage_percent": 35,
+      "when": "To be announced, Class hour/take home",
+      "notes": null
+    },
+    {
+      "component": "Attendance",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "15/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up- subject to prior permission.",
+  "extraction_notes": null
+}

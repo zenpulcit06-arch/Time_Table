@@ -1,0 +1,35 @@
+{
+  "course_id": "PHY F422",
+  "course_title": "Group Theory and Applications",
+  "credits": null,
+  "instructor_in_charge": "Bhavesh Chauhan",
+  "evaluation_components": [
+    {
+      "component": "Term-paper (s)",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Quiz (Announced)",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for comprehensive exam will be granted to genuine cases with prior intimation and permission as per institute rules.",
+  "extraction_notes": null
+}

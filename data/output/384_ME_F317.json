@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F317",
+  "course_title": "Engines, Motors, and Mobility",
+  "credits": null,
+  "instructor_in_charge": "Prof. A R Harikrishnan",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester exam",
+      "weightage_percent": 30,
+      "when": "07/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Minor projects/ Case study",
+      "weightage_percent": 10,
+      "when": "4-5 weeks",
+      "notes": "Continuous, Open book"
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 20,
+      "when": "Announced- Refer to the tentative dates mentioned below",
+      "notes": "Open book"
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 40,
+      "when": "5/12 FN",
+      "notes": "Partially closed and partially open book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "It will be as per the institute rules. Only genuine cases will be considered. No makeup will be provided for the quizzes under any circumstances.",
+  "extraction_notes": null
+}

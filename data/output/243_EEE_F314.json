@@ -1,0 +1,41 @@
+{
+  "course_id": "EEE F314",
+  "course_title": "FPGA BASED SYSTEM DESIGN",
+  "credits": null,
+  "instructor_in_charge": "GOVIND PRASAD (govind.prasad@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Regular Lab Performance",
+      "weightage_percent": 10,
+      "when": "Regular and announced",
+      "notes": null
+    },
+    {
+      "component": "Lab Assignments",
+      "weightage_percent": 15,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Mid-Sem Exam",
+      "weightage_percent": 25,
+      "when": "9/10/2026",
+      "notes": null
+    },
+    {
+      "component": "Lab Project",
+      "weightage_percent": 25,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comp. Lab Exam",
+      "weightage_percent": 25,
+      "when": "To be announced",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up will be given only on genuine reasons. Applications for make up should be given in advance and prior permission should be obtained for Scheduled tests.",
+  "extraction_notes": null
+}

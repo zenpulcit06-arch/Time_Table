@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA G613",
+  "course_title": "Pharmaceutical Biotechnology",
+  "credits": null,
+  "instructor_in_charge": "Dr. Gautam Kumar",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "90 min. Closed Book",
+      "notes": null
+    },
+    {
+      "component": "Laboratory Components",
+      "weightage_percent": 20,
+      "when": "Throughout the semester Closed /Open Book",
+      "notes": null
+    },
+    {
+      "component": "Assignments/ Seminar /quiz",
+      "weightage_percent": 15,
+      "when": "Throughout the semester \u2019$%&#!\" ( ) * % + (#, # -",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "3 hrs. Closed",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior approval or intimation to take a make-up is a must. It is solely the discretion of the instructor-in-charge dependent upon the genuineness of the circumstances to allow a student to appear for a make-up evaluation component.",
+  "extraction_notes": null
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "CHE F497",
+  "course_title": "Atomic and Molecular Simulations",
+  "credits": null,
+  "instructor_in_charge": "Prof. Sarbani Ghosh (sarbani.ghosh@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Surprised Class Tests",
+      "weightage_percent": 10,
+      "when": "In Class",
+      "notes": null
+    },
+    {
+      "component": "1 Announced Class Test",
+      "weightage_percent": 5,
+      "when": "In Class TBA",
+      "notes": null
+    },
+    {
+      "component": "Assignment*-I",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Assignments*-II",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up is granted only for genuine cases in the case of hospitalizations or when complete bed-rest is medically advised with proper justifications, valid documents, and prior permission from the Instructor-in-charge, unless its an emergency. No make-up for class tests and assignments.",
+  "extraction_notes": null
+}

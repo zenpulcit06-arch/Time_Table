@@ -1,0 +1,47 @@
+{
+  "course_id": "HSS F323",
+  "course_title": "Organizational Psychology",
+  "credits": null,
+  "instructor_in_charge": "Prof. Rajneesh Choubisa",
+  "evaluation_components": [
+    {
+      "component": "Attendance & Classroom Interaction",
+      "weightage_percent": 10,
+      "when": "All Lectures",
+      "notes": "Observation based on participation"
+    },
+    {
+      "component": "Lab component/ Opinionnaires/ Assignment/ Case study",
+      "weightage_percent": 20,
+      "when": "Will be announced",
+      "notes": "Interaction based/Report Submission"
+    },
+    {
+      "component": "Quiz 1",
+      "weightage_percent": 30,
+      "when": "September (2nd Week)",
+      "notes": "CB"
+    },
+    {
+      "component": "Quiz 2",
+      "weightage_percent": 30,
+      "when": "November (2nd Week)",
+      "notes": "CB"
+    },
+    {
+      "component": "Mid Sem Exam",
+      "weightage_percent": 50,
+      "when": "10/10/2026",
+      "notes": "CB"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 60,
+      "when": "15/12/2026",
+      "notes": "OB"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "No Make-up Requests would be entertained (exceptions limited to medical cases).",
+  "extraction_notes": null
+}

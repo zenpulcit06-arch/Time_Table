@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY F313",
+  "course_title": "Computational Physics",
+  "credits": null,
+  "instructor_in_charge": "Tanmoy Mondal",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": "Closed + Open"
+    },
+    {
+      "component": "Class Tests",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "Closed"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for other components will be granted only to genuine cases with prior intimation and permission as per Institute rules.",
+  "extraction_notes": null
+}

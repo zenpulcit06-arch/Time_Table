@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F434 / ECE F434",
+  "course_title": "Digital Signal Processing",
+  "credits": null,
+  "instructor_in_charge": "Sandeep Joshi",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "07/10/2026 AN1",
+      "notes": null
+    },
+    {
+      "component": "Lab (Regularity and Project)",
+      "weightage_percent": 15,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Quiz (s)",
+      "weightage_percent": 15,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "10/12/2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Student is expected to attend all lectures/tuts/lab and appear for all evaluative components.",
+  "makeup_policy": "No make-up will be given for quizzes; however, for other components, make-up will be given ONLY in cases of sickness (hospitalization). In such cases, students must produce sufficient proof and must pre-inform the Instructor-in-charge.",
+  "extraction_notes": null
+}

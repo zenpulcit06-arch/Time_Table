@@ -1,0 +1,29 @@
+{
+  "course_id": "BIO F311",
+  "course_title": "RECOMBINANT DNA TECHNOLOGY",
+  "credits": null,
+  "instructor_in_charge": "Prof. SOUMITRA GHOSH",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 35,
+      "when": "05/10/2026 (FN1)",
+      "notes": null
+    },
+    {
+      "component": "Quizzes/ Assignments",
+      "weightage_percent": 25,
+      "when": "Variable",
+      "notes": "Pre-announced, and surprise activities in class/tutorial hours."
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "01/12/2026 (FN)",
+      "notes": "Closed/ Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be granted only for Mid-Semester or Comprehensive examinations as per AUGSD guidelines with compulsorily a request email copy to the instructors. There shall be no makeups for any announced or unannounced quizzes or assignments.",
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS U107",
+  "course_title": "Introduction to Engineering",
+  "credits": null,
+  "instructor_in_charge": "Prof. Ravindra Dwivedi",
+  "evaluation_components": [
+    {
+      "component": "Midterm Exam",
+      "weightage_percent": 20,
+      "when": "r e ta l d e c n u o n n a e b o T",
+      "notes": "Open-Book* 60 minutes"
+    },
+    {
+      "component": "Assignments**",
+      "weightage_percent": 60,
+      "when": "TBA",
+      "notes": "Open- Book/Take- Home/Tutori al"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": "Closed- Book 90 minutes"
+    }
+  ],
+  "attendance_policy": "Every student is expected to have a minimum of 60% attendance in the course to be eligible to appear for the Comprehensive Examination in the course. For students under the purview of Academic Counseling Board (ACB), the Board shall prescribe the minimum attendance requirement on a case-to-case basis.",
+  "makeup_policy": "Make-ups: are not given as a routine. It is solely dependent upon the genuineness of the circumstances under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge (I/C). The decision of the I/C in the above matter will be final.",
+  "extraction_notes": null
+}

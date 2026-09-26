@@ -1,0 +1,41 @@
+{
+  "course_id": "BITS F471",
+  "course_title": "Introduction to Large Language Models",
+  "credits": null,
+  "instructor_in_charge": "Dr. Dhruv Kumar (dhruv.kumar@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "Refer to time-table",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester Evaluation for Project",
+      "weightage_percent": 25,
+      "when": "Week Before mid-sem",
+      "notes": null
+    },
+    {
+      "component": "End-semester Evaluation for Project",
+      "weightage_percent": 25,
+      "when": "Week before comprehensive exam",
+      "notes": null
+    },
+    {
+      "component": "Final Evaluation for Project",
+      "weightage_percent": 10,
+      "when": "Last day of comprehensive exams",
+      "notes": null
+    },
+    {
+      "component": "Labs + Guest Lectures + Misc",
+      "weightage_percent": 5,
+      "when": "Weekly / Bi-Weekly",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted only in genuine cases based on individual\u2019s need and circumstances.",
+  "extraction_notes": null
+}

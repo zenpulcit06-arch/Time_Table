@@ -1,0 +1,35 @@
+{
+  "course_id": "SNS F214",
+  "course_title": "Fundamentals of Solid-State Physics",
+  "credits": null,
+  "instructor_in_charge": "Jayendra N. Bandyopadhyay",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester test",
+      "weightage_percent": 30,
+      "when": "08/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Class participation",
+      "weightage_percent": 10,
+      "when": "Unannounced",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Tests",
+      "weightage_percent": 20,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "12/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Stringent. Only in the most genuine cases, as judged by the IC. Make-up will not be given for the tutorial tests.",
+  "extraction_notes": null
+}

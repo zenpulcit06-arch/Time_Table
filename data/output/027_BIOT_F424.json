@@ -1,0 +1,35 @@
+{
+  "course_id": "BIOT F424",
+  "course_title": "Food Biotechnology",
+  "credits": null,
+  "instructor_in_charge": "SHILPI GARG (shilpi@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 25,
+      "when": "09/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Assignment/ Practical/ and Case Studies",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "13/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be granted without a genuine case. A certificate from an authenticated doctor must accompany the makeup application (only prescriptions/vouchers for medicines will not be sufficient). Prior permission from IC is strongly recommended. No makeup for in class assignments and quizzes.",
+  "extraction_notes": null
+}

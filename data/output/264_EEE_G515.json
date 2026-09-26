@@ -1,0 +1,29 @@
+{
+  "course_id": "EEE G515",
+  "course_title": "Real-Time Embedded Systems",
+  "credits": null,
+  "instructor_in_charge": "G S SESHA CHALAPATHI",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 25,
+      "when": "08-Oct-2026 AN2",
+      "notes": "Open Book/Closed Book"
+    },
+    {
+      "component": "Assignments and classroom interaction",
+      "weightage_percent": 40,
+      "when": null,
+      "notes": "To Be announced"
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 35,
+      "when": "12-Dec-2026 AN",
+      "notes": "Open Book/Closed Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make Up will be given only in genuine case and with prior permission",
+  "extraction_notes": null
+}

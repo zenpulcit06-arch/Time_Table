@@ -1,0 +1,35 @@
+{
+  "course_id": "ME G532",
+  "course_title": "Machine Tool Engineering",
+  "credits": null,
+  "instructor_in_charge": "Prof. Anuj Sharma [ anuj.sharma@pilani.bits-pilani.ac.in , 1215-N]",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "08/10 AN2",
+      "notes": "Close book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "12/12 AN",
+      "notes": "Close book"
+    },
+    {
+      "component": "Assignment: Report writing on literature/Research",
+      "weightage_percent": 20,
+      "when": "To be announced in class",
+      "notes": "Open book"
+    },
+    {
+      "component": "Presentation on Process fundamentals/Recent developments/Research",
+      "weightage_percent": 20,
+      "when": "To be announced in class",
+      "notes": "Open book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

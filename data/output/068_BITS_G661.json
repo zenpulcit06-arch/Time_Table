@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS G661",
+  "course_title": "Research Methodology I",
+  "credits": null,
+  "instructor_in_charge": "Associate Dean, AGSRD",
+  "evaluation_components": [
+    {
+      "component": "Research proposal",
+      "weightage_percent": null,
+      "when": null,
+      "notes": "Contents and Presentation max marks are given but total weightage is not specified."
+    },
+    {
+      "component": "Development related Report",
+      "weightage_percent": null,
+      "when": null,
+      "notes": "Presentation max mark is given but contents max mark is not specified."
+    },
+    {
+      "component": "Research related Report",
+      "weightage_percent": null,
+      "when": null,
+      "notes": "Presentation max mark is given but contents max mark is not specified."
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

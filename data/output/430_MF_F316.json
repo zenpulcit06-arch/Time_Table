@@ -1,0 +1,35 @@
+{
+  "course_id": "MF F316",
+  "course_title": "Machining and Machine Tools",
+  "credits": null,
+  "instructor_in_charge": "Prof. Tribeni Roy",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester test",
+      "weightage_percent": 30,
+      "when": "07/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Assignments/Projects/Seminars/Quiz",
+      "weightage_percent": 20,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Lab quiz/viva/assignment",
+      "weightage_percent": 15,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "10/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up will be granted ONLY in genuine cases with prior permission.",
+  "extraction_notes": null
+}

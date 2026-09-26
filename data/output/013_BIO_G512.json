@@ -1,0 +1,35 @@
+{
+  "course_id": "BIO G512",
+  "course_title": "Molecular Mechanism of Gene Expression",
+  "credits": null,
+  "instructor_in_charge": "S. K. VERMA",
+  "evaluation_components": [
+    {
+      "component": "Mid- Sem Test",
+      "weightage_percent": 25,
+      "when": "90 min",
+      "notes": null
+    },
+    {
+      "component": "Quiz (multiple)",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Seminar +Project (Multiple)",
+      "weightage_percent": 30,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "3Hrs.",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior Permission has to be obtained from the Instructor-In-Charge, no make-up will be granted for surprise evaluation component.",
+  "extraction_notes": null
+}

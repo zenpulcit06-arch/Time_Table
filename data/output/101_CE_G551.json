@@ -1,0 +1,35 @@
+{
+  "course_id": "CEG551",
+  "course_title": "DYNAMICSOFSTRUCTURES",
+  "credits": null,
+  "instructor_in_charge": "DIPENDUBHUNIA",
+  "evaluation_components": [
+    {
+      "component": "CourseProject",
+      "weightage_percent": 25,
+      "when": "Throughout the semester",
+      "notes": "Oneseminarbefore midsem,i.e. 01/10/26in1204 andanotherseminar beforecomprebut aftermidsem,i.e. 27/11/26in1204"
+    },
+    {
+      "component": "HomeworkAssignments",
+      "weightage_percent": 20,
+      "when": "Throughout the semester",
+      "notes": "Eachassignment aftercompletionof eachmodule; howevernotmore than6assignments intotaland1willbe buffer"
+    },
+    {
+      "component": "MidSemester",
+      "weightage_percent": 25,
+      "when": "10/10AN2",
+      "notes": "[CloseBook]"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 30,
+      "when": "16/12AN",
+      "notes": "[OpenBook]"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeupforonlymidtermandcomprehensiveexaminationswillbe givenprovidedthepriorrequestismadewithgenuinereason.",
+  "extraction_notes": null
+}

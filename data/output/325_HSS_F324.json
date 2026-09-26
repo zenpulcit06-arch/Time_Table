@@ -1,0 +1,35 @@
+{
+  "course_id": "HSSF324",
+  "course_title": "SCIENCE FICTION",
+  "credits": null,
+  "instructor_in_charge": "Susan Haris",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "07/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "10/12 FN",
+      "notes": null
+    },
+    {
+      "component": "Assignment 1 Sci-Fi world building",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Assignment 2 Preposterous Technology",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Class participation is essential to enjoy the readings.",
+  "makeup_policy": "Will be allowed if there is a genuine reason and the student reaches out to me promptly.",
+  "extraction_notes": null
+}

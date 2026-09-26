@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F218",
+  "course_title": "General Mathematics III",
+  "credits": null,
+  "instructor_in_charge": "BHUPENDRA KUMAR SHARMA",
+  "evaluation_components": [
+    {
+      "component": "Announced Quizzes",
+      "weightage_percent": 15,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 5,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Midsem",
+      "weightage_percent": 35,
+      "when": "90 minutes",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 45,
+      "when": "180 minutes",
+      "notes": "(CB/OB)"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

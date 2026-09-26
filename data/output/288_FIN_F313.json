@@ -1,0 +1,35 @@
+{
+  "course_id": "ECON F 412 / FIN F 313",
+  "course_title": "Security Analysis and Portfolio Management",
+  "credits": null,
+  "instructor_in_charge": "Prof. Arya Kumar",
+  "evaluation_components": [
+    {
+      "component": "Mid Term Exam",
+      "weightage_percent": 35,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Quiz (Best 2 of 3)*",
+      "weightage_percent": 10,
+      "when": "Unannounced (Surprise)",
+      "notes": "During the regular lecture hour."
+    },
+    {
+      "component": "Assignments/ Projects",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "Take home"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "As per timetable",
+      "notes": "Partially OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up shall be granted only in genuine cases and after obtaining prior approval from the I/C.",
+  "extraction_notes": null
+}

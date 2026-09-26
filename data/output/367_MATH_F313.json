@@ -1,0 +1,29 @@
+{
+  "course_id": "MATH F313",
+  "course_title": "Numerical Analysis",
+  "credits": null,
+  "instructor_in_charge": "Devendra Kumar",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester exam",
+      "weightage_percent": 35,
+      "when": "As announced by AUGSD",
+      "notes": "Open book"
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20,
+      "when": "Announced Quizzes Dates: Q1: 21/08/2026 Q2: 25/09/2026 Q3: 20/11/2026",
+      "notes": "1 Surprised and 3 Announced, best score of three quizzes will be considered out of 4 quizzes, Closed book"
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 45,
+      "when": "As announced by AUGSD",
+      "notes": "Closed book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and appear in all evaluative components.",
+  "makeup_policy": "Make-up for mid-semester and comprehensive exams will be given only for very genuine cases, and prior permission must be obtained from IC. No makeup will be given for quizzes under any circumstance whatsoever.",
+  "extraction_notes": null
+}

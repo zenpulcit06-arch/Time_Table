@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F426",
+  "course_title": "Fiber Optics and Optoelectronics",
+  "credits": null,
+  "instructor_in_charge": "VINOD KUMAR CHAUBEY ( vkc@pilani.bits-pilani.ac_in)",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10/2026 AN1",
+      "notes": null
+    },
+    {
+      "component": "Quiz (Announced or Surprise) / Class participation credit",
+      "weightage_percent": 20,
+      "when": "(10 min) beginning / before the end of the class",
+      "notes": null
+    },
+    {
+      "component": "Assignment/ Interaction",
+      "weightage_percent": 10,
+      "when": "TBA on Nalanda Course page",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "07/12/2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up in Tests/ Comprehensive Examination shall be given for genuine reasons (e.g. medical, personal emergencies, etc.) on submission of documents, only if applied in advance to scheduled test/exam. No make-up is allowed for quiz component due to buffer quizzes as applicable.",
+  "extraction_notes": null
+}

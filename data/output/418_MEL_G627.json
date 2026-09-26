@@ -1,0 +1,47 @@
+{
+  "course_id": "MEL G627",
+  "course_title": "VLSI Fabrication Technology",
+  "credits": null,
+  "instructor_in_charge": "Dr. Satyendra Kumar Mourya",
+  "evaluation_components": [
+    {
+      "component": "Quizzes",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Seminar",
+      "weightage_percent": 5,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester Test",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Lab (Viva + Quiz)",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be given only to genuine cases. Applications for make-up should be given in advance, and prior permission should be obtained for scheduled tests",
+  "extraction_notes": null
+}

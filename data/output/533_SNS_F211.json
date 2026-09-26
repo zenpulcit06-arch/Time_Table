@@ -1,0 +1,35 @@
+{
+  "course_id": "SNS F211",
+  "course_title": "Fundamentals of Nanoscience and Nanotechnology",
+  "credits": null,
+  "instructor_in_charge": "Prof. Sarbani Ghosh (sarbani.ghosh@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Surprised Quiz",
+      "weightage_percent": 10,
+      "when": "During Class Hours",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Tests",
+      "weightage_percent": 25,
+      "when": "During Tutorial Class Hours (TBA)",
+      "notes": null
+    },
+    {
+      "component": "Midsemester",
+      "weightage_percent": 25,
+      "when": "07/10/2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "08/12/2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted for genuine cases only where hospitalization is prescribed. Certificate from an CMO must accompany the make-up application. Except for an emergency, for all other cases, prior permission of IC is compulsory. No make-up for class/tutorial tests and assignments.",
+  "extraction_notes": null
+}

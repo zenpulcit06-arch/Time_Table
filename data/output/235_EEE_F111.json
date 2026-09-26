@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F111",
+  "course_title": "ELECTRICAL SCIENCES",
+  "credits": null,
+  "instructor_in_charge": "Hitesh Datt Mathur",
+  "evaluation_components": [
+    {
+      "component": "Class participation*",
+      "weightage_percent": 5,
+      "when": "During lecture Hour",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20,
+      "when": "During Tutorial Hour",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Mid-Sem. Exam",
+      "weightage_percent": 30,
+      "when": "Refer Time Table",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 45,
+      "when": "Refer Time Table",
+      "notes": "Closed Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE G513",
+  "course_title": "Machine Learning for Electronics Engineers",
+  "credits": null,
+  "instructor_in_charge": "Dr. Ritesh Vyas",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem",
+      "weightage_percent": 25,
+      "when": "As decided by AGSRD",
+      "notes": null
+    },
+    {
+      "component": "Assessment Tasks",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Projects",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "As decided by AGSRD",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up examination will be given only in extremely genuine cases for which prior permission of the instructor-in-charge is required.",
+  "extraction_notes": null
+}

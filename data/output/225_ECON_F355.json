@@ -1,0 +1,29 @@
+{
+  "course_id": "ECON F355",
+  "course_title": "BUSINESS ANALYSIS AND VALUATION",
+  "credits": null,
+  "instructor_in_charge": "Dr. Aprajita Pandey",
+  "evaluation_components": [
+    {
+      "component": "Announced Quiz (2 of 3)",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "TBA"
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per Time Table",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 40,
+      "when": "As per Time Table",
+      "notes": "Partially Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for the Mid-Sem and Comprehensive examinations shall be granted only in genuine cases (such as hospitalization) after a thorough examination of the application. The conduct of make-up is to be decided by the instructor-in-charge only. Please note- No make-up shall be granted for the Quizzes; out of three quizzes, the best 2 will be considered for the final evaluation.",
+  "extraction_notes": null
+}

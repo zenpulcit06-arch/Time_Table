@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE G549",
+  "course_title": "Fundamentals of Optoelectronics",
+  "credits": null,
+  "instructor_in_charge": null,
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Test",
+      "weightage_percent": 25,
+      "when": "10/10 FN2",
+      "notes": null
+    },
+    {
+      "component": "Lab Component",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": "OB"
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "Total 5 CB"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "15/12 AN",
+      "notes": "CB/OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up will be permitted only in genuine cases with prior permission. Other than medical reason prior permission of IC is compulsory. No make up for quizzes.",
+  "extraction_notes": null
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "EEE G614",
+  "course_title": "Advanced Wireless Communications",
+  "credits": null,
+  "instructor_in_charge": "Dr. Monolina Dutta",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "8/10/2026 AN2",
+      "notes": null
+    },
+    {
+      "component": "Seminar & Attendance",
+      "weightage_percent": 20,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Take-home assignments",
+      "weightage_percent": 20,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Quiz (s)",
+      "weightage_percent": 10,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "12 /12/2026 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be given for quizzes; however, for other components, make-up will be given ONLY in cases of sickness (hospitalization). In such cases, students must produce sufficient proof and pre-inform the Instructor.",
+  "extraction_notes": null
+}

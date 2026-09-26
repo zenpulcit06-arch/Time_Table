@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA G619",
+  "course_title": "Screening Methods and Techniques in Pharmacology",
+  "credits": null,
+  "instructor_in_charge": "Richa Shrivastava",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Lab component",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-Ups are not given as a routine. It is solely dependent upon the genuineness of the circumstances under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge. The decision of the Instructor-in-Charge in the above matter will be final",
+  "extraction_notes": null
+}

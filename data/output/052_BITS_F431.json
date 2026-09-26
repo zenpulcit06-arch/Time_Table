@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS F431",
+  "course_title": "Flexible Manufacturing Systems",
+  "credits": null,
+  "instructor_in_charge": "Tufan Chandra Bera",
+  "evaluation_components": [
+    {
+      "component": "Midsem Test",
+      "weightage_percent": 30,
+      "when": "07/10/2026 FN1",
+      "notes": "Date and nature of component"
+    },
+    {
+      "component": "Assignments / Case Studies",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": "Nature of component"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "10/12/2026 FN",
+      "notes": "Date and nature of component"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "[Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.]",
+  "extraction_notes": null
+}

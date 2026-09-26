@@ -1,0 +1,47 @@
+{
+  "course_id": "GS F222",
+  "course_title": "Language Lab Practice",
+  "credits": null,
+  "instructor_in_charge": "CHINTALAPALLI VIJAYAKUMAR",
+  "evaluation_components": [
+    {
+      "component": "Listening assignments",
+      "weightage_percent": 15,
+      "when": "In-class assessment/ CB",
+      "notes": null
+    },
+    {
+      "component": "Speaking assignments",
+      "weightage_percent": 25,
+      "when": "In-class assessment/ OB",
+      "notes": null
+    },
+    {
+      "component": "Reading assignments",
+      "weightage_percent": 20,
+      "when": "In-class assessment/ CB",
+      "notes": null
+    },
+    {
+      "component": "Writing assignments",
+      "weightage_percent": 25,
+      "when": "In-class assessment/ OB",
+      "notes": null
+    },
+    {
+      "component": "Classroom Participation",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Practice-based Lab Evaluation",
+      "weightage_percent": 100,
+      "when": "To be announced in class",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "NO Make-up for the CB evaluatives. If any, student should obtain prior permission with a valid proof.",
+  "extraction_notes": null
+}

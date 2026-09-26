@@ -1,0 +1,35 @@
+{
+  "course_id": "CE F417",
+  "course_title": "Applications of Artificial Intelligence in Civil Engineering",
+  "credits": null,
+  "instructor_in_charge": "RAJIV GUPTA",
+  "evaluation_components": [
+    {
+      "component": "Problem solving",
+      "weightage_percent": 20,
+      "when": "Once in a week Buffer 20%",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 30,
+      "when": "Continuous Title, Group, Methodology, Ms, Final",
+      "notes": "All components are must"
+    },
+    {
+      "component": "Webinar",
+      "weightage_percent": 15,
+      "when": "90 min *4 Once in a month 3/4",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "180 min 13/12 FN",
+      "notes": "OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior permission is must.",
+  "extraction_notes": null
+}

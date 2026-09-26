@@ -1,0 +1,35 @@
+{
+  "course_id": "GS F321",
+  "course_title": "Mass Media Content and Design",
+  "credits": null,
+  "instructor_in_charge": "V S NIRBAN",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem",
+      "weightage_percent": 30,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Compre. Exam",
+      "weightage_percent": 40,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Assignment 1",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "TBA"
+    },
+    {
+      "component": "Assignment 2",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "TBA"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "If the student cannot appear for the Regular Test/Examination due to genuine exigencies, they must follow the procedure for applying for a Make-up Examination. No make-up for the tutorials.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "CE G614",
+  "course_title": "PRESTRESSED CONCRETE STRUCTURES",
+  "credits": null,
+  "instructor_in_charge": "Prof. Subhasis Pradhan",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "As per the timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per the timetable",
+      "notes": "Open Notebook (Own handwritten)"
+    },
+    {
+      "component": "Class Tests",
+      "weightage_percent": 20,
+      "when": "Spread over the semester",
+      "notes": "Open Book/Open notebook"
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 15,
+      "when": "Spread over the semester",
+      "notes": "Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "If the student is unable to appear for the Regular Test/Examination due to genuine exigencies, the student must refer to the procedure for applying for the Make-up Test/Examination. No Make-up for the Class Tests and assignments.",
+  "extraction_notes": null
+}

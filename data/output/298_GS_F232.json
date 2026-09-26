@@ -1,0 +1,35 @@
+{
+  "course_id": "GSF 232",
+  "course_title": "Introductory Psychology",
+  "credits": null,
+  "instructor_in_charge": "Prof. Tanu Shukla",
+  "evaluation_components": [
+    {
+      "component": "Assessment 1",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "Quiz (Open Book)"
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 30,
+      "when": "As announced in the timetable",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Assessment 2",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "Quiz"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "As announced in the timetable",
+      "notes": "Closed book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

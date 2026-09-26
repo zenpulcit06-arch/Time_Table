@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F323",
+  "course_title": "Energy Storage Technologies",
+  "credits": null,
+  "instructor_in_charge": "Dr. Srinibas Tripathy",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As announced in the timetable",
+      "notes": null
+    },
+    {
+      "component": "Projects, Assignment and Seminars",
+      "weightage_percent": 15,
+      "when": "TBA in the class",
+      "notes": "Open or Close Book"
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 15,
+      "when": "TBA in the class",
+      "notes": "Open or Close Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As announced in the timetable",
+      "notes": "Open and Close Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be given only to the medical and other emergency cases (check out AUGSD guidelines for more details) for Mid Semester and Comprehensive exams only. The request application for make-up test should reach the instructor-in-charge one day before the commencement of scheduled test (documentary proof is essential).",
+  "extraction_notes": null
+}

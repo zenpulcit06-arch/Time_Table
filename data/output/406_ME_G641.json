@@ -1,0 +1,35 @@
+{
+  "course_id": "ME G641",
+  "course_title": "Theory of Elasticity & Plasticity",
+  "credits": null,
+  "instructor_in_charge": "J S Rathore",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem",
+      "weightage_percent": 25,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Seminar",
+      "weightage_percent": 20,
+      "when": "Weekly",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Compre. Exam",
+      "weightage_percent": 35,
+      "when": "As per timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted only to genuine cases. For cases related to illness, proper documentary evidence is essential. Prior permission is necessary.",
+  "extraction_notes": null
+}

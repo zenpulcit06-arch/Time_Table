@@ -1,0 +1,35 @@
+{
+  "course_id": "CHE F314",
+  "course_title": "Process Design Principles I",
+  "credits": null,
+  "instructor_in_charge": "SURESH GUPTA",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "10/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Class Quizzes (Surprize)",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "ASPEN Assignment + related quizzes*",
+      "weightage_percent": 20,
+      "when": "To be announced in Nalanda Portal",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "15/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for Mid Semester Test and Comprehensive Examination will be granted only for genuine reason(s) for not appearing in the regular test. Proper proofs must be submitted along with Make-up application. Prior permission of IC is compulsory.",
+  "extraction_notes": null
+}

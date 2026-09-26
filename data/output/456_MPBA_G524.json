@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA G524",
+  "course_title": "MARKETING ANALYTICS",
+  "credits": null,
+  "instructor_in_charge": "Prof. Achint Nigam (achint.nigam@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Quiz-1 (September)",
+      "weightage_percent": 10,
+      "when": "TBD",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Quiz-2 (November)",
+      "weightage_percent": 10,
+      "when": "TBD",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Group Project*",
+      "weightage_percent": 20,
+      "when": "TBD",
+      "notes": "TBD"
+    },
+    {
+      "component": "Mid Term",
+      "weightage_percent": 25,
+      "when": "TBD",
+      "notes": "TBD"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "TBD",
+      "notes": "TBD"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-ups will be granted for Projects, Labs and quizzes. For other components, proper medical certification from the institute's medical center will be essential. Makeups if any will be on IC discretion",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "PHY F211",
+  "course_title": "Classical Mechanics",
+  "credits": null,
+  "instructor_in_charge": "Biswanath Layek (layek@pilani.bits-pilani.ac.in; 3242-B)",
+  "evaluation_components": [
+    {
+      "component": "Four tutorial tests",
+      "weightage_percent": 24,
+      "when": "To be announced in class/Google Classroom at least one week prior to the scheduled test",
+      "notes": null
+    },
+    {
+      "component": "Two take-home assignments",
+      "weightage_percent": 6,
+      "when": "The details will be shared in class/Google Classroom",
+      "notes": null
+    },
+    {
+      "component": "MidSem Exam",
+      "weightage_percent": 30,
+      "when": "08/10 (AN1), as per the AUGSD timetable",
+      "notes": null
+    },
+    {
+      "component": "Compre-Exam",
+      "weightage_percent": 40,
+      "when": "12/12 (FN), as per the AUGSD timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "No make-up for tutorial tests. For midterm/comprehensive exam, make up will be granted to genuine cases after proper verification (case-by-case basis).",
+  "extraction_notes": null
+}

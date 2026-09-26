@@ -1,0 +1,47 @@
+{
+  "course_id": "CE G617",
+  "course_title": "Advance Structural Analysis",
+  "credits": null,
+  "instructor_in_charge": "SHAMSHER BAHADUR SINGH",
+  "evaluation_components": [
+    {
+      "component": "Class discussions",
+      "weightage_percent": 10,
+      "when": "2 days per week",
+      "notes": "Will be counted as marks for class interaction."
+    },
+    {
+      "component": "Quiz, 2Nos",
+      "weightage_percent": 10,
+      "when": "50 minutes",
+      "notes": "To be announced in the class. One quiz before the midterm and other before the comprehensive examination"
+    },
+    {
+      "component": "Midterm Examination",
+      "weightage_percent": 25,
+      "when": "7th October, 2026, FN2",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Take Home",
+      "weightage_percent": 10,
+      "when": "one per week",
+      "notes": null
+    },
+    {
+      "component": "Course Project",
+      "weightage_percent": 15,
+      "when": "Over the semester",
+      "notes": "Midterm: 29/9/2026 Final Submission:28/11/2026 Open Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "8rd December, 2026, AN",
+      "notes": "Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup for only midterm and comprehensive examinations will be given provided the prior request is made with genuine reason.",
+  "extraction_notes": null
+}

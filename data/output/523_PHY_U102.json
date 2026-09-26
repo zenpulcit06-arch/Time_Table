@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY U102",
+  "course_title": "Introduction to Classical and Quantum Waves",
+  "credits": null,
+  "instructor_in_charge": "Madhukar Mishra",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester test",
+      "weightage_percent": 30,
+      "when": "07/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Tests (Best 3 out of 4)",
+      "weightage_percent": 30,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "10/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes, lab sessions, and participate in all evaluation components.",
+  "makeup_policy": "Stringent. Only in the most genuine cases, as judged by the IC. Make-up will not be given for the tutorial tests.",
+  "extraction_notes": null
+}

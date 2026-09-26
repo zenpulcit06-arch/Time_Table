@@ -1,0 +1,29 @@
+{
+  "course_id": "CHEM F337",
+  "course_title": "Green Chemistry and Catalysis",
+  "credits": null,
+  "instructor_in_charge": "PARTHA SARATHI ADDY",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per the time table",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per the time table",
+      "notes": null
+    },
+    {
+      "component": "Continuous Evaluation*&**",
+      "weightage_percent": 30,
+      "when": "Will be announced through Nalanda",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No makeup for quizzes for any reason as one buffer is there. Make up for midsem and compre would be considered only for genuine reasons decided by the instructor.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F461",
+  "course_title": "Refrigeration and Air-conditioning",
+  "credits": null,
+  "instructor_in_charge": "MANOJ KUMAR SONI",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Lecture tests (Surprise)",
+      "weightage_percent": 10,
+      "when": "During class hours",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Assignments/ Projects/ Activity-based evaluation",
+      "weightage_percent": 25,
+      "when": "Announced later",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": "Closed and Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up shall be given only to genuine cases and will be entertained through the AUGSD portal only. No makeup for the surprise components.",
+  "extraction_notes": null
+}

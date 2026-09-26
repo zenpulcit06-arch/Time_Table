@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS F437",
+  "course_title": "Technical Communication",
+  "credits": null,
+  "instructor_in_charge": "GAJENDRA SINGH CHAUHAN",
+  "evaluation_components": [
+    {
+      "component": "Midsemester Test",
+      "weightage_percent": 30,
+      "when": "90 mins Closed Book",
+      "notes": null
+    },
+    {
+      "component": "Assignments & Classroom Participation",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "180 mins Closed Book",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "While there is no makeup for assignments, for genuine cases upon submission of proof, the make-up will be administered for other evaluatives as per AUGSD-AGSRD rules. However, the student must contact the instructor for his approval. In these matters, IC\u2019s decision shall be final.",
+  "extraction_notes": null
+}

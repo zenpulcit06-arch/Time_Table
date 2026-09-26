@@ -1,0 +1,29 @@
+{
+  "course_id": "CS F415",
+  "course_title": "Data Mining",
+  "credits": null,
+  "instructor_in_charge": "YASHVARDHAN SHARMA (yash@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem Exam",
+      "weightage_percent": 25,
+      "when": "09/10AN1",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Quiz/Labs/OnlineTest/Project",
+      "weightage_percent": 35,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "14/12 FN",
+      "notes": "Partly open"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior Permission is must and Make-up shall be granted only in genuine cases based on individual\u2019s need and circumstances.",
+  "extraction_notes": null
+}

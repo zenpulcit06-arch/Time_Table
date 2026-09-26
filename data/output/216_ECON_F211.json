@@ -1,0 +1,35 @@
+{
+  "course_id": "ECON F211",
+  "course_title": "PRINCIPLES OF ECONOMICS",
+  "credits": null,
+  "instructor_in_charge": "Prof. GEETILAXMI MOHAPATRA",
+  "evaluation_components": [
+    {
+      "component": "Class Participation",
+      "weightage_percent": 5,
+      "when": "Every class",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester Test",
+      "weightage_percent": 30,
+      "when": "10/10 AN1",
+      "notes": "90 Min, Closed Book"
+    },
+    {
+      "component": "Announced Quizzes (Best 5 out of 6)",
+      "weightage_percent": 25,
+      "when": "To Be Announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "16/12 FN",
+      "notes": "3 Hrs, Partially Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up exam for Mid Semester Test and Comprehensive Examination may be given only on genuine grounds (only in case of hospitalization with proof); prior permission of I/C is required to get a makeup test. No makeup exams for quizzes.",
+  "extraction_notes": null
+}

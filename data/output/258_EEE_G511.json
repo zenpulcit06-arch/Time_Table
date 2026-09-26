@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE G511",
+  "course_title": "RF AND MICROWAVE CIRCUIT DESIGN",
+  "credits": null,
+  "instructor_in_charge": "Dinesh Rano",
+  "evaluation_components": [
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": "closed book (4 quizzes during lecture hours \u2013 all compulsory)"
+    },
+    {
+      "component": "Mid-semester test",
+      "weightage_percent": 20,
+      "when": "07/10, FN2",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Laboratory performance and assignment \u2013 2",
+      "weightage_percent": 40,
+      "when": "TBA in class",
+      "notes": "Open book (seminar presentation in group/individual \u2013 2 + simulation project)"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "08/12, AN",
+      "notes": "Closed and open book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will not be given for quizzes or assignments. Make-up for other components is a one-time provision that applies only in cases of 'extreme medical emergency'. Seasonal fever, allergy, loose motion, vomiting, mood swing, attending celebrations, ceremonies etc do not qualify for make-up.",
+  "extraction_notes": null
+}

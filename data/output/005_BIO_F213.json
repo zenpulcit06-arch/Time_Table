@@ -1,0 +1,41 @@
+{
+  "course_id": "BIO F213",
+  "course_title": "CELL BIOLOGY",
+  "credits": null,
+  "instructor_in_charge": "Syamantak Majumder",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 50,
+      "when": "08/10 AN1",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Course Quizzes (2)",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Tutorial Lab Activity and Assessment",
+      "weightage_percent": 20,
+      "when": "-",
+      "notes": "During Tutorial Hours, Open Book, (Announced)"
+    },
+    {
+      "component": "In-class Assignment",
+      "weightage_percent": 20,
+      "when": "-",
+      "notes": "To be held periodically, mainly unannounced, Closed Book/Open Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 70,
+      "when": "12/12 FN",
+      "notes": "Closed Book/Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "If a student misses the Mid-Semester or Comprehensive Examination due to a genuine reason (serious medical causes leading to hospitalization (certified by doctor from BITS medical center), personal/family emergencies) there exists a provision to apply for make-up. Prior permission must be taken from the Instructor-in-Charge, before applying for make-up. Make-up decisions will be made on a case-by-case basis and only genuine cases as determined by the Departmental team will be considered. No Make-Up will be granted for quiz, assignments and project assignments.",
+  "extraction_notes": null
+}

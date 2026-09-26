@@ -1,0 +1,35 @@
+{
+  "course_id": "BIO F211",
+  "course_title": "Biological Chemistry",
+  "credits": null,
+  "instructor_in_charge": "Prof. Meghana Tare",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 25,
+      "when": "During tutorial hours/will be announced",
+      "notes": null
+    },
+    {
+      "component": "Assignments/Class Discussions/In class tests#",
+      "weightage_percent": 10,
+      "when": "Surprise",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Attendance is required in order to gain understanding to various aspects of the course. Attendance will be monitored based on appearing in classroom. Besides, surprise evaluation components will be held during class/tutorial hours, for which, no make-up will be given.",
+  "makeup_policy": "If a student misses the Mid-Semester or Comprehensive Examination due to a genuine reason (serious medical causes leading to hospitalization (certified by doctor from BITS medical center) or personal/family emergencies there exists a provision to apply for make-up. Prior permission must be taken from the Instructor in- Charge, before applying for make-up. No Make-Up will be granted for the evaluation components or activities that are held in lecture/tutorial classes. The decision to grant make-up or not is taken by the instructor team/department DCA and shall be final.",
+  "extraction_notes": null
+}

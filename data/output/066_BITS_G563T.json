@@ -1,0 +1,47 @@
+{
+  "course_id": "BITS G629T/ BITS G561T/ BITS G562T/ BITS G563T/ BITS G564T",
+  "course_title": "DISSERTATION",
+  "credits": null,
+  "instructor_in_charge": "Associate Dean, AGSRD",
+  "evaluation_components": [
+    {
+      "component": "Viva-I",
+      "weightage_percent": 15,
+      "when": "5th week",
+      "notes": null
+    },
+    {
+      "component": "Mid. sem. Written report",
+      "weightage_percent": 15,
+      "when": "10th week",
+      "notes": null
+    },
+    {
+      "component": "Mid sem. presentation",
+      "weightage_percent": 15,
+      "when": "10th week",
+      "notes": null
+    },
+    {
+      "component": "Viva-II",
+      "weightage_percent": 15,
+      "when": "15th week",
+      "notes": null
+    },
+    {
+      "component": "Final Dissertation",
+      "weightage_percent": 25,
+      "when": "Last day of class work",
+      "notes": null
+    },
+    {
+      "component": "Final viva-voce",
+      "weightage_percent": 15,
+      "when": "Actual date announced by DRC",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Every student has to sign his attendance regularly with the supervisor or as per the alternative arrangement made by the supervisor. An attendance sheet is being provided for this purpose to the supervisor.",
+  "makeup_policy": null,
+  "extraction_notes": null
+}

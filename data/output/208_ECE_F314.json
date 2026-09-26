@@ -1,0 +1,29 @@
+{
+  "course_id": "ECE F314",
+  "course_title": "Electromagnetic Fields and Microwave Engineering",
+  "credits": null,
+  "instructor_in_charge": "Prof. Pankaj Arora",
+  "evaluation_components": [
+    {
+      "component": "Mid-sem Test",
+      "weightage_percent": 30,
+      "when": "90 min",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive. Exam.",
+      "weightage_percent": 40,
+      "when": "180 min",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be given for Quizzes in any case. Makeup for mid-semester and Comprehensive examinations will be only in extremely genuine cases.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "SS G562",
+  "course_title": "SOFTWARE ENGINEERING AND MANAGEMENT",
+  "credits": null,
+  "instructor_in_charge": "Dr. Tanmaya Mahapatra",
+  "evaluation_components": [
+    {
+      "component": "Software Development Project (team-based)",
+      "weightage_percent": 30,
+      "when": "Abstract: 25.08.2026; Final: 10.11.2026",
+      "notes": null
+    },
+    {
+      "component": "Research Seminar (individual)",
+      "weightage_percent": 10,
+      "when": "10.11.2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "Refer to Time table",
+      "notes": "Partly Open Book; All formulas in printed sheets allowed +Calculator"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "Refer to Time table",
+      "notes": "Partly Open Book; All formulas in printed sheets allowed +Calculator"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "\u2022 Mid-Sem Exam has one make-up. This means, that a student can abstain herself/himself (on valid reasons) in this Test. This makeup would be conducted immediately after regular mid-sem exam and would include complete syllabus. Of course, the student would apply for the makeup in advance with documentary proof. \u2022 Only on producing documentary proof of possible absence, which proves that student would be physically unable to appear for the test/exam, the decision of granting the makeup will be taken. \u2022 Prior Permission of AGSRD is required to get makeup for the comprehensive exam.",
+  "extraction_notes": null
+}

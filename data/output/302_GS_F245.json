@@ -1,0 +1,35 @@
+{
+  "course_id": "GS F245",
+  "course_title": "Effective Public Speaking",
+  "credits": null,
+  "instructor_in_charge": "PUSHP LATA, Manasi Panwar (RS), Apoorv Kumar (RS)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10/2026 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Class Assignments",
+      "weightage_percent": 35,
+      "when": "07/12/26 FN",
+      "notes": null
+    },
+    {
+      "component": "Attendance",
+      "weightage_percent": 5,
+      "when": "Class hour and room M W F 8 6151",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make Up- subject to prior permission.",
+  "extraction_notes": null
+}

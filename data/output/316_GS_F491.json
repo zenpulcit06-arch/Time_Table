@@ -1,0 +1,59 @@
+{
+  "course_id": "GS F491",
+  "course_title": "Special Projects",
+  "credits": null,
+  "instructor_in_charge": "SANGEETA SHARMA",
+  "evaluation_components": [
+    {
+      "component": "Project Title and Plan of Work",
+      "weightage_percent": 5,
+      "when": "2nd Week",
+      "notes": null
+    },
+    {
+      "component": "Written Presentation-I",
+      "weightage_percent": 5,
+      "when": "4th Week",
+      "notes": null
+    },
+    {
+      "component": "Seminar-I/ Viva-I",
+      "weightage_percent": 10,
+      "when": "8th Week",
+      "notes": null
+    },
+    {
+      "component": "Written Presentation II",
+      "weightage_percent": 15,
+      "when": "8th Week",
+      "notes": null
+    },
+    {
+      "component": "Seminar II/ Viva II",
+      "weightage_percent": 10,
+      "when": "12th Week",
+      "notes": null
+    },
+    {
+      "component": "Final Report",
+      "weightage_percent": 25,
+      "when": "16th Week",
+      "notes": null
+    },
+    {
+      "component": "Weekly Interaction and Diary",
+      "weightage_percent": 10,
+      "when": "16th Week",
+      "notes": null
+    },
+    {
+      "component": "Seminar and Viva",
+      "weightage_percent": 20,
+      "when": "16th Week",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

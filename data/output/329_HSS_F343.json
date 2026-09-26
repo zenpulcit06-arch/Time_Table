@@ -1,0 +1,35 @@
+{
+  "course_id": "HSS F343",
+  "course_title": "Professional Ethics",
+  "credits": null,
+  "instructor_in_charge": "Anupam Yadav",
+  "evaluation_components": [
+    {
+      "component": "Assignment",
+      "weightage_percent": 15,
+      "when": "To be announced.",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Case Study",
+      "weightage_percent": 15,
+      "when": "To be announced.",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up components will be allowed for mid-semester and comprehensive exams provided there is a valid documentary proof to support the case.",
+  "extraction_notes": null
+}

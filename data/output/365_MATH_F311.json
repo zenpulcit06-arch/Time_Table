@@ -1,0 +1,29 @@
+{
+  "course_id": "MATH F311",
+  "course_title": "INTRODUCTION TO TOPOLOGY",
+  "credits": null,
+  "instructor_in_charge": "SHUCHITA GOYAL (shuchita.goyal@pilani.bits-pilani.ac.in, 6166-B)",
+  "evaluation_components": [
+    {
+      "component": "Quizzes",
+      "weightage_percent": 30,
+      "when": "Announced",
+      "notes": "There will be four announced class tests of 20 marks and 20 minutes each in lectures/tutorials. Best three among them will be considered for evaluation."
+    },
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 30,
+      "when": "As announced by AUGSD",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As announced by AUGSD",
+      "notes": "Closed Book+Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and appear in all evaluative components.",
+  "makeup_policy": "Makeup applications for the mid semester and comprehensive exams will be approved only on presenting suitable documents. No makeup for class tests will be given under any circumstances.",
+  "extraction_notes": null
+}

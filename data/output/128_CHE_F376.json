@@ -1,0 +1,59 @@
+{
+  "course_id": "CHE F376",
+  "course_title": "Design Project",
+  "credits": null,
+  "instructor_in_charge": "BANASRI ROY",
+  "evaluation_components": [
+    {
+      "component": "Project Outline & Plan of Work",
+      "weightage_percent": 10,
+      "when": "19.08.2026",
+      "notes": null
+    },
+    {
+      "component": "Regular Interation",
+      "weightage_percent": 10,
+      "when": "Full semester",
+      "notes": null
+    },
+    {
+      "component": "Design Related Activities \u2013 1",
+      "weightage_percent": 20,
+      "when": "Till midsemester",
+      "notes": null
+    },
+    {
+      "component": "Midsem Report",
+      "weightage_percent": 10,
+      "when": "10.10.2026",
+      "notes": null
+    },
+    {
+      "component": "Midsem Seminar",
+      "weightage_percent": 5,
+      "when": "10.10.2026",
+      "notes": null
+    },
+    {
+      "component": "Design Related Activities \u2013 2",
+      "weightage_percent": 25,
+      "when": "After midsemester-till endsemester",
+      "notes": null
+    },
+    {
+      "component": "Final Report",
+      "weightage_percent": 10,
+      "when": "02.12.2026",
+      "notes": null
+    },
+    {
+      "component": "Final Seminar and Viva",
+      "weightage_percent": 10,
+      "when": "02.12.2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

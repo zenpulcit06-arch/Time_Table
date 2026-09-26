@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM G521",
+  "course_title": "Environmental Chemistry",
+  "credits": null,
+  "instructor_in_charge": "BHARTI KHUNGAR",
+  "evaluation_components": [
+    {
+      "component": "Continuous Evaluation",
+      "weightage_percent": 15,
+      "when": "Continuous",
+      "notes": "15 min. Closed Book"
+    },
+    {
+      "component": "Term Paper",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": "Literature Survey, Seminars and Research Summaries"
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "06/10 AN2",
+      "notes": "90 Min. Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "07/12 AN",
+      "notes": "180 Min. Closed and Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up would be considered only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

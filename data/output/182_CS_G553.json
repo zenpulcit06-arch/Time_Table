@@ -1,0 +1,35 @@
+{
+  "course_id": "CS G553",
+  "course_title": "Reconfigurable Computing",
+  "credits": null,
+  "instructor_in_charge": "Dr. Meetha V Shenoy",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 25,
+      "when": "90 Min",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Regular Labs/ Lab Assignments /Assignment s",
+      "weightage_percent": 20,
+      "when": "NA",
+      "notes": "Regular/ Open Book"
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 20,
+      "when": "NA",
+      "notes": "Regular/ Open Book"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "3hrs",
+      "notes": "Closed Book"
+    }
+  ],
+  "attendance_policy": "It shall be the responsibility of the individual student to be regular in attending lectures and the lab sessions as per the schedule announced in time table.",
+  "makeup_policy": "In general, Make-up will not be granted without prior permission from IC. If the student is unable to appear for the Mid-Semester Test/ Comprehensive Examination due to exigencies, the student must refer to the AUGSD stipulated procedure for applying for Make-up.",
+  "extraction_notes": null
+}

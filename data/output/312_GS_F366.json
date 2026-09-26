@@ -1,0 +1,59 @@
+{
+  "course_id": "GS F F366",
+  "course_title": "Laboratory Project",
+  "credits": null,
+  "instructor_in_charge": "SANGEETA SHARMA",
+  "evaluation_components": [
+    {
+      "component": "Project Outline & Plan of Work",
+      "weightage_percent": 5,
+      "when": "2nd week",
+      "notes": null
+    },
+    {
+      "component": "Literature Survey",
+      "weightage_percent": 10,
+      "when": "4th week",
+      "notes": null
+    },
+    {
+      "component": "Lab Related Activities \u2013 1",
+      "weightage_percent": 25,
+      "when": "6th week",
+      "notes": null
+    },
+    {
+      "component": "Midsem Report",
+      "weightage_percent": 5,
+      "when": "8th week",
+      "notes": null
+    },
+    {
+      "component": "Midsem Seminar",
+      "weightage_percent": 5,
+      "when": "8th week",
+      "notes": null
+    },
+    {
+      "component": "Lab Related Activities \u2013 2",
+      "weightage_percent": 30,
+      "when": "12th week",
+      "notes": null
+    },
+    {
+      "component": "Final Report",
+      "weightage_percent": 10,
+      "when": "16th week",
+      "notes": null
+    },
+    {
+      "component": "Final Seminar and Viva",
+      "weightage_percent": 10,
+      "when": "16th week",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

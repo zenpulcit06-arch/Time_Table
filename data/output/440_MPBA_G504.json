@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA G504",
+  "course_title": "Managing People & Organization",
+  "credits": null,
+  "instructor_in_charge": "Dr. Jayashree Mahesh",
+  "evaluation_components": [
+    {
+      "component": "Class discussions (Linked to attendance, class assignment/quiz)",
+      "weightage_percent": 5,
+      "when": "Every class",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 15,
+      "when": "TBA*",
+      "notes": null
+    },
+    {
+      "component": "Case Study/Simulation",
+      "weightage_percent": 20,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 25,
+      "when": "05/10/2026 FN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "11/12/2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. Marks for class participation will be based on activities during class.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-semester test or comprehensive exam only. For make-up prior permission from the instructor in-charge should be taken.",
+  "extraction_notes": null
+}

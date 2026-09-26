@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F219",
+  "course_title": "PROCESS ENGINEERING",
+  "credits": null,
+  "instructor_in_charge": "ANIL JINDAL",
+  "evaluation_components": [
+    {
+      "component": "Continuous Evaluation",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": "Best 3 of 4, Closed book"
+    },
+    {
+      "component": "Lab component",
+      "weightage_percent": 20,
+      "when": "In lab",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 30,
+      "when": "90 min",
+      "notes": "As announced in the timetable"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "180 min",
+      "notes": "As announced in the timetable"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

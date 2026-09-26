@@ -1,0 +1,53 @@
+{
+  "course_id": "ECON F313",
+  "course_title": "ISSUES IN ECONOMIC DEVELOPMENT",
+  "credits": null,
+  "instructor_in_charge": "Prof. BALAKRUSHNA PADHI",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "06-10-2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 40,
+      "when": "05-12-2026",
+      "notes": null
+    },
+    {
+      "component": "Class participation/attendance",
+      "weightage_percent": 10,
+      "when": "23-11-2026",
+      "notes": null
+    },
+    {
+      "component": "Homework/ Assignments",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Tut Test 1",
+      "weightage_percent": 10,
+      "when": "24-09-2026",
+      "notes": null
+    },
+    {
+      "component": "Tut Test 2",
+      "weightage_percent": 10,
+      "when": "12-11-2026",
+      "notes": null
+    },
+    {
+      "component": "Tut Test 3",
+      "weightage_percent": 10,
+      "when": "19-11-2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. Class discussions will be highly beneficial for better learning and higher scores. The AUGSD's attendance policy will be strictly followed.",
+  "makeup_policy": "Makeup for the mid-semester exam and comprehensive examination shall be granted only in genuine cases accompanied by proof, as per the academic regulations, after a thorough examination of the makeup application. Only requests submitted before or within 2 days of the exam will be considered for a thorough review. Please do not make requests after the application period is over. Also, no makeup requests will be considered for the quizzes. Please note: out of the three tutorial tests (quizzes), the best 2 will be considered for the final evaluation.",
+  "extraction_notes": null
+}

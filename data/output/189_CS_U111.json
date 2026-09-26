@@ -1,0 +1,41 @@
+{
+  "course_id": "CS U111",
+  "course_title": "Computational Thinking & Programming",
+  "credits": null,
+  "instructor_in_charge": "Prof. Vinti Agarwal",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 33.33,
+      "when": "Oct 08 AN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 66.67,
+      "when": "Dec 02 AN",
+      "notes": "* Open/Closed Book"
+    },
+    {
+      "component": "Programming Quiz",
+      "weightage_percent": 47,
+      "when": "Nov 15",
+      "notes": "Open-book (Limited to material uploaded on the exam portal). Students are not allowed to bring anything with them."
+    },
+    {
+      "component": "Lab participation",
+      "weightage_percent": 20,
+      "when": "2 hrs every week",
+      "notes": "Continuous assessment (Best 8 out of 10)"
+    },
+    {
+      "component": "Poster presentation",
+      "weightage_percent": 16.67,
+      "when": "Oct 24 & Oct 25",
+      "notes": "Group Presentation"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-ups are generally considered only for medical emergencies leading to hospitalization (or a personal emergency of similar nature). The decision by AUGSD and the Instructor-in-Charge regarding granting make-ups shall be final. Makeups are allowed for Mid-Semester Test, Comprehensive Examination and Programming Test. No makeup for weekly laboratory sessions.",
+  "extraction_notes": null
+}

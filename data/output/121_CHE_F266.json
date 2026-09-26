@@ -1,0 +1,53 @@
+{
+  "course_id": "CHE F266",
+  "course_title": "Study Project",
+  "credits": null,
+  "instructor_in_charge": "BANASRI ROY",
+  "evaluation_components": [
+    {
+      "component": "Project Outline & Plan of Work",
+      "weightage_percent": 10,
+      "when": "21.08.2026",
+      "notes": null
+    },
+    {
+      "component": "Regular Interaction",
+      "weightage_percent": 10,
+      "when": "full semester",
+      "notes": null
+    },
+    {
+      "component": "Seminar I/Viva I",
+      "weightage_percent": 10,
+      "when": "28.09.2026",
+      "notes": null
+    },
+    {
+      "component": "Midsem Report",
+      "weightage_percent": 15,
+      "when": "10.10.2026",
+      "notes": null
+    },
+    {
+      "component": "Midsem Seminar",
+      "weightage_percent": 15,
+      "when": "15.10.2026",
+      "notes": null
+    },
+    {
+      "component": "Final Report",
+      "weightage_percent": 20,
+      "when": "02.12.2026",
+      "notes": null
+    },
+    {
+      "component": "Final Seminar and Viva",
+      "weightage_percent": 20,
+      "when": "02.12.2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

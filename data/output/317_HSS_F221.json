@@ -1,0 +1,35 @@
+{
+  "course_id": "HSS F221",
+  "course_title": "Readings from Drama",
+  "credits": null,
+  "instructor_in_charge": "PRATEEK",
+  "evaluation_components": [
+    {
+      "component": "Class Assignment (1)",
+      "weightage_percent": 15,
+      "when": "to be announced",
+      "notes": null
+    },
+    {
+      "component": "Assignment 2",
+      "weightage_percent": 20,
+      "when": "to be announced",
+      "notes": null
+    },
+    {
+      "component": "Mid-Sem Test",
+      "weightage_percent": 30,
+      "when": "As per the AUGSD schedule",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "As per the AUGSD schedule",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Students are required to attend and participate in classes.",
+  "makeup_policy": "As per the AUGSD guidelines",
+  "extraction_notes": null
+}

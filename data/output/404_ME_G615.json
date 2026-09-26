@@ -1,0 +1,35 @@
+{
+  "course_id": "ME G615",
+  "course_title": "Computer Aided Design & Additive Manufacturing",
+  "credits": null,
+  "instructor_in_charge": "Sunil Sinhmar (sunil.sinhmar@pilani.bits-pilani.ac.in, Chamber No. 2220-L)",
+  "evaluation_components": [
+    {
+      "component": "Mid-SemesterTest",
+      "weightage_percent": 25,
+      "when": "05/10/26",
+      "notes": null
+    },
+    {
+      "component": "Projects/Seminars",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Quiz/Viva/Assignment",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "ComprehensiveExamination",
+      "weightage_percent": 35,
+      "when": "11/12/26",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Attendance requirements will be governed by the applicable Institute rules and course instructions announced by the Instructor-in-Charge.",
+  "makeup_policy": "Make-up will be granted only in genuine cases with prior permission, as per Institute rules. No make-up will be allowed for the Project, Quiz, Seminar, or Evaluative Tests.",
+  "extraction_notes": null
+}

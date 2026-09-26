@@ -1,0 +1,29 @@
+{
+  "course_id": "ENGL C261 GS F241",
+  "course_title": "Creative Writing",
+  "credits": null,
+  "instructor_in_charge": "DEVIKA",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Assign",
+      "weightage_percent": 50,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior written permission is to be taken for the genuine reasons.",
+  "extraction_notes": null
+}

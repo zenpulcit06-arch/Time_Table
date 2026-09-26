@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE G559",
+  "course_title": "ADV Power Electronics",
+  "credits": null,
+  "instructor_in_charge": "Rajneesh Kumar",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "Refer Timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "Refer Timetable",
+      "notes": "Close Book/Open Book"
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Laboratory experiments",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "As per AUGSD guidelines",
+  "extraction_notes": null
+}

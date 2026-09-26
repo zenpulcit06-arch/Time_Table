@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE G626",
+  "course_title": "Hardware and Software Codesign",
+  "credits": null,
+  "instructor_in_charge": "Prof. Vinay Chamola",
+  "evaluation_components": [
+    {
+      "component": "Midsem",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Lab test",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up without prior permission.",
+  "extraction_notes": null
+}

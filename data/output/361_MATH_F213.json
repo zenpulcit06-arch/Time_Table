@@ -1,0 +1,29 @@
+{
+  "course_id": "MATH F213",
+  "course_title": "Discrete Mathematics",
+  "credits": null,
+  "instructor_in_charge": "DIVYUM SHARMA",
+  "evaluation_components": [
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20,
+      "when": "30 mins. each",
+      "notes": "Closed book; 3 announced quizzes; best 2 out of 3 quiz scores will be considered"
+    },
+    {
+      "component": "Mid-Semester",
+      "weightage_percent": 35,
+      "when": "05/10 AN2 or, as announced by AUGSD",
+      "notes": "90 mins. Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "03/12 AN or, as announced by AUGSD",
+      "notes": "180 mins. Open book/Closed book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and appear in all evaluative components.",
+  "makeup_policy": "Make-up form mid-semester and comprehensive exams will be given only for very genuine cases, and prior permission must be obtained from IC. No make-up will be given for quizzes under any circumstances whatsoever.",
+  "extraction_notes": null
+}

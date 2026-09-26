@@ -1,0 +1,35 @@
+{
+  "course_id": "CE G525",
+  "course_title": "Water Resources Planning and Management",
+  "credits": null,
+  "instructor_in_charge": "AJIT PRATAP SINGH",
+  "evaluation_components": [
+    {
+      "component": "Mid semester",
+      "weightage_percent": 25,
+      "when": "05/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Project* (Includes term paper and seminar)",
+      "weightage_percent": 30,
+      "when": "To be announced from time to time",
+      "notes": null
+    },
+    {
+      "component": "Class Participation and Home Assignments",
+      "weightage_percent": 10,
+      "when": "To be announced from time to time",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "03/12 (AN) CB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "As BITS Pilani is a fully residential university with an internal and continuous evaluation system, it is expected that every student demonstrates a high level of responsibility by maintaining 100% attendance in all classes and laboratory sessions. Regular attendance and class participation are integral components of the learning process, and students are expected to appear in all scheduled tests and examinations and complete assigned academic tasks sincerely and on time. While 100% attendance is the expected norm, under no circumstances should a student\u2019s attendance fall below 60% in this course. A student falling short of this minimum attendance requirement shall not be permitted to appear in the comprehensive examination and will be considered as not having cleared the course.",
+  "makeup_policy": "Make-up will be granted only on genuine reasons. However, prior permission is must. For medical cases, a certificate from the concerned physician of the Medical Centre must be produced.",
+  "extraction_notes": null
+}

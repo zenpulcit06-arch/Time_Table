@@ -1,0 +1,29 @@
+{
+  "course_id": "CE F320",
+  "course_title": "DESIGN OF REINFORCED CONCRETE STRUCTURES",
+  "credits": null,
+  "instructor_in_charge": "MANOJ KUMAR",
+  "evaluation_components": [
+    {
+      "component": "Evaluative Tutorials",
+      "weightage_percent": 25,
+      "when": "W1",
+      "notes": "Open Book [TBA]"
+    },
+    {
+      "component": "Mid-semester Exam.",
+      "weightage_percent": 30,
+      "when": "8/10 FN1",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 45,
+      "when": "1/12 FN",
+      "notes": "Close Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted only to genuine cases. For cases related to illness, prior permission with proper documentary evidence is essential.",
+  "extraction_notes": null
+}

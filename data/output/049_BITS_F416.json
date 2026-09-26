@@ -1,0 +1,41 @@
+{
+  "course_id": "BITS F416",
+  "course_title": "Introduction to Nano Science",
+  "credits": null,
+  "instructor_in_charge": "Prof. Sarbani Ghosh (sarbani.ghosh@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Surprised Quiz",
+      "weightage_percent": 10,
+      "when": "During Class Hours",
+      "notes": null
+    },
+    {
+      "component": "Assignment/Project (Part-I)",
+      "weightage_percent": 10,
+      "when": "Submission Date: 01/10/2026",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Midsemester",
+      "weightage_percent": 25,
+      "when": "07/10/2026",
+      "notes": "Close Book/ Open Book"
+    },
+    {
+      "component": "Assignment/Project (Part-II)",
+      "weightage_percent": 15,
+      "when": "Submission Date: 23/11/2026",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "08/12/2026",
+      "notes": "Close Book/ Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted for genuine cases only where hospitalization is prescribed. Certificate from an CMO must accompany the make-up application. Except for an emergency, for all other cases, prior permission of IC is compulsory. No make-up for class tests and assignments.",
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY F318",
+  "course_title": "Atoms and Photons",
+  "credits": null,
+  "instructor_in_charge": "Amol R Holkundkar",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "10th Oct 2025",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "13th Dec 2025",
+      "notes": "Partly closed and partly open"
+    },
+    {
+      "component": "Tutorial Tests",
+      "weightage_percent": 30,
+      "when": "TBA a week prior",
+      "notes": "30 minutes each, Closed Book Tutorial Tests"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

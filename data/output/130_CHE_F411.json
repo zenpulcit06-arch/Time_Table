@@ -1,0 +1,41 @@
+{
+  "course_id": "CHE F411",
+  "course_title": "Environmental Pollution Control",
+  "credits": null,
+  "instructor_in_charge": "Banasri Roy",
+  "evaluation_components": [
+    {
+      "component": "Announced Quiz (6 out of 8)",
+      "weightage_percent": 15,
+      "when": "Continuous mode",
+      "notes": null
+    },
+    {
+      "component": "2 Assignments (To be discussed/announced in class)",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "1 Seminar (To be discussed/announced in class)",
+      "weightage_percent": 10,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "2 Research paper study/case study etc. (To be discussed/announced in class)",
+      "weightage_percent": 15,
+      "when": "OB/CB",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "3 hrs",
+      "notes": "Close Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted for genuine cases only. Certificate from authenticated doctor, say from the Medical Center, must accompany make-up application (only prescription or vouchers for medicines will not be sufficient). Prior permission of IC is compulsory. No make-up will be granted for the EC Nos. 1 to 4.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "SAN G511",
+  "course_title": "Sanitation Technology",
+  "credits": null,
+  "instructor_in_charge": "ANUPAM SINGHAL",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem test",
+      "weightage_percent": 30,
+      "when": "7/10 AN",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 15,
+      "when": "Once per month",
+      "notes": "Best 4 out of 5"
+    },
+    {
+      "component": "Seminar / take home assignments",
+      "weightage_percent": 20,
+      "when": "Will be announced",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "10/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted only on genuine reasons. However, prior permission is must. For medical cases, a certificate from the concerned physician of the Medical Centre must be produced",
+  "extraction_notes": null
+}

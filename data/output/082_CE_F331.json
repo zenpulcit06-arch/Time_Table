@@ -1,0 +1,29 @@
+{
+  "course_id": "CE F331",
+  "course_title": "In-situ Testing Methods in Geotechnical Engineering",
+  "credits": null,
+  "instructor_in_charge": "Dr. Sayantan Chakraborty",
+  "evaluation_components": [
+    {
+      "component": "Quiz",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 30,
+      "when": "Throughout the semester",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Criterion",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up exams will be conducted for quizzes or project presentations. Make-up request for Comprehensive examination must be notified before the examination and decision will be made as per institute norms. Make-up requests made on medical grounds may not be approved unless recommended by CMO BITS Pilani.",
+  "extraction_notes": null
+}

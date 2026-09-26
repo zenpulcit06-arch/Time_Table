@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F301",
+  "course_title": "Principles of Programming Languages",
+  "credits": null,
+  "instructor_in_charge": "Amit Dua (amit.dua@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Quiz 1",
+      "weightage_percent": 12.5,
+      "when": "2nd September 2026",
+      "notes": null
+    },
+    {
+      "component": "Quiz 2",
+      "weightage_percent": 12.5,
+      "when": "30th September 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "8th October 2026 (FN)",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "1st December 2026 (FN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be given in case of extreme medical emergency or hospitalization only.",
+  "extraction_notes": null
+}

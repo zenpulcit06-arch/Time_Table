@@ -1,0 +1,29 @@
+{
+  "course_id": "CE G523",
+  "course_title": "Transportation Systems Planning and Management",
+  "credits": null,
+  "instructor_in_charge": "Vinayak Malaghan",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "90 Min.",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "3 h",
+      "notes": null
+    },
+    {
+      "component": "Quiz/Assignment",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": "Spread over the semester"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior permission for all make ups are a must. For medical emergencies, requests have to be forwarded by the Chief Warden to the satisfaction of IC.",
+  "extraction_notes": null
+}

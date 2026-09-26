@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F428",
+  "course_title": "Essentials of Strategic Management",
+  "credits": null,
+  "instructor_in_charge": "Praveen Goyal",
+  "evaluation_components": [
+    {
+      "component": "Mid term",
+      "weightage_percent": 25,
+      "when": "09/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Assignments/Project / Case Studies",
+      "weightage_percent": 20,
+      "when": "Will be announced in the class",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "Will be announced in the class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "13/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Students are expected to attend all lectures and participate in all evaluative components.",
+  "makeup_policy": null,
+  "extraction_notes": null
+}

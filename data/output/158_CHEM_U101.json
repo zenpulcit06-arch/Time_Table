@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM U101",
+  "course_title": "Atomic Structure, Bonding and Spectroscopy",
+  "credits": null,
+  "instructor_in_charge": "Pritam Kumar Jana",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "05/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Standard evaluations#",
+      "weightage_percent": null,
+      "when": null,
+      "notes": "A total of three quizzes (each of 25 marks) will be conducted under continuous evaluation. The best two will be considered for final evaluation (i.e., one buffer)."
+    },
+    {
+      "component": "Attendance linked marking scheme*",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "Three tests (each of 8 marks) will be conducted during the tutorial hours or along with the standard evaluations, and the best two scores will be considered for evaluation. A student's test marks will be counted only if they maintain at least 60% attendance in the tutorial classes. The remaining 2% (4 marks) of the total course marks will be awarded to students who maintain at least 60% attendance in the lecture classes."
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "03/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Students are expected to attend all classes to understand the course better.",
+  "makeup_policy": "(Make-up for quizzes is highly discouraged, as sufficient buffers are provided to the students. Make-up for the mid-semester test and the comprehensive exam may be considered for genuine cases as per the Institute's rules against an application by the student with documents.)",
+  "extraction_notes": null
+}

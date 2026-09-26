@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA G542",
+  "course_title": "Advanced Physical Pharmaceutics",
+  "credits": null,
+  "instructor_in_charge": "Dr. Gautam Singhvi",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester test",
+      "weightage_percent": 25,
+      "when": "as per time table",
+      "notes": null
+    },
+    {
+      "component": "Seminar/Assignments/ Quiz",
+      "weightage_percent": 20,
+      "when": "Continuous",
+      "notes": "Open book"
+    },
+    {
+      "component": "Lab work",
+      "weightage_percent": 20,
+      "when": "Continuous",
+      "notes": "Open book"
+    },
+    {
+      "component": "Comprehensive examination",
+      "weightage_percent": 35,
+      "when": "as per time table",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior approval or intimation to take a make-up is a must. It is solely the discretion of the instructor-in-charge dependent upon the genuineness of the circumstances to allow a student to appear for a make-up evaluation component.",
+  "extraction_notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "ECON F213",
+  "course_title": "MATHEMATICAL AND STATISTICAL METHODS",
+  "credits": null,
+  "instructor_in_charge": "PROF. RAHUL ARORA",
+  "evaluation_components": [
+    {
+      "component": "Assignment & Class Participation",
+      "weightage_percent": 5,
+      "when": "See Weekly Workflow",
+      "notes": null
+    },
+    {
+      "component": "Quiz \u2013 1",
+      "weightage_percent": 15,
+      "when": "8th Sept 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 25,
+      "when": "8 Oct 2026 (AN1)",
+      "notes": null
+    },
+    {
+      "component": "Quiz \u2013 2",
+      "weightage_percent": 15,
+      "when": "5th Nov 2026",
+      "notes": null
+    },
+    {
+      "component": "Quiz \u2013 3",
+      "weightage_percent": 15,
+      "when": "26th Nov 2025",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "12 Dec 2026 (FN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. Discussions during class hours will be highly beneficial for better learning and higher scores. A few more questions (in addition to the numerical in the tutorial sheets) with a greater level of difficulty will be discussed/solved only in the regular and tutorial classes. Please do attend and take advantage of the class discussion. The AUGSD's attendance policy will be strictly followed.",
+  "makeup_policy": "Makeup for the mid-semester exam and comprehensive examination shall be granted only in genuine cases, as per the academic regulations, after a thorough examination of the makeup application. Only those requests would be entertained for a thorough examination who applied before or within two days of the exam. Please do not make requests after the application period is over. Those requests would not be entertained. Also, no makeup request for the quizzes containing one buffer shall be considered.",
+  "extraction_notes": null
+}

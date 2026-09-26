@@ -1,0 +1,41 @@
+{
+  "course_id": "BIO G524",
+  "course_title": "Animal Cell Technology",
+  "credits": null,
+  "instructor_in_charge": "SUDESHNA MUKHERJEE",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester test",
+      "weightage_percent": 20,
+      "when": "CB/OB",
+      "notes": null
+    },
+    {
+      "component": "Surprise and announced Quizzes",
+      "weightage_percent": 10,
+      "when": "CB",
+      "notes": null
+    },
+    {
+      "component": "Experiments and Lab quiz",
+      "weightage_percent": 30,
+      "when": "CB & OB",
+      "notes": null
+    },
+    {
+      "component": "Seminars/ Assignment",
+      "weightage_percent": 10,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 30,
+      "when": "CB & OB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted for genuine cases only. Certificate from authenticated doctor from the Medical Center must accompany make-up application (only prescription or vouchers for medicines will not be sufficient). Prior permission of IC is compulsory. No make up for tutorial tests.",
+  "extraction_notes": null
+}

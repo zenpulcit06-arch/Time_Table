@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS F225",
+  "course_title": "Environmental Studies",
+  "credits": null,
+  "instructor_in_charge": "B.Vani",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 35,
+      "when": "4/10/2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "30/11/2026",
+      "notes": null
+    },
+    {
+      "component": "Quiz (Announced)",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up is granted only for genuine cases with valid justification and prior permission of Instructor-in-charge. Average marks of both quizzes will be considered. No makeup for quizzes.",
+  "extraction_notes": null
+}

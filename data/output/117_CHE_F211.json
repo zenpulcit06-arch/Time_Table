@@ -1,0 +1,41 @@
+{
+  "course_id": "CHE F211",
+  "course_title": "Chemical Process Calculations",
+  "credits": null,
+  "instructor_in_charge": "HARE KRISHNA MOHANTA",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "5/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "3/12 FN",
+      "notes": null
+    },
+    {
+      "component": "Class Participation/Discussion",
+      "weightage_percent": 5,
+      "when": "[Every class]",
+      "notes": null
+    },
+    {
+      "component": "Assignments (I & II)",
+      "weightage_percent": 5,
+      "when": "Two Weeks",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Tests (Best 4 of 6, to be announced beforehand)",
+      "weightage_percent": 20,
+      "when": "-",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up will be granted only when one has genuine reasons (illness requiring hospitalization or similar cases with medical certificate) for not appearing in the regular test. No make-up will be granted for the tutorial tests/surprise class tests/assignments.",
+  "extraction_notes": null
+}

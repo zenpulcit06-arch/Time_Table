@@ -1,0 +1,29 @@
+{
+  "course_id": "BIO G514",
+  "course_title": "Molecular Immunology",
+  "credits": null,
+  "instructor_in_charge": "Ashis Kumar Das",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem",
+      "weightage_percent": 30,
+      "when": "10/10",
+      "notes": null
+    },
+    {
+      "component": "Quizes/ Assignments/ Seminars",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "TBA"
+    },
+    {
+      "component": "Compre Exam",
+      "weightage_percent": 40,
+      "when": "15/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-ups without prior intimation or only in case of hospitalization.",
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "EEE/INSTR/ ECE F244",
+  "course_title": "Microelectronic Circuits",
+  "credits": null,
+  "instructor_in_charge": "ANU GUPTA",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per the timetable",
+      "notes": null
+    },
+    {
+      "component": "SPICE tool based Assignments, test, and/or quiz",
+      "weightage_percent": 30,
+      "when": "To be announced during the semester",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per the timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for mid-semester and comprehensive examination will be considered ONLY in genuine cases, and the IC decision will be final. Prior permission from the instructor-in-charge is necessary before the examination. (Note: No make-up will be given for regular quizzes/, SPICE quiz/ test).",
+  "extraction_notes": null
+}

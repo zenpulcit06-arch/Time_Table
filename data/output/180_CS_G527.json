@@ -1,0 +1,41 @@
+{
+  "course_id": null,
+  "course_title": "Cloud Computing",
+  "credits": null,
+  "instructor_in_charge": "HARI BABU K",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "As per Timetable",
+      "notes": null
+    },
+    {
+      "component": "Take Home Exercises based on labs",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Three quizzes based on labs",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": null,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per Timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No makeup will be given for Labs and Assignment components. For tests, however, make-up will be granted strictly on prior permission and on justifiable grounds only.",
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "GS F344",
+  "course_title": "COPYWRITING",
+  "credits": null,
+  "instructor_in_charge": "GAJENDRA SINGH CHAUHAN",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem",
+      "weightage_percent": 30,
+      "when": "90 minutes, As announced in the Timetable",
+      "notes": null
+    },
+    {
+      "component": "3 Assignments",
+      "weightage_percent": 35,
+      "when": "50 minutes, To be announced in the class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "120 minutes, As announced in the Timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "null",
+  "makeup_policy": "Make Up- subject to prior permission.",
+  "extraction_notes": null
+}

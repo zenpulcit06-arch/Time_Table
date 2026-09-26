@@ -1,0 +1,29 @@
+{
+  "course_id": "MATH F212",
+  "course_title": "OPTIMIZATION",
+  "credits": null,
+  "instructor_in_charge": "SHIVI AGARWAL (shivi@pilani.bits-pilani.ac.in; 6067-T)",
+  "evaluation_components": [
+    {
+      "component": "Tests (best 2 out of 3)",
+      "weightage_percent": 20,
+      "when": "TBA Announced",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 35,
+      "when": "TBA by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 45,
+      "when": "TBA by AUGSD",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation.",
+  "makeup_policy": "Mid semester and comprehensive examination make-ups will be granted only to genuine cases. For cases related to illness, prior information and proper documentary evidence are essential. No make-up for the tests.",
+  "extraction_notes": null
+}

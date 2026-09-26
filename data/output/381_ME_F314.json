@@ -1,0 +1,29 @@
+{
+  "course_id": "ME F314 / MF F314",
+  "course_title": "DESIGN OF MACHINE ELEMENTS",
+  "credits": null,
+  "instructor_in_charge": "Prof. MANI SANKAR DASGUPTA",
+  "evaluation_components": [
+    {
+      "component": "Evaluative Tutorial",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam.",
+      "weightage_percent": 40,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No Make-up is permissible in Tutorials (evaluated or non-evaluated). Make-up request for Mid Semester / Comprehensive examination must accompany appropriate supporting medical / exigency documents.",
+  "extraction_notes": null
+}

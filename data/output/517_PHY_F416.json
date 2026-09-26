@@ -1,0 +1,35 @@
+{
+  "course_id": "PHY F416",
+  "course_title": "SOFT CONDENSED MATTER PHYSICS",
+  "credits": null,
+  "instructor_in_charge": "Prof Navin Singh",
+  "evaluation_components": [
+    {
+      "component": "Tutorial tests",
+      "weightage_percent": 15,
+      "when": "Announced 4 tests - best 3 will be considered for the final marks",
+      "notes": null
+    },
+    {
+      "component": "Presentation-1 & VIVA",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Presentation-2 & VIVA",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "08/12/26 (AN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up will be granted for any missing evaluative components due to genuine reasons. For a comprehensive examination, the request should be made to AUGSD in accordance with its guidelines. The decision to grant make-up to the applicant will be decided by the course instructor.",
+  "extraction_notes": null
+}

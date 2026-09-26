@@ -1,0 +1,35 @@
+{
+  "course_id": "EE G501",
+  "course_title": "Environmental Sampling and Analytical Methods",
+  "credits": null,
+  "instructor_in_charge": "PUBALI MANDAL",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "8/10 FN2 (see timetable)",
+      "notes": "CB/OB"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "1/12 AN (see timetable)",
+      "notes": "CB/OB"
+    },
+    {
+      "component": "3 Class tests (Best 2)",
+      "weightage_percent": 15,
+      "when": "To be announced in the class",
+      "notes": "CB/OB"
+    },
+    {
+      "component": "Project seminar/Report",
+      "weightage_percent": 15,
+      "when": "To be announced in the class",
+      "notes": "CB/OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "1. Make-up will be granted only on genuine reasons.\n2. For medical cases, a certificate from the Chief Medical Officer of the Medical Centre must be produced.\n3. Make up will not be conducted for class tests. However, best of two will be considered for final evaluation.",
+  "extraction_notes": null
+}

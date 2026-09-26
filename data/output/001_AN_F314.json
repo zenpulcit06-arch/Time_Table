@@ -1,0 +1,35 @@
+{
+  "course_id": "AN F314",
+  "course_title": "Introduction to Flight",
+  "credits": null,
+  "instructor_in_charge": "Biswadip Shome",
+  "evaluation_components": [
+    {
+      "component": "Quiz",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "Best 04 out of 05, Open textbook1 (Publisher copy only), Open class notes"
+    },
+    {
+      "component": "Course project",
+      "weightage_percent": 15,
+      "when": "Report due date 15/11/2026",
+      "notes": "Group project, Open resources"
+    },
+    {
+      "component": "Mid-Semester exam",
+      "weightage_percent": 30,
+      "when": "09/10/26 (AN1)",
+      "notes": "Open textbook1, Open class notes"
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 40,
+      "when": "14/12/26 (FN)",
+      "notes": "Open textbook1, Open class notes"
+    }
+  ],
+  "attendance_policy": "As per guidelines by AUGS/AGSR Division",
+  "makeup_policy": "Make up for Mid-semester and Comprehensive Examination will be conducted based on the requests received and as per the guidelines by AUGS/AGSR Division. No make-ups will be conducted for Quizzes",
+  "extraction_notes": null
+}

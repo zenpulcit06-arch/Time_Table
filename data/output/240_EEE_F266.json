@@ -1,0 +1,59 @@
+{
+  "course_id": "EEE F266/ INSTR F266/ECE F266",
+  "course_title": "Study Project",
+  "credits": null,
+  "instructor_in_charge": "NAVNEET GUPTA",
+  "evaluation_components": [
+    {
+      "component": "Project Title & Plan of Work",
+      "weightage_percent": 5,
+      "when": "2nd week",
+      "notes": null
+    },
+    {
+      "component": "Written Presentation-I",
+      "weightage_percent": 5,
+      "when": "4th week",
+      "notes": null
+    },
+    {
+      "component": "Seminar-I/ Viva-I",
+      "weightage_percent": 10,
+      "when": "8th week",
+      "notes": null
+    },
+    {
+      "component": "Written Presentation II",
+      "weightage_percent": 15,
+      "when": "8th week",
+      "notes": null
+    },
+    {
+      "component": "Seminar II/ Viva II",
+      "weightage_percent": 10,
+      "when": "12th week",
+      "notes": null
+    },
+    {
+      "component": "Final Report",
+      "weightage_percent": 25,
+      "when": "16th week",
+      "notes": null
+    },
+    {
+      "component": "Weekly Interaction and Diary",
+      "weightage_percent": 10,
+      "when": "16th week",
+      "notes": null
+    },
+    {
+      "component": "Final Seminar and Viva",
+      "weightage_percent": 20,
+      "when": "16th week",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "BIO F212",
+  "course_title": "Microbiology",
+  "credits": null,
+  "instructor_in_charge": "PRABHAT NATH JHA (Email:prabhatjha@pilani.bits-pilani.ac.in; Room: 3277-V)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "08/10/ FN1",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Laboratory evaluation",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "08/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "It shall be the responsibility of the individual student to be regular in attending lectures and lab components as per the schedule announced.",
+  "makeup_policy": "If a student misses the Mid-Semester or Comprehensive Examination due to a genuine reason (serious medical causes leading to hospitalization (certified by doctor from BITS medical center), personal/family emergencies) there exists a provision to apply for make-up. Prior permission must be taken from the Instructor-in-Charge, before applying for make-up. Make-up decisions will be made on a case-by-case basis and only genuine cases as determined by the Departmental team will be considered. No Make-Up will be granted for quiz, assignments and Lab components.",
+  "extraction_notes": null
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA 523",
+  "course_title": "IT PROJECT MANAGEMENT",
+  "credits": null,
+  "instructor_in_charge": null,
+  "evaluation_components": [
+    {
+      "component": "Mid Term Exam",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Case studies",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "1",
+      "notes": null
+    },
+    {
+      "component": "Class participation",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "BIO F101",
+  "course_title": "INTRODUCTION TO BIOLOGICAL SCIENCES",
+  "credits": null,
+  "instructor_in_charge": "SHASHI PRAKASH SINGH",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "09/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 15,
+      "when": "Periodic",
+      "notes": null
+    },
+    {
+      "component": "Class Participation",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Lab (Participation, Performance and Record)",
+      "weightage_percent": 15,
+      "when": "As per time- table",
+      "notes": null
+    },
+    {
+      "component": "Lab Viva",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "14/12; AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up decisions will be made on a case-by-case basis and only genuine cases as determined by the Departmental team will be considered. No Make-Up will be granted for quiz and assignments.",
+  "extraction_notes": null
+}

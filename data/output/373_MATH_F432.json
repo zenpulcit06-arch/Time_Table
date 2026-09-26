@@ -1,0 +1,35 @@
+{
+  "course_id": "MATH F432",
+  "course_title": "Applied Statistical Methods",
+  "credits": null,
+  "instructor_in_charge": "SUMANTA PASARI",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "October 07, 2026",
+      "notes": "Open/Closed Book*"
+    },
+    {
+      "component": "Assignments (two)",
+      "weightage_percent": 20,
+      "when": "Will be announced later",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Quizzes (best three out of four)",
+      "weightage_percent": 15,
+      "when": "Will be announced later",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "December 08, 2026",
+      "notes": "Open Book*"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up for mid-sem/comprehensive examination will be granted only in genuine cases. There is no make-up for quiz components. Students should follow proper guideline for applying make ups.",
+  "extraction_notes": null
+}

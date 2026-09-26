@@ -1,0 +1,35 @@
+{
+  "course_id": "GSF 331",
+  "course_title": "TECHNIQUES IN SOCIAL RESEARCH",
+  "credits": null,
+  "instructor_in_charge": "Dr. Tanu Shukla",
+  "evaluation_components": [
+    {
+      "component": "Assignment 1",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": "TBA"
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "90 mins As announced",
+      "notes": null
+    },
+    {
+      "component": "Assignment 2",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": "TBA"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 45,
+      "when": "180 min As announced",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for the Mid-semester or comprehensive exam only.",
+  "extraction_notes": null
+}

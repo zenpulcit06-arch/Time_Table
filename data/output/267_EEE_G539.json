@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE G539",
+  "course_title": "Modelling and Analysis of Electrical Machines",
+  "credits": null,
+  "instructor_in_charge": "Prof. Aditya R. Gautam",
+  "evaluation_components": [
+    {
+      "component": "Lab",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Homework Assignments",
+      "weightage_percent": 20,
+      "when": "one week",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be granted to extremely genuine cases only.",
+  "extraction_notes": null
+}

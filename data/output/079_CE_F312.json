@@ -1,0 +1,41 @@
+{
+  "course_id": "CE F312",
+  "course_title": "Hydraulic Engineering",
+  "credits": null,
+  "instructor_in_charge": "Prof. SHIBANI KHANRA JHA",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester",
+      "weightage_percent": 20,
+      "when": "07/10/2026 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "10/12/2026 FN",
+      "notes": null
+    },
+    {
+      "component": "Class Assessment",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Tutorial",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Lab + Field Practical",
+      "weightage_percent": 60,
+      "when": "As per the timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. The 10% class assessment is linked to attendance.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for the Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

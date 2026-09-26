@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F469 / CS U469",
+  "course_title": "Information Retrieval",
+  "credits": null,
+  "instructor_in_charge": "Rakhi Agrawal (rakhi.agrawal@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Midsem (closed book)",
+      "weightage_percent": 30,
+      "when": "06/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Quiz (01) (closed book)",
+      "weightage_percent": 10,
+      "when": "During the lecture slot; will be informed one week before",
+      "notes": null
+    },
+    {
+      "component": "Assignment / Project",
+      "weightage_percent": 25,
+      "when": "Intermediate/final presentation dates will be announced later",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam (partly open book)",
+      "weightage_percent": 35,
+      "when": "07/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "To be granted only in case of serious illness or emergency. NO makeup for quizzes.",
+  "extraction_notes": null
+}

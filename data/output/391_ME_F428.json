@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F428/ ME U428",
+  "course_title": "SMART MATERIALS",
+  "credits": null,
+  "instructor_in_charge": "Dr. Hemant Sharma (Chamber: 2219-J)",
+  "evaluation_components": [
+    {
+      "component": "Quizzes 1, 2 and 3",
+      "weightage_percent": 10,
+      "when": "In-class, closed book; best two scores count, carrying 5% each.",
+      "notes": "Two announced; one unannounced"
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 30,
+      "when": "As per the timetable",
+      "notes": "90 min; Closed book."
+    },
+    {
+      "component": "Demonstrations, Experiments, Project and Assignments",
+      "weightage_percent": 20,
+      "when": "TBA / continuous",
+      "notes": "In-class and/or take-home; open book. Activity-specific instructions will be announced."
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per the timetable",
+      "notes": "3 hours; Closed book/open book as announced."
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-up will be permitted only in genuine cases with prior permission and in accordance with Institute rules.",
+  "extraction_notes": null
+}

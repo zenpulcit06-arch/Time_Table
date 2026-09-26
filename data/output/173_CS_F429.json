@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F429",
+  "course_title": "Natural Language Processing",
+  "credits": null,
+  "instructor_in_charge": "Poonam Goyal (poonam@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Labs/Assignments",
+      "weightage_percent": 35,
+      "when": "To be announced",
+      "notes": "Take home"
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 5,
+      "when": "In First month of the Semester",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Mid-Term exam",
+      "weightage_percent": 25,
+      "when": "16/03 09:00-10:30",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "15/05 09:00-12:00",
+      "notes": "Partly Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior Permission is must and Make-up shall be granted only in genuine cases based on individual\u2019s need and circumstances.",
+  "extraction_notes": null
+}

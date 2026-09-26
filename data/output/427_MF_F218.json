@@ -1,0 +1,41 @@
+{
+  "course_id": "MF F218",
+  "course_title": "Transport phenomena in Manufacturing",
+  "credits": null,
+  "instructor_in_charge": "Dr. Aneesh A. M., Email: aneesh.am@pilani.bits-pilani.ac.in",
+  "evaluation_components": [
+    {
+      "component": "Class discussions (short quizzes)",
+      "weightage_percent": 5,
+      "when": "TBA",
+      "notes": "Surprise type, Refer to point 8 for more details"
+    },
+    {
+      "component": "Quiz 1 and 2",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": "Open*"
+    },
+    {
+      "component": "Lab",
+      "weightage_percent": 25,
+      "when": "Monday, 11 AM to 1 PM.",
+      "notes": "Lab evaluation scheme will be announced during the first lab session."
+    },
+    {
+      "component": "Mid semester",
+      "weightage_percent": 25,
+      "when": "07/10, FN1",
+      "notes": "Open"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 35,
+      "when": "08/12, FN",
+      "notes": "Open + Closed"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. The marks for class discussion will be awarded based on student's responses to random short quizzes shared during the middle of class.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-semester or comprehensive exam only.",
+  "extraction_notes": null
+}

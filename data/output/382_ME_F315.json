@@ -1,0 +1,35 @@
+{
+  "course_id": "ME F315",
+  "course_title": "Advanced Manufacturing Processes",
+  "credits": null,
+  "instructor_in_charge": "Tufan Chandra Bera",
+  "evaluation_components": [
+    {
+      "component": "Midsem Test",
+      "weightage_percent": 25,
+      "when": "07/10/2026 FN1",
+      "notes": "Open Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "10/12/2026 FN",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Tutorial",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": "Open Book"
+    },
+    {
+      "component": "Practical",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": "Closed Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "[Makeup will be given only for genuine cases (accompanied by proof) for Mid-Sem or comprehensive exam only.]",
+  "extraction_notes": null
+}

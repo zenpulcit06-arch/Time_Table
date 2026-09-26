@@ -1,0 +1,59 @@
+{
+  "course_id": "MGTS U102",
+  "course_title": "INNOVATION AND DESIGN THINKING",
+  "credits": null,
+  "instructor_in_charge": "Leela Rani",
+  "evaluation_components": [
+    {
+      "component": "Tut 1",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Tut 2: Poster 1",
+      "weightage_percent": 20,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "Tut 3: Poster 2",
+      "weightage_percent": 20,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "Tut 4: Poster 3",
+      "weightage_percent": 20,
+      "when": "OB",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "14/03 CB",
+      "notes": null
+    },
+    {
+      "component": "Tut 5 - Brainstorming session",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Tut 6, 7, 8: Group presentations",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": null,
+      "when": "best 3 out of 4",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Late entry into tutorial classes will be penalized by negative marks.",
+  "makeup_policy": "Application for make-up exam only on urgent self-medical need (prior permission needed) \u2013 applications to be submitted only to I/C.",
+  "extraction_notes": null
+}

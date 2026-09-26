@@ -1,0 +1,41 @@
+{
+  "course_id": "EEE G593",
+  "course_title": "Power Quality",
+  "credits": null,
+  "instructor_in_charge": "Ashish Patel",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "10/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "16/12 AN",
+      "notes": null
+    },
+    {
+      "component": "Seminar",
+      "weightage_percent": 10,
+      "when": "Will be announced",
+      "notes": null
+    },
+    {
+      "component": "Lab",
+      "weightage_percent": 20,
+      "when": "Regular lab sessions",
+      "notes": null
+    },
+    {
+      "component": "Assignment (Take-home, Simulation)",
+      "weightage_percent": 10,
+      "when": "Will be announced",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "It will be given on extremely genuine grounds.",
+  "extraction_notes": null
+}

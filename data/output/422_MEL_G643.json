@@ -1,0 +1,29 @@
+{
+  "course_id": "MEL G643",
+  "course_title": "Verification, Test, and Testability of VLSI Circuits",
+  "credits": null,
+  "instructor_in_charge": "ABHIJIT ASATI (abhijit_asati@pilani.bits-pilani.ac.in, 2220-Q)",
+  "evaluation_components": [
+    {
+      "component": "Mid semester Test",
+      "weightage_percent": 30,
+      "when": "07/10/2026 FN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "08/12/2026 AN",
+      "notes": "Closed Book (20 % ) + Open Book (20 %)"
+    },
+    {
+      "component": "Projects",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid semester or comprehensive exam only.",
+  "extraction_notes": null
+}

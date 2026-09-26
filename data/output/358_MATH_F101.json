@@ -1,0 +1,35 @@
+{
+  "course_id": "MATH F101",
+  "course_title": "Multivariable Calculus",
+  "credits": null,
+  "instructor_in_charge": "PRAMOD EYYUNNI",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester exam",
+      "weightage_percent": 30,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Quizzes*",
+      "weightage_percent": 20,
+      "when": "4 Announced quizzes, to be held in the respective tutorial sections",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 45,
+      "when": "As announced by AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Assignment (based on video lectures)",
+      "weightage_percent": 5,
+      "when": "To be announced by IC",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and appear in all evaluative components.",
+  "makeup_policy": "Make-up for mid-semester and comprehensive exams will be given only for very genuine cases, and prior permission must be obtained from IC. No makeup will be given for quizzes under any circumstances whatsoever.",
+  "extraction_notes": null
+}

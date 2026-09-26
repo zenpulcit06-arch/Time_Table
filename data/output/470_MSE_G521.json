@@ -1,0 +1,29 @@
+{
+  "course_id": "MSE G521",
+  "course_title": "WORLD CLASS MANUFACTURING",
+  "credits": null,
+  "instructor_in_charge": "ABHIJEET K. DIGALWAR",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "05-10-26 AN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "03-12-26 AN",
+      "notes": null
+    },
+    {
+      "component": "Case Discussions/ Group Projects/ Surprise Class Tests/ Assignments",
+      "weightage_percent": 35,
+      "when": "TBA",
+      "notes": "The specific date and time are not clearly stated."
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up for class tests and non-appearance in class tests may lead to NC.",
+  "extraction_notes": null
+}

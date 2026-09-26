@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA F 311",
+  "course_title": "Pharmacology-I",
+  "credits": null,
+  "instructor_in_charge": "Prof. Rajeev Taliyan",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 28,
+      "when": "07/10/26",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "10/12/26",
+      "notes": "Open Book/Closed Book"
+    },
+    {
+      "component": "Continuous assessment",
+      "weightage_percent": 32,
+      "when": null,
+      "notes": "CB /OB"
+    }
+  ],
+  "attendance_policy": "Attendance is not compulsory, but regularity in theory and practical classes will be a decisive factor during grading, especially in borderline cases. Laboratory attendance is a must and no make-up will be given for it (except medical urgency).",
+  "makeup_policy": "Generally, make-up will be considered for regular students only as per the university rule. It is solely dependent on the \u2018genuineness\u2019 of the circumstances. The make-up application should be personally given to instructor-in-charge.",
+  "extraction_notes": null
+}

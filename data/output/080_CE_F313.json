@@ -1,0 +1,29 @@
+{
+  "course_id": "CE F313",
+  "course_title": "Foundation Engineering",
+  "credits": null,
+  "instructor_in_charge": "Ravi Kant Mittal (ravimittal@pilani.bits-pilani.ac.in) Mb.9887692025",
+  "evaluation_components": [
+    {
+      "component": "Mid",
+      "weightage_percent": 25,
+      "when": "AUGSD notices",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "AUGSD notices",
+      "notes": null
+    },
+    {
+      "component": "Test/Assignments",
+      "weightage_percent": 30,
+      "when": "Out of 4 best 3 scores will be considered. Open Book",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof, with prior permission) for Mid-sem. or comprehensive exam only. No makeup for Tests/ assignments (one buffer will be given).",
+  "extraction_notes": null
+}

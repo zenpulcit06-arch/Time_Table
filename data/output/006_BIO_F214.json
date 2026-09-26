@@ -1,0 +1,29 @@
+{
+  "course_id": "BIO F214",
+  "course_title": "INTEGRATED BIOLOGY",
+  "credits": null,
+  "instructor_in_charge": "PANKAJ KUMAR SHARMA [pankajsharma@pilani.bits-pilani.ac.in]",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "9900 MMiinn.. 05/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "03/12 FN",
+      "notes": "CCBB//OOBB"
+    },
+    {
+      "component": "Quiz(zes) / Assignment(s)*",
+      "weightage_percent": 30,
+      "when": "Varied - CCBB//OOBB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "EEaacchh ssttuuddeenntt iiss eexxppeecctteedd ttoo aatttteenndd aallll ccllaasssseess aanndd ppaarrttiicciippaattee iinn aallll eevvaalluuaattiioonn ccoommppoonneennttss..",
+  "makeup_policy": "Make up for an evaluaation component (Mid Sem Test / Compre only) wwiillll bbee ccoonnssiiddeerreedd under extreme and genuine circumstances only sssuuuccchhh aaasss hhhooossspppiiitttaaallliiizzzaaatttiiiooonnn;;; wwwiiittthhh ppprriiiooorrr pppeeerrrmmmiiissssssiiiooonnn ooofff ttthhheee IIICCC... CCCooopppyyy ooofff rrreeellleeevvvaaannnttt documents needs to be given ttoo tthhee IICC ttoo aavvaaiill mmaakkeeuupp.. Makeup will not be considered for other coomponents.",
+  "extraction_notes": null
+}

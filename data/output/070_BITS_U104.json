@@ -1,0 +1,23 @@
+{
+  "course_id": "BITS U104",
+  "course_title": "Foundations of Measurements and Experimentation",
+  "credits": null,
+  "instructor_in_charge": "Jayendra N. Bandyopadhyay",
+  "evaluation_components": [
+    {
+      "component": "Daily Evaluation in the Labs",
+      "weightage_percent": 70,
+      "when": "Lab Hours",
+      "notes": "Date & Time not specified"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "To be announced",
+      "notes": "Date & Time not specified, MCQ type"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Stringent. Only in the most genuine cases, as judged by the IC.",
+  "extraction_notes": null
+}

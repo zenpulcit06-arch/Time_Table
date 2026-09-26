@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS F113",
+  "course_title": "General Mathematics-1",
+  "credits": null,
+  "instructor_in_charge": "ASHISH TIWARI (6067-H, ashish.tiwari@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Quizzes/Class Performance Tests",
+      "weightage_percent": 20,
+      "when": "To be Announced",
+      "notes": null
+    },
+    {
+      "component": "Mid semester Exam",
+      "weightage_percent": 35,
+      "when": "06/10 AN2",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 45,
+      "when": "07/12 AN",
+      "notes": "Closed Book/Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make up for the mid-semester/comprehensive examination will be given to genuine cases.",
+  "extraction_notes": null
+}

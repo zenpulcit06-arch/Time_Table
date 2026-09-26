@@ -1,0 +1,39 @@
+{
+  "course_id": "ENVS F211",
+  "course_title": "Hydraulic and Fluid Mechanics",
+  "credits": null,
+  "instructor_in_charge": "Prof. SHIBANI KHANRA JHA",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester",
+      "weightage_percent": 20,
+      "when": "08/10/2026",
+      "notes": "AN1: 2:00 P.M. to 3:30 P.M.",
+      "nature_of_component": "Close Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "12/12/2026",
+      "notes": "FN: 8.00 A.M. to 11.00 A.M.",
+      "nature_of_component": "Close Book + Open Book"
+    },
+    {
+      "component": "Class Assessment",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null,
+      "nature_of_component": "Close Book / Open Book"
+    },
+    {
+      "component": "Tutorial",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null,
+      "nature_of_component": "Close Book / Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. The 10% class assessment is linked to attendance.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for the Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "SCM G511",
+  "course_title": "Fundamentals of Supply Chain \u2013 Concepts",
+  "credits": null,
+  "instructor_in_charge": "SRIKANTA ROUTROY",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "06/10 FN2",
+      "notes": null
+    },
+    {
+      "component": "Class Quizzes",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Case Studies/Project",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "05/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "No students will be allowed to take make up without prior permission. For the case study and assignment / article/class presentation, no make ups will be granted.",
+  "extraction_notes": null
+}

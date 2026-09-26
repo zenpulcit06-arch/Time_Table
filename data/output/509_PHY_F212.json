@@ -1,0 +1,35 @@
+{
+  "course_id": "PHY F212",
+  "course_title": "Electromagnetic Theory 1",
+  "credits": null,
+  "instructor_in_charge": "Rakesh Choubisa",
+  "evaluation_components": [
+    {
+      "component": "Mid. Semester Test",
+      "weightage_percent": 30,
+      "when": "9/10/26, AN2",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Tutorial tests",
+      "weightage_percent": 21,
+      "when": "To be announced in the class",
+      "notes": "Closed Book (announced): Out of four tutorial tests, the best three would be considered."
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 9,
+      "when": "To be announced in the class",
+      "notes": "Open Book."
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "14/12/26, AN",
+      "notes": "Closed/Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for the Mid-semester or comprehensive examination only. The decision of the instructors will be final regarding the approval of makeup exams for both mid-semester and comprehensive examinations.",
+  "extraction_notes": null
+}

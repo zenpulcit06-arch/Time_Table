@@ -1,0 +1,23 @@
+{
+  "course_id": "MATH F211",
+  "course_title": "Differential Equations/ Mathematics-III",
+  "credits": null,
+  "instructor_in_charge": "KRISHNENDRA SHEKHAWAT",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 35
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 20
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 45
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be given under any circumstances",
+  "extraction_notes": null
+}

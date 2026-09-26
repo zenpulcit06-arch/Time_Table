@@ -1,0 +1,35 @@
+{
+  "course_id": "MSE G515",
+  "course_title": "Supply Chain Modelling and Empirical Analysis",
+  "credits": null,
+  "instructor_in_charge": "SRIKANTA ROUTROY (Pilani Campus)\nBrijesh Kumar Singh(RS)\nPHANEENDRA KIRAN CHAGANTI (Hyderabad Campus)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "Timetable booklet",
+      "notes": null
+    },
+    {
+      "component": "Class Quizzes",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Case Studies/Project",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "Timetable booklet",
+      "notes": "Close & Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "No students will be allowed to take make up without prior permission.\nFor the case study and assignment / article/class presentation, no make ups will be granted.",
+  "extraction_notes": null
+}

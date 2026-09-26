@@ -1,0 +1,41 @@
+{
+  "course_id": "ECE F311",
+  "course_title": "Communication Systems",
+  "credits": null,
+  "instructor_in_charge": "Prof. Syed Mohammad Zafaruddin",
+  "evaluation_components": [
+    {
+      "component": "Quizzes",
+      "weightage_percent": 15,
+      "when": "Quizzes (Best 5 of 7)",
+      "notes": null
+    },
+    {
+      "component": "Weekly Labs",
+      "weightage_percent": 16.67,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Lab Project",
+      "weightage_percent": 8.33,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "As per AUGSD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "As per AUGSD",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be given for Quizzes. For other components, make up will be given only on genuine reasons. Applications for makeup should be given in advance and prior permission should be obtained for scheduled tests.",
+  "extraction_notes": null
+}

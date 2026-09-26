@@ -1,0 +1,35 @@
+{
+  "course_id": "ECON F 315 / FIN F 315",
+  "course_title": "Financial Management",
+  "credits": null,
+  "instructor_in_charge": "Rajan Pandey",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "As per time-table",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per time-table",
+      "notes": "Partly Open Book"
+    },
+    {
+      "component": "Quizzes (3)",
+      "weightage_percent": 15,
+      "when": "Announced",
+      "notes": "Closed Book (best 2 of 3)"
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 15,
+      "when": "TBD",
+      "notes": "Take-home"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up exam for Mid-semester Test and the Comprehensive Exam will be granted in only genuine cases with prior written permission from AUGS Dept. Prior written permission is mandatory under all circumstances. No make-up shall be granted for the quizzes.",
+  "extraction_notes": null
+}

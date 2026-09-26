@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA G514",
+  "course_title": "Deep Learning for Business",
+  "credits": null,
+  "instructor_in_charge": "Prof. Abhishek Verma",
+  "evaluation_components": [
+    {
+      "component": "Mid-Sem Exam",
+      "weightage_percent": 20,
+      "when": "8-10-2026 4:00 AM to 5:30 PM",
+      "notes": null
+    },
+    {
+      "component": "Assignments",
+      "weightage_percent": null,
+      "when": "TBA in classes",
+      "notes": null
+    },
+    {
+      "component": "Group Project & Presentation",
+      "weightage_percent": 25,
+      "when": "TBA in classes",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": "TBA in classes",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "12-12-2026 2:00 PM to 5:00 PM",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No extensions shall be granted for projects. Genuine cases such as hospitalization (upon production of the relevant documents/proof) will be considered upon discussion with individuals/team for any make ups for the final Exam.",
+  "extraction_notes": null
+}

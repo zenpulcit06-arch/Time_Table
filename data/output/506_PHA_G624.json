@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA G 624",
+  "course_title": "Principles of Toxicology",
+  "credits": null,
+  "instructor_in_charge": "Pragyanshu Khare",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Continuous Assessment",
+      "weightage_percent": 25,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Class discussions (Linked to attendance)",
+      "weightage_percent": 10,
+      "when": "In class",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Prior approval or intimation to take a make-up is mandatory. It is solely at the discretion of the instructor-in-charge, depending upon the genuineness of the circumstances, to allow or disallow a student to appear for a make-up evaluation component. No makeup will be granted for Assignments/Quizzes under any circumstances.",
+  "extraction_notes": null
+}

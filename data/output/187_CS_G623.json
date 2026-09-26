@@ -1,0 +1,35 @@
+{
+  "course_id": "CS G623",
+  "course_title": "ADVANCED OPERATING SYSTEMS",
+  "credits": null,
+  "instructor_in_charge": "Asish Bera [asish.bera@pilani.bits-pilani.ac.in]",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "05/10/2026 FN2",
+      "notes": null
+    },
+    {
+      "component": "Quiz",
+      "weightage_percent": 7,
+      "when": "TBA [Class level]",
+      "notes": null
+    },
+    {
+      "component": "Project/Assignment",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 38,
+      "when": "11/12/2026 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "\u2022 For make-up in Mid-Semester Test: Makeups, in general, are allowed only in case of medical emergency. Prior permission of the IC is mandatory. \u2022 For make-up in Quiz and Project Assignment components: no makeup will be given. \u2022 For comprehensive examination make-up: contact AUGSD/AGSRD.",
+  "extraction_notes": null
+}

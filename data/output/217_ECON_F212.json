@@ -1,0 +1,29 @@
+{
+  "course_id": "ECON F212/FIN F212",
+  "course_title": "Fundamentals of Finance and Accounting",
+  "credits": null,
+  "instructor_in_charge": "KRISHNA MUNIYOOR (krishna@pilani.bits-pilani.ac.in, 6165-I)",
+  "evaluation_components": [
+    {
+      "component": "Continuous Evaluation",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "Objective Type: Three out of four quizzes."
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 30,
+      "when": "90 min",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "180 min",
+      "notes": "Partly Open book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

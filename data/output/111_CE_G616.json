@@ -1,0 +1,29 @@
+{
+  "course_id": "CE G616",
+  "course_title": "BRIDGE ENGINEERING",
+  "credits": null,
+  "instructor_in_charge": "MANOJ KUMAR",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 35,
+      "when": "10/10/2026 FN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "15/12/2026 AN",
+      "notes": null
+    },
+    {
+      "component": "Tutorials/Seminar/Presentations/Term Projects",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted only to genuine cases. For cases related to illness, proper documentary evidence is essential. Prior permission is necessary if a student is out of station on the test date.",
+  "extraction_notes": null
+}

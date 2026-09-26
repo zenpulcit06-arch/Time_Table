@@ -1,0 +1,35 @@
+{
+  "course_id": "MEL G 628",
+  "course_title": "Digital VLSI Design",
+  "credits": null,
+  "instructor_in_charge": "Dr. Nitin Chaturvedi",
+  "evaluation_components": [
+    {
+      "component": "Labs Assignments",
+      "weightage_percent": 20,
+      "when": "Continuous Weekly OB",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Exam",
+      "weightage_percent": 25,
+      "when": "90 min 7/10/2026 CB",
+      "notes": null
+    },
+    {
+      "component": "Design Projects+Seminar",
+      "weightage_percent": 20,
+      "when": "15-20 days 10/11/2026 OB",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "3 hrs 08/12/2026 CB",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make up for Lab Assignments & Project.",
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "PHA F211",
+  "course_title": "Pharmaceutical Analysis",
+  "credits": null,
+  "instructor_in_charge": "Dr. Sandeep Sundriyal",
+  "evaluation_components": [
+    {
+      "component": "Midsem Exam",
+      "weightage_percent": 30,
+      "when": "05/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "03/12 AN",
+      "notes": "CB and/or OB"
+    },
+    {
+      "component": "Continuous assessment",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": "20 Lab component + 15 CTs/Quizzes"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up is not given as a routine and is considered for only regular students. It is solely dependent on the 'genuineness' of the circumstance under which a student fails to appear in a scheduled evaluation component. The students must discuss such a situation with the IC and get prior permission for make-up. In case of urgent medical emergencies, the students must ensure that the message reaches IC as soon as possible. The decision of the IC in all matters shall be final.",
+  "extraction_notes": null
+}

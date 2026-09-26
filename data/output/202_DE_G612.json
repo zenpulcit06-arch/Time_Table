@@ -1,0 +1,41 @@
+{
+  "course_id": "DEZG612",
+  "course_title": "Materials Testing and Selection",
+  "credits": null,
+  "instructor_in_charge": "Srinivasan Periaswamy",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "<TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Class participation and attendance",
+      "weightage_percent": 10,
+      "when": "Surprise quizzes (20 best out of 25)",
+      "notes": null
+    },
+    {
+      "component": "Lab experiments",
+      "weightage_percent": 15,
+      "when": "2 hours/week",
+      "notes": null
+    },
+    {
+      "component": "Project work",
+      "weightage_percent": 10,
+      "when": "Continuous",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student must have at least 80% attendance",
+  "makeup_policy": "No make up for class quizzes",
+  "extraction_notes": null
+}

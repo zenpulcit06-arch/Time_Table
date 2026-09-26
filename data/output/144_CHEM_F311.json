@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM F311",
+  "course_title": "Organic Chemistry-III",
+  "credits": null,
+  "instructor_in_charge": "ANIL KUMAR",
+  "evaluation_components": [
+    {
+      "component": "Quizzes*",
+      "weightage_percent": 25,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Attendance based evaluation**",
+      "weightage_percent": 10,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "09/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "14/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "There will not be any makeup for any continuous evaluations. Make-up will be considered for Mid-Sem and Comprehensive Exams only for genuine cases (with valid documents of proof) where it will be felt that the student couldn\u2019t appear in the specific component of evaluation.",
+  "extraction_notes": null
+}

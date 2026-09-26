@@ -1,0 +1,47 @@
+{
+  "course_id": "BITS F446",
+  "course_title": "Pattern Recognition",
+  "credits": null,
+  "instructor_in_charge": "Raj Kumar Gupta",
+  "evaluation_components": [
+    {
+      "component": "SurpriseQuizzes",
+      "weightage_percent": 6,
+      "when": "DuringLecture",
+      "notes": "ClosedBook,\u2020bestn-1of n"
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 2,
+      "when": "TBA",
+      "notes": "Takehome | OpenBook/Submission"
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 2,
+      "when": "TBA",
+      "notes": "Takehome. | OpenBook"
+    },
+    {
+      "component": "TutorialTests",
+      "weightage_percent": 20,
+      "when": "20mins",
+      "notes": "Lectureclass | ClosedBook,\u2020bestn-1of n"
+    },
+    {
+      "component": "Mid-SemesterTest",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "90mins. | ClosedBook"
+    },
+    {
+      "component": "ComprehensiveExamination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": "180mins. | Closed/OpenBook"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up tests will be given only to genuine cases. No make-up will be given for the tutorial tests.",
+  "extraction_notes": null
+}

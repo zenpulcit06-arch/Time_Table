@@ -1,0 +1,35 @@
+{
+  "course_id": "MPBA G531",
+  "course_title": "FINANCIAL DERIVATIVES AND ANALYSIS",
+  "credits": null,
+  "instructor_in_charge": "Prof. Daitri Tiwary",
+  "evaluation_components": [
+    {
+      "component": "Quiz1 & Quiz2",
+      "weightage_percent": 10,
+      "when": "Quiz1 (Tuesday, August 18, 12 Noon) Quiz2 (Tuesday, September 22, 12 Noon )",
+      "notes": null
+    },
+    {
+      "component": "Formulation and Presentation of Analytical Model",
+      "weightage_percent": 15,
+      "when": "November 03, 05 & 06 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "06th Oct (FN2: 11:00 A.M. to 12:30 P.M)",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 50,
+      "when": "05th Dec (AN: 3.00 P.M. to 6.00 P.M.)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Consideration will be provided only for mid-term and comprehensive, given the proof of hospitalization and \u201cunfit for the test\u201d certificate from BITS medical center is submitted to the IC. The decision of IC will be final.",
+  "extraction_notes": null
+}

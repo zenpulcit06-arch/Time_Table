@@ -1,0 +1,29 @@
+{
+  "course_id": "CHEM F335",
+  "course_title": "Organic Chemistry and Drug Design",
+  "credits": null,
+  "instructor_in_charge": "Dalip Kumar (email- dalipk@pilani.bits-pilani.ac.in, chamber no.3268-T)",
+  "evaluation_components": [
+    {
+      "component": "Continuous Evaluation",
+      "weightage_percent": 30,
+      "when": "TBA*",
+      "notes": "TBA*"
+    },
+    {
+      "component": "Mid-semester test",
+      "weightage_percent": 30,
+      "when": "90 min According to the timetable",
+      "notes": "close book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "3 h According to the timetable",
+      "notes": "partly close book & partly open book"
+    }
+  ],
+  "attendance_policy": "For continuous evaluation linked to attendance, final grades will be awarded only to students who maintain a minimum attendance of 50%.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-sem or comprehensive exam only.",
+  "extraction_notes": null
+}

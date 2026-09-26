@@ -1,0 +1,35 @@
+{
+  "course_id": "BIO F313",
+  "course_title": "Animal Physiology",
+  "credits": null,
+  "instructor_in_charge": "SHILPI GARG",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "10/10 FN1",
+      "notes": null
+    },
+    {
+      "component": "Assignment/in-class Quizzes/ Tutorial Activity and Assessment",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": "CB/OB"
+    },
+    {
+      "component": "Course Quizzes (2)",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": "CB"
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "15/12 FN",
+      "notes": "CB and OB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be granted without a genuine case. A certificate from authenticated doctor must accompany the makeup application (only prescriptions/ vouchers for medicines will not be sufficient). Prior permission from IC is strongly recommended. No makeup for in class assignments and quizzes.",
+  "extraction_notes": null
+}

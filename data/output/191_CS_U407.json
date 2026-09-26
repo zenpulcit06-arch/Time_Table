@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F407/ CS U407",
+  "course_title": "ARTIFICIAL INTELLIGENCE",
+  "credits": null,
+  "instructor_in_charge": "GOPAL SINGH PHARTIYAL",
+  "evaluation_components": [
+    {
+      "component": "MidSem Test (Closed Book)",
+      "weightage_percent": 25,
+      "when": "October 08, 2026",
+      "notes": null
+    },
+    {
+      "component": "Building Geospatial Intelligent Agents Project: Phase-wise",
+      "weightage_percent": 30,
+      "when": "Continuous Evaluation",
+      "notes": null
+    },
+    {
+      "component": "Quizes (Open/Closed Book)",
+      "weightage_percent": 10,
+      "when": "In lecture",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam (Closed book)",
+      "weightage_percent": 35,
+      "when": "December 11, 2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "To be granted only in case of serious illness or emergency.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "ECON F415 & BITS F468",
+  "course_title": "New Venture Creation",
+  "credits": null,
+  "instructor_in_charge": "Prof. Jyoti Tikoria + Dr. Paul Lopez",
+  "evaluation_components": [
+    {
+      "component": "Mentor-Mentee Engagement",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Class Participation",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Key Deliverables",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Investor Documents and Pitch Presentations",
+      "weightage_percent": 50,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Attendance in every session is mandatory.",
+  "makeup_policy": null,
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "CS G525",
+  "course_title": "Advanced Computer Networks",
+  "credits": null,
+  "instructor_in_charge": "YASH SINHA (yash.sinha[AT]pilani.bits-pilani.ac.in, 6120-J.)",
+  "evaluation_components": [
+    {
+      "component": "Research Paper Debate",
+      "weightage_percent": 10,
+      "when": "Throughout semester",
+      "notes": null
+    },
+    {
+      "component": "Research Project",
+      "weightage_percent": 35,
+      "when": "Throughout semester",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 20,
+      "when": "09/10 FN2",
+      "notes": "Individual, Concepts, analysis and problem solving, Closed Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "13/12 AN",
+      "notes": "Individual, Concepts, design, problem solving and critical analysis, Closed Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup will be given only for genuine cases (accompanied by proof) for Mid-semester or comprehensive exam only in genuine cases as per the CSIS department makeup policy guidelines. In all cases prior permission from the Instructor-In-Charge is must.",
+  "extraction_notes": null
+}

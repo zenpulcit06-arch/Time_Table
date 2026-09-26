@@ -1,0 +1,35 @@
+{
+  "course_id": "MPBA G534",
+  "course_title": "People Analytics",
+  "credits": null,
+  "instructor_in_charge": "MOHAMMAD FARAZ NAIM",
+  "evaluation_components": [
+    {
+      "component": "Midterm",
+      "weightage_percent": 30,
+      "when": "90 min",
+      "notes": "Close book, To be announced#"
+    },
+    {
+      "component": "Research-oriented project",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": "Participation + Report, Take home, To be announced#"
+    },
+    {
+      "component": "Self-study Assignment",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": "To be announced in the class, Take home, To be announced#"
+    },
+    {
+      "component": "Comprehensive examination",
+      "weightage_percent": 40,
+      "when": "3 hours",
+      "notes": "Theory & application questions, Closed book, To be announced#"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "For make-up prior permission from the instructor in-charge should be taken",
+  "extraction_notes": null
+}

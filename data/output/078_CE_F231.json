@@ -1,0 +1,35 @@
+{
+  "course_id": "CE F231",
+  "course_title": "Fluid Mechanics",
+  "credits": null,
+  "instructor_in_charge": "Dr. Guntu Ravikumar",
+  "evaluation_components": [
+    {
+      "component": "Class discussions",
+      "weightage_percent": 10,
+      "when": "Every class",
+      "notes": null
+    },
+    {
+      "component": "Evaluative Tutorials",
+      "weightage_percent": 30,
+      "when": "Every week",
+      "notes": "Close Book"
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "07/10 AN1",
+      "notes": "Close Book/Open Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "10/12 FN",
+      "notes": "Close Book/Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up exams will be conducted for quizzes and Evaluative Tutorials. Make-up request for examination must be notified before the examination and decision will be made as per institute norms. Make-up requests made on medical grounds may not be approved unless recommended by CMO BITS Pilani.",
+  "extraction_notes": null
+}

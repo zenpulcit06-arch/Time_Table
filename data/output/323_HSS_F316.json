@@ -1,0 +1,35 @@
+{
+  "course_id": "HSS F316",
+  "course_title": "Popular Literature and Culture of South Asia",
+  "credits": null,
+  "instructor_in_charge": "Dr. Shriya Raina",
+  "evaluation_components": [
+    {
+      "component": "Class discussions (linked to attendance)",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Continuous Evaluations: three essays to be drafted in class; one assignment submission",
+      "weightage_percent": 35,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 20,
+      "when": "As per the AUGSD schedule",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Makeup is subject to prior permission and emergencies. It is applicable to mid-semester and comprehensive examinations only.",
+  "extraction_notes": null
+}

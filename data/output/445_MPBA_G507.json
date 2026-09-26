@@ -1,0 +1,35 @@
+{
+  "course_id": "MPBA G507",
+  "course_title": "Programming for Analytics",
+  "credits": null,
+  "instructor_in_charge": "Prof. Pabitra Biswas",
+  "evaluation_components": [
+    {
+      "component": "In-class/lab Assignment",
+      "weightage_percent": 10,
+      "when": "In lecture/lab session",
+      "notes": "Weekly once, Open book/notes/ Internet, *Data will be provided"
+    },
+    {
+      "component": "Group Project",
+      "weightage_percent": 10,
+      "when": "Till MID Sem",
+      "notes": "10, Submission: 28th Sept Presentation : 29th Sept and 1st Oct, Open book/notes/ Internet, *Dataset must be decided by student groups and submitted latest by 21st August EOD"
+    },
+    {
+      "component": "Pre-MID Sem Quiz",
+      "weightage_percent": 10,
+      "when": "3rd Week of September",
+      "notes": "30 mins, Closed book/notes/ Internet"
+    },
+    {
+      "component": "Mid Semester",
+      "weightage_percent": 20,
+      "when": "2nd Week of October",
+      "notes": "90 min, 60, Closed book/notes/, Internet"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. The \u201cIn-class/lab Assignment\u201d from pre-MID assessment component will be conducted either on lecture session and/or in lab session. The assignment date will be announced at least one day prior and an absence in the same will lead to zero marks for that assignment. These assignments are linked with your attendance in class. No makeup assignments/quizzes are allowed.",
+  "makeup_policy": "Makeup is applicable strictly for Mid-Sem or comprehensive exam only for cases related Emergency medical situations in campus. The medical documents (prescription/certificates etc.) prepared/attested by BITS Medical Centre, clearly specifying \u201cthe student is unfit to attend the test\u201d, will be essential and non-negotiable. The final decision will be at the discretion of the IC.",
+  "extraction_notes": null
+}

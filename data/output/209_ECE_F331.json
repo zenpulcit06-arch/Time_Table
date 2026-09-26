@@ -1,0 +1,35 @@
+{
+  "course_id": "ECE F331",
+  "course_title": "Microwave Engineering",
+  "credits": null,
+  "instructor_in_charge": "Prof. Dinesh Rano",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Test",
+      "weightage_percent": 30,
+      "when": "09/10/2026 AN1",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Quizzes (4)",
+      "weightage_percent": 15,
+      "when": "During tut hours",
+      "notes": "Closed Book (to be announced in class)"
+    },
+    {
+      "component": "Lab Evaluation",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": "regularity + lab exam"
+    },
+    {
+      "component": "Comprehensive. Exam.",
+      "weightage_percent": 35,
+      "when": "14/12/2026 FN",
+      "notes": "Closed /Open Book"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "[Makeup will be given only for genuine cases (accompanied by proof) for the Mid-semester or comprehensive exam only. No makeup for lab exam or quizzes.",
+  "extraction_notes": null
+}

@@ -1,0 +1,65 @@
+{
+  "course_id": "EEE / INSTR/ECE F366, F367",
+  "course_title": "Laboratory Project",
+  "credits": null,
+  "instructor_in_charge": "NAVNEET GUPTA",
+  "evaluation_components": [
+    {
+      "component": "Project Title & Plan of Work",
+      "weightage_percent": 2,
+      "when": "2nd week",
+      "notes": null
+    },
+    {
+      "component": "Viva I & Viva II",
+      "weightage_percent": 10,
+      "when": "4th week",
+      "notes": null
+    },
+    {
+      "component": "Mid sem Seminar / Report",
+      "weightage_percent": 10,
+      "when": "8th week",
+      "notes": null
+    },
+    {
+      "component": "Weekly report submission",
+      "weightage_percent": 10,
+      "when": "every week",
+      "notes": null
+    },
+    {
+      "component": "Viva III / Viva IV",
+      "weightage_percent": 10,
+      "when": "10th, 12th week",
+      "notes": null
+    },
+    {
+      "component": "Final Seminar",
+      "weightage_percent": 15,
+      "when": "16th week",
+      "notes": null
+    },
+    {
+      "component": "Final Report",
+      "weightage_percent": 15,
+      "when": "16th week",
+      "notes": null
+    },
+    {
+      "component": "Weekly Interaction and Diary",
+      "weightage_percent": 10,
+      "when": "8th, 16th week",
+      "notes": null
+    },
+    {
+      "component": "Final Seminar and Viva",
+      "weightage_percent": 20,
+      "when": "16th week",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

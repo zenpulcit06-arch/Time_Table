@@ -1,0 +1,47 @@
+{
+  "course_id": "CE F213",
+  "course_title": "SURVEYING",
+  "credits": null,
+  "instructor_in_charge": "Prof. Selva Balaji M",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Exam",
+      "weightage_percent": 25,
+      "when": "As per the timetable",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "As per the timetable",
+      "notes": null
+    },
+    {
+      "component": "Tutorials (Best 3 out of 5)",
+      "weightage_percent": 15,
+      "when": "Will be notified",
+      "notes": null
+    },
+    {
+      "component": "Lab Quiz",
+      "weightage_percent": null,
+      "when": "Will be notified",
+      "notes": null
+    },
+    {
+      "component": "Lab component with Lab Record (handwritten)",
+      "weightage_percent": 10,
+      "when": "Each week",
+      "notes": null
+    },
+    {
+      "component": "Class Quizzes",
+      "weightage_percent": 10,
+      "when": "Every class",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up exams will be conducted for quizzes or project presentations. Make-up request for examination must be notified before the examination, and decision will be made as per institute norms. Make-up requests made on medical grounds may not be approved unless recommended by CMO BITS Pilani.",
+  "extraction_notes": null
+}

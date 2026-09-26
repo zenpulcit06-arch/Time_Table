@@ -1,0 +1,23 @@
+{
+  "course_id": "CHEM U110",
+  "course_title": "CHEMISTRY LABORATORY",
+  "credits": null,
+  "instructor_in_charge": "BIBHAS RANJAN SARKAR",
+  "evaluation_components": [
+    {
+      "component": "Laboratory Work and Reports",
+      "weightage_percent": 84,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 16,
+      "when": "To be announced",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up for lab class is highly discouraged, as sufficient buffers are provided. Make-up for the comprehensive exam may be considered for genuine cases as per the Institute's rules against application by the student supported by valid documentation.",
+  "extraction_notes": null
+}

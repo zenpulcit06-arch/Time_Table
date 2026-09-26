@@ -1,0 +1,47 @@
+{
+  "course_id": "CE G613",
+  "course_title": "ADVANCED CONCRETE STRUCTURES",
+  "credits": null,
+  "instructor_in_charge": "G MUTHUKUMAR",
+  "evaluation_components": [
+    {
+      "component": "Announced Class Quiz 1",
+      "weightage_percent": 5,
+      "when": "August 24th, 2026 (Class hour)",
+      "notes": null
+    },
+    {
+      "component": "Announced Class Quiz 2",
+      "weightage_percent": 5,
+      "when": "September 23rd, 2026 (Class hour)",
+      "notes": null
+    },
+    {
+      "component": "Announced Class Quiz 3",
+      "weightage_percent": 5,
+      "when": "November 16th, 2026 (Class hour)",
+      "notes": null
+    },
+    {
+      "component": "Course Project",
+      "weightage_percent": 25,
+      "when": "November 15th, 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "<TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "<TEST_C>",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted only to genuine cases. For cases related to illness, proper documentary evidence is essential.",
+  "extraction_notes": null
+}

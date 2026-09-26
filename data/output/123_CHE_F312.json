@@ -1,0 +1,41 @@
+{
+  "course_id": "CHE F 312",
+  "course_title": "Chemical Engineering Laboratory -1",
+  "credits": null,
+  "instructor_in_charge": "Pradipta Chattopadhyay",
+  "evaluation_components": [
+    {
+      "component": "Exp. Report (Data Analysis & Visualization, Critical Thinking, Discussion)",
+      "weightage_percent": 40,
+      "when": "Regular Laboratory Hours",
+      "notes": null
+    },
+    {
+      "component": "Cycle 1(or 2) Lab Exam",
+      "weightage_percent": 15,
+      "when": "29.09.2026 and 30.09.2026",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Cycle 2 (or 1) Lab Exam",
+      "weightage_percent": 15,
+      "when": "23.11.2026 and 25.11.2026",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Quiz",
+      "weightage_percent": 15,
+      "when": "20.11.2026",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Comprehensive Viva-voce Examination",
+      "weightage_percent": 15,
+      "when": "26.11.2026 and 27.11.2026",
+      "notes": "Closed Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "As mentioned above, make-up for selected evaluative components will be granted for genuine cases only with proper documentation. For all such cases, prior permission of the I/C is compulsory. Decision of the I/C will be final in all the cases.",
+  "extraction_notes": null
+}

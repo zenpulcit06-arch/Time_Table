@@ -1,0 +1,35 @@
+{
+  "course_id": "CS F372",
+  "course_title": "Operating Systems",
+  "credits": null,
+  "instructor_in_charge": "Prof. Avinash Gautam (avinash@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 35,
+      "when": "06/10/2026 (FN1)",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Test \u2013 1",
+      "weightage_percent": 12,
+      "when": "20/09/2026",
+      "notes": null
+    },
+    {
+      "component": "Tutorial Test \u2013 2",
+      "weightage_percent": 13,
+      "when": "15/11/2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "05/12/2026 (FN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be given only to for the genuine reasons with proper evidence. Medicine prescription alone is not a sufficient evidence. The doctor must recommend bed rest. No makeup requests will be entertained if the tutorial attendance is below 80%. The makeup requests should reach before the exam. No makeup requests will be entertained after the evaluation component is over.",
+  "extraction_notes": null
+}

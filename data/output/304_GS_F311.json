@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS C484/GSF311",
+  "course_title": "Introduction to Conflict Management",
+  "credits": null,
+  "instructor_in_charge": "MADHURIMA DAS",
+  "evaluation_components": [
+    {
+      "component": "Assignment 1",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "90 Minutes",
+      "notes": null
+    },
+    {
+      "component": "Assignment 2",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "2/3 Hours",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Make-ups are not given as a routine. It is solely dependent upon the GENUENESS of the circumstances under which a student fails to appear in a scheduled test.",
+  "extraction_notes": null
+}

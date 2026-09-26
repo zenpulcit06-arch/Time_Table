@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F214",
+  "course_title": "Science, Technology and Modernity",
+  "credits": null,
+  "instructor_in_charge": "Prof. Natasha Hazarika",
+  "evaluation_components": [
+    {
+      "component": "Class discussions (Linked to attendance)",
+      "weightage_percent": 5,
+      "when": "Everyday",
+      "notes": null
+    },
+    {
+      "component": "Mid Sem Exam",
+      "weightage_percent": 30,
+      "when": "06/10 AN1",
+      "notes": "CB"
+    },
+    {
+      "component": "Assignments/ Internal Tests",
+      "weightage_percent": 30,
+      "when": "To be Announced",
+      "notes": "OB/ CB"
+    },
+    {
+      "component": "Compre. Exam.",
+      "weightage_percent": 35,
+      "when": "07/12 FN",
+      "notes": "CB"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

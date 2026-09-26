@@ -1,0 +1,35 @@
+{
+  "course_id": "HSSF349",
+  "course_title": "ECOCRITICISM",
+  "credits": null,
+  "instructor_in_charge": "Susan Haris (susan.haris@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "5/10/FN",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "11/12/2026 FN",
+      "notes": null
+    },
+    {
+      "component": "Assignment 1",
+      "weightage_percent": 30,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Assignment 2",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Class participation is essential to follow the readings.",
+  "makeup_policy": "Will be allowed if there is a genuine reason and the student reaches out to me promptly.",
+  "extraction_notes": null
+}

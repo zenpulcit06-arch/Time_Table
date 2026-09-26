@@ -1,0 +1,35 @@
+{
+  "course_id": "GSF213",
+  "course_title": "Development Theories",
+  "credits": null,
+  "instructor_in_charge": "Prof. Sailaja Nandigama",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "< 06/10 AN1 >",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "<07/12 FN >",
+      "notes": null
+    },
+    {
+      "component": "Class participation and attendance",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Internal tests",
+      "weightage_percent": 20,
+      "when": "Pre-announced",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "70% attendance and above will be rewarded with 10% marks.",
+  "makeup_policy": "Only genuine cases will get make-up opportunities in Mid-Sem and Comprehensive examinations, as determined by the IC. (Tests 1 and 2 will be announced in the class in advance and so, will not have make-up opportunities).",
+  "extraction_notes": null
+}

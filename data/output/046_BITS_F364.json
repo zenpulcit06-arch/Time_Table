@@ -1,0 +1,29 @@
+{
+  "course_id": "BITS F364",
+  "course_title": "Human Computer Interaction",
+  "credits": null,
+  "instructor_in_charge": "Prof. Siddharth Mehrotra (siddharth.mehrotra@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "13/12/2026, 9 am \u2013 12 noon",
+      "notes": null
+    },
+    {
+      "component": "Group Report/Article",
+      "weightage_percent": 30,
+      "when": "2 weeks before Compre.",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Not mandatory but strongly recommended.",
+  "makeup_policy": null,
+  "extraction_notes": null
+}

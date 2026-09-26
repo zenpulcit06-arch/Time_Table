@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM F330",
+  "course_title": "Photophysical Chemistry",
+  "credits": null,
+  "instructor_in_charge": "INAMUR RAHAMANLASKAR",
+  "evaluation_components": [
+    {
+      "component": "ContinuousEvaluations",
+      "weightage_percent": 25,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "LabExperiments",
+      "weightage_percent": 5,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Mid-SemesterTest",
+      "weightage_percent": 30,
+      "when": "07/10FN1",
+      "notes": "TBA"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "08/12 FN",
+      "notes": "TBA"
+    }
+  ],
+  "attendance_policy": "Atotalfivetutorialtestswillbeconducted;Oneofthetestswillbelinkedto50%classattendance",
+  "makeup_policy": "Make-up would be considered only forgenuinecases.",
+  "extraction_notes": null
+}

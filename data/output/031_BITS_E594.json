@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS E594",
+  "course_title": "Reading Course II",
+  "credits": null,
+  "instructor_in_charge": "Associate Dean, AGSRD",
+  "evaluation_components": [
+    {
+      "component": "Seminar I",
+      "weightage_percent": 20,
+      "when": "To be announced & conducted by the Instructor",
+      "notes": null
+    },
+    {
+      "component": "Seminar II",
+      "weightage_percent": 20,
+      "when": "To be announced & conducted by the Instructor",
+      "notes": null
+    },
+    {
+      "component": "Seminar III",
+      "weightage_percent": 25,
+      "when": "To be announced & conducted by the DCA in consultation with Instructor",
+      "notes": null
+    },
+    {
+      "component": "Project Report",
+      "weightage_percent": 35,
+      "when": "To be submitted to Instructor",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "MEL G631",
+  "course_title": "Physics and Modeling of Microelectronic Devices",
+  "credits": null,
+  "instructor_in_charge": "Rahul Kumar (rahul.kumar@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "08/10/2026 FN2",
+      "notes": null
+    },
+    {
+      "component": "Lab and project Components",
+      "weightage_percent": 40,
+      "when": "To be announced in class",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": "Total 5",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive exam.",
+      "weightage_percent": 30,
+      "when": "11/12/2026 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be allowed for genuine cases. Prior application should be sent for seeking the same.",
+  "extraction_notes": null
+}

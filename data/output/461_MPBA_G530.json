@@ -1,0 +1,29 @@
+{
+  "course_id": "MPBA G530",
+  "course_title": "Financial Analytics",
+  "credits": null,
+  "instructor_in_charge": "PABITRA BISWAS",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 30,
+      "when": "06-Oct/ AN2",
+      "notes": "Closed Book"
+    },
+    {
+      "component": "Experiential Learning Assignments / Project (2)",
+      "weightage_percent": 40,
+      "when": null,
+      "notes": "Open Book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "7- Dec / AN",
+      "notes": "Closed Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "CE G619",
+  "course_title": "Finite Element Analysis",
+  "credits": null,
+  "instructor_in_charge": "SHUVENDU NARAYAN PATEL",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Project, Assignments, Computer Programs, Seminars, Take Home Tests, Class Test",
+      "weightage_percent": 35,
+      "when": "Continuous",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 45,
+      "when": "As per timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup may be given only to the genuine cases provided prior permission is taken.",
+  "extraction_notes": null
+}

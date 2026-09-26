@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA G503",
+  "course_title": "Marketing",
+  "credits": null,
+  "instructor_in_charge": "ANIL BHAT",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "6/10/26 AN2",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "7/12/26 AN",
+      "notes": null
+    },
+    {
+      "component": "Project/s",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Cases",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Class participation/Research papers/ Term papers/Assignments/Quiz",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-ups will be given except only on genuine medical grounds and only with prior permission from Instructor-in-charge",
+  "extraction_notes": null
+}

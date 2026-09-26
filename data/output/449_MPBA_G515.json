@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA G515",
+  "course_title": "PRESCRIPTIVE ANALYTICS WITH MATHEMATICAL PROGRAMMING",
+  "credits": null,
+  "instructor_in_charge": "PROF RAJESH MATAI",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 20,
+      "when": "10/10/2026 (AN2)",
+      "notes": null
+    },
+    {
+      "component": "Mini Case Discussions",
+      "weightage_percent": 18,
+      "when": "To be announced",
+      "notes": null
+    },
+    {
+      "component": "Quiz (One)",
+      "weightage_percent": 7,
+      "when": "Announced in class",
+      "notes": null
+    },
+    {
+      "component": "Mini Project",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "16/12/2026 (AN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-ups may be allowed only in genuine medical cases with prior permission of I/C. For Quiz and Mini Case discussions, no make-up will be given.",
+  "extraction_notes": null
+}

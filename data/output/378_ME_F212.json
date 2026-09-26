@@ -1,0 +1,35 @@
+{
+  "course_id": "MEF 212",
+  "course_title": "Fluid Mechanics",
+  "credits": null,
+  "instructor_in_charge": "Prof. Shyam Sunder Yadav",
+  "evaluation_components": [
+    {
+      "component": "Tutorial tests",
+      "weightage_percent": 20,
+      "when": "Tutorial class",
+      "notes": null
+    },
+    {
+      "component": "Objective Quizzes",
+      "weightage_percent": 10,
+      "when": "Tutorial class",
+      "notes": null
+    },
+    {
+      "component": "Mid-Sem. exam.",
+      "weightage_percent": 25,
+      "when": "As per timetable",
+      "notes": null
+    },
+    {
+      "component": "Compre. exam.",
+      "weightage_percent": 45,
+      "when": "As per timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Mid sem. and comprehensive exam. make-ups will be granted only to genuine cases. For cases related to illness, prior information and proper documentary evidence are essential. Diarrhea, headache etc. cases just before the exams. will not be considered. No make-up for tutorial tests and objective quiz components.",
+  "extraction_notes": null
+}

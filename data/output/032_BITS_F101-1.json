@@ -1,0 +1,17 @@
+{
+  "course_id": "SW E101",
+  "course_title": "Social Conduct 1",
+  "credits": null,
+  "instructor_in_charge": "Prof. Rajneesh Choubisa, Prof. Sangeeta Sharma",
+  "evaluation_components": [
+    {
+      "component": "Pass",
+      "weightage_percent": null,
+      "when": null,
+      "notes": "Final grade criteria is based on completing 100% of the content and staying within certain limits for late submissions, but specific weightage percent is not provided."
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No makeup for this course.",
+  "extraction_notes": null
+}

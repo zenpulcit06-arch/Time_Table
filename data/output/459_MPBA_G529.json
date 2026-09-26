@@ -1,0 +1,41 @@
+{
+  "course_id": "MPBA G529",
+  "course_title": "Marketing Research & Metrics",
+  "credits": null,
+  "instructor_in_charge": "ANIL BHAT",
+  "evaluation_components": [
+    {
+      "component": "Midterm",
+      "weightage_percent": 20,
+      "when": "7/10/26",
+      "notes": null
+    },
+    {
+      "component": "M.R Project",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Cases",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": "Group [Presence during case discussion is mandatory]"
+    },
+    {
+      "component": "Surprize quizzes/Term Papers/ Journal Papers Assignment",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 30,
+      "when": "10/12/26",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-ups will be given except only on genuine medical grounds and only with prior permission from Instructor-in-charge.",
+  "extraction_notes": null
+}

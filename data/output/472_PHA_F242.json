@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA F242",
+  "course_title": "Biological Chemistry",
+  "credits": null,
+  "instructor_in_charge": "Richa Shrivastava, richa.shrivastava@pilani.bits-pilani.ac.in, 3170-B",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "90 Min. <TEST_1>",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "3 h <TEST_C>",
+      "notes": null
+    },
+    {
+      "component": "Lab Component",
+      "weightage_percent": 25,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Surprise quiz(es)",
+      "weightage_percent": 10,
+      "when": "Continuous",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Regularity in attendance will be one of the criteria in deciding the borderline cases at the time of final grading as well as make-up's.",
+  "makeup_policy": "Make-Ups are not given as a routine. It is solely dependent upon the genuineness of the circumstances under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge. The decision of the Instructor-in-Charge in the above matter will be final. There is no makeup for continuous evaluation.",
+  "extraction_notes": null
+}

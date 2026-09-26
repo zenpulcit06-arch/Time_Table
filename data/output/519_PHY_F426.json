@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY F426",
+  "course_title": "Physics of Semiconductor Devices",
+  "credits": null,
+  "instructor_in_charge": "MANJULADEVI V.",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Examination",
+      "weightage_percent": 25,
+      "when": "90 Min",
+      "notes": "Closed book"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "180 Min.",
+      "notes": "Closed book/Open book"
+    },
+    {
+      "component": "Tutorials/ quizzes/ Assignments",
+      "weightage_percent": 35,
+      "when": null,
+      "notes": "Closed book/Open book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up for Tutorial tests. For other components, depending on the merit of the reason for missing the evaluative component.",
+  "extraction_notes": null
+}

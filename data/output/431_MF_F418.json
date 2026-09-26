@@ -1,0 +1,35 @@
+{
+  "course_id": "MF F418",
+  "course_title": "Lean Manufacturing",
+  "credits": null,
+  "instructor_in_charge": "Abhijeet K. Digalwar",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Test",
+      "weightage_percent": 30,
+      "when": "10.10.2026 AN1",
+      "notes": null
+    },
+    {
+      "component": "Quizzes (Surprise)",
+      "weightage_percent": 10,
+      "when": "Lecture session (n\u2014Best n-2)",
+      "notes": null
+    },
+    {
+      "component": "Case Study/group Assignments/Project",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "16.12.2026 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "is not given as a routine. It depends solely on the genuineness of the circumstances under which a student fails to appear in a scheduled evaluation component. Prior permission should be obtained from the Instructor-in-Charge (I/C) in such circumstances. Non-appearance in-class tests/quizzes may lead to NC. No Make-up for quizzes/surprise tests.",
+  "extraction_notes": null
+}

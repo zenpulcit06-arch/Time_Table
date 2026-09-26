@@ -1,0 +1,53 @@
+{
+  "course_id": "CE F230",
+  "course_title": "Civil Engineering Materials",
+  "credits": null,
+  "instructor_in_charge": "Dr. Mukund Lahoti",
+  "evaluation_components": [
+    {
+      "component": "Class assessment",
+      "weightage_percent": 8,
+      "when": "Lecture hour",
+      "notes": null
+    },
+    {
+      "component": "Tutorials",
+      "weightage_percent": 12,
+      "when": "Tutorial hour",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester exam",
+      "weightage_percent": 25,
+      "when": "05/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Laboratory",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Lab record",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Lab quiz",
+      "weightage_percent": 10,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "03/12 FN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "a. Take prior permission from Instructor in charge.\nb. Make-up will be granted on a case-by-case basis only for genuine reasons.\nc. For medical cases, a certificate from the physician concerned of the Medical Centre must be produced.\nd. No make-up for tutorials (Best 6 of \u2018n\u2019 will be considered).\ne. One make-up lab.",
+  "extraction_notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "EEE / ECE / INSTR / CS F342",
+  "course_title": "Digital Design",
+  "credits": null,
+  "instructor_in_charge": "Saurabh Gandhi (IC)",
+  "evaluation_components": [
+    {
+      "component": "Midsemester exam",
+      "weightage_percent": 50,
+      "when": "See tentative schedule above",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive exam",
+      "weightage_percent": 68.29,
+      "when": "See tentative schedule above",
+      "notes": null
+    },
+    {
+      "component": "Quizzes (best 2 / 3)",
+      "weightage_percent": 20,
+      "when": "45 mins each",
+      "notes": null
+    },
+    {
+      "component": "Lab exam$",
+      "weightage_percent": 33.33,
+      "when": null,
+      "notes": "$ [IPC lab] Converting a circuit to Verilog (15 marks), writing an appropriate test bench (15 marks) + [Digital lab] Clean and functional physical implementation (20 marks)"
+    },
+    {
+      "component": "Class participation%",
+      "weightage_percent": 25,
+      "when": "All classes",
+      "notes": null
+    },
+    {
+      "component": "Lab performance#",
+      "weightage_percent": 10,
+      "when": "All labs",
+      "notes": "#1.5 marks each, best 10 out of 12 (for attendance and completion as defined for each lab)"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be granted to extremely genuine cases only (like hospitalization, etc.), provided the IC has been informed.",
+  "extraction_notes": null
+}

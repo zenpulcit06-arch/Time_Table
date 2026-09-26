@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY U101",
+  "course_title": "Classical and Quantum Waves",
+  "credits": null,
+  "instructor_in_charge": "Kaushar Vaidya",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "Open",
+      "notes": null
+    },
+    {
+      "component": "Continuous evaluation (Tutorial Test)",
+      "weightage_percent": 30,
+      "when": "Throughout Closed",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "Closed",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Very Strict. Only in the most genuine cases, as judged by the IC.",
+  "extraction_notes": null
+}

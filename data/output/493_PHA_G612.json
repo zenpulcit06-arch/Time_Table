@@ -1,0 +1,35 @@
+{
+  "course_id": "PHA G 612",
+  "course_title": "Pharmacokinetics & Clinical Pharmacy",
+  "credits": null,
+  "instructor_in_charge": "Dr. Pragyanshu Khare",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Continuous Assessment*",
+      "weightage_percent": 25,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Class discussions* (Linked to attendance)",
+      "weightage_percent": 10,
+      "when": "In class",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-ups are not given as a routine. It solely depends on the \u201cgenuineness\u201d of the circumstances under which a student fails to appear in a scheduled evaluation component. Prior permission should be sought from the instructor-in-charge in advance.",
+  "extraction_notes": null
+}

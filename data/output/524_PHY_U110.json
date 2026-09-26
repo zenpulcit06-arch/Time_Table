@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY U110",
+  "course_title": "Physics Laboratory",
+  "credits": null,
+  "instructor_in_charge": "Debashis Bandyopadhyay",
+  "evaluation_components": [
+    {
+      "component": "Day-To-Day Performance",
+      "weightage_percent": 50,
+      "when": "Regular Lab Hour",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination (written)",
+      "weightage_percent": 30,
+      "when": "2 hours",
+      "notes": "****"
+    },
+    {
+      "component": "Comprehensive Laboratory Test",
+      "weightage_percent": 20,
+      "when": "1 hour",
+      "notes": "To be announced"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make up, if any, will be decided after the consultation with the lab instructor and the genuineness of the missing purpose. No makeup would be granted during the regular lab hours. Makeup will be granted at the end of the semester based on the recommendation of the respective instructor.",
+  "extraction_notes": null
+}

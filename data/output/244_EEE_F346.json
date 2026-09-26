@@ -1,0 +1,35 @@
+{
+  "course_id": "EEE F346",
+  "course_title": "Data Communications and Networks",
+  "credits": null,
+  "instructor_in_charge": "RAHUL SINGHAL",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": "Close Book (CB)"
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": "CB/OB"
+    },
+    {
+      "component": "Class Quiz",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": "CB/OB"
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 10,
+      "when": "TBA",
+      "notes": "Open Book (OB)"
+    }
+  ],
+  "attendance_policy": "In compliance with the institute's guidelines, which are updated regularly by AUGSD, BITS Pilani.",
+  "makeup_policy": "Make-up would be granted only for genuine cases with prior permission from IC.",
+  "extraction_notes": null
+}

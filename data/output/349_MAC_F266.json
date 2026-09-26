@@ -1,0 +1,53 @@
+{
+  "course_id": "MAC F266",
+  "course_title": "Study Project",
+  "credits": null,
+  "instructor_in_charge": "ASHISH TIWARI",
+  "evaluation_components": [
+    {
+      "component": "Project Outline & Plan of Work",
+      "weightage_percent": 10,
+      "when": "05.08.2026",
+      "notes": null
+    },
+    {
+      "component": "Seminar I / Viva I",
+      "weightage_percent": 10,
+      "when": "31.08.2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester Report",
+      "weightage_percent": 10,
+      "when": "28.09.2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester Seminar",
+      "weightage_percent": 15,
+      "when": "28.09.2026",
+      "notes": null
+    },
+    {
+      "component": "Final Report",
+      "weightage_percent": 25,
+      "when": "26.11.2026",
+      "notes": null
+    },
+    {
+      "component": "Final Seminar and Viva",
+      "weightage_percent": 20,
+      "when": "27.11.2026",
+      "notes": null
+    },
+    {
+      "component": "Weekly Interactions and Diary",
+      "weightage_percent": 10,
+      "when": "27.11.2026",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

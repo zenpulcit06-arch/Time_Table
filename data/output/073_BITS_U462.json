@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F462/BITS U462",
+  "course_title": "Renewable energy",
+  "credits": null,
+  "instructor_in_charge": "MANOJ KUMAR SONI",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 25,
+      "when": "TBA",
+      "notes": "Duration: 90 minutes, Closed Book"
+    },
+    {
+      "component": "Lecture Test (Surprise)*",
+      "weightage_percent": 10,
+      "when": "During class hours",
+      "notes": "Duration: 10 minutes, Closed Book"
+    },
+    {
+      "component": "Activity-based evaluation/ case studies/ Assignments/ projects",
+      "weightage_percent": 25,
+      "when": "Announced later",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": "Duration: 180 minutes, Closed and Open Book"
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Makeup will be given only to genuine cases. The request application should reach the Instructor\u2013in\u2013charge before the commencement of the scheduled test.",
+  "extraction_notes": null
+}

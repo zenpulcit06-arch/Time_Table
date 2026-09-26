@@ -1,0 +1,47 @@
+{
+  "course_id": "MPBA G517",
+  "course_title": "Big Data Analytics",
+  "credits": null,
+  "instructor_in_charge": "Praveen Goyal",
+  "evaluation_components": [
+    {
+      "component": "Lab Evaluation",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Class participation",
+      "weightage_percent": 5,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Mid-semester evaluation",
+      "weightage_percent": 25,
+      "when": "09/10 AN2",
+      "notes": null
+    },
+    {
+      "component": "Mid-semester Group Project",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "End-semester Group Project",
+      "weightage_percent": 15,
+      "when": null,
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "14/12 AN",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Genuine cases such as hospitalization (upon production of the relevant documents/proof) will be considered upon discussion with individuals/team for any make ups for the final Exam.",
+  "extraction_notes": null
+}

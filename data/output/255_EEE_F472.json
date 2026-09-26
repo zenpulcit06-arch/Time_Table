@@ -1,0 +1,41 @@
+{
+  "course_id": "EEE F472",
+  "course_title": "Satellite Communications",
+  "credits": null,
+  "instructor_in_charge": "Sainath Bitragunta",
+  "evaluation_components": [
+    {
+      "component": "Quizzes(two;onebu(cid:27)er,bestoftwocounted)",
+      "weightage_percent": 15,
+      "when": "TBAinclass",
+      "notes": "Closed book; formula sheet may be provided"
+    },
+    {
+      "component": "RPBA\u2217 (max. twopapers)",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": "TBA Openbook"
+    },
+    {
+      "component": "Classroomhands-onsessions/teamdiscussions#",
+      "weightage_percent": 5,
+      "when": "Throughout semester",
+      "notes": "Linked to attendance; Hands-on sessions/distributions"
+    },
+    {
+      "component": "Mid-SemesterTest",
+      "weightage_percent": 25,
+      "when": "9/10(FN1)",
+      "notes": "Closed book; formula sheet(s) may be provided"
+    },
+    {
+      "component": "ComprehensiveExamination",
+      "weightage_percent": 40,
+      "when": "13/12(FN)",
+      "notes": "Closed book (CB) 16% + Openbook(OB)24%"
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "No make-up will be given for the quizzes, in-class sessions/tasks. However, for the mid-semester and the comprehensive exam, make-up will be conducted for valid reasons with supporting documents and prior permission.",
+  "extraction_notes": null
+}

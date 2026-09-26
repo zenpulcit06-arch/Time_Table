@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F 429",
+  "course_title": "Nanotechnology for Renewable Energy and Environment",
+  "credits": null,
+  "instructor_in_charge": "Aditya Singh",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10 AN1",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 40,
+      "when": "07/12 FN",
+      "notes": null
+    },
+    {
+      "component": "Quizzes",
+      "weightage_percent": 10,
+      "when": "Best 2 class tests out of 3 (CB)",
+      "notes": null
+    },
+    {
+      "component": "Project Work",
+      "weightage_percent": 20,
+      "when": null,
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted for genuine cases only.",
+  "extraction_notes": null
+}

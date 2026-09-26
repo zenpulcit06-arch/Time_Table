@@ -1,0 +1,31 @@
+{
+  "course_id": "BITS E574",
+  "course_title": "STUDY IN ADVANCE TOPIC II",
+  "credits": null,
+  "instructor_in_charge": "Associate Dean, AGSRD",
+  "evaluation_components": [
+    {
+      "component": "Seminar I",
+      "weightage_percent": 20,
+      "when": "To be announced & conducted by the Instructor"
+    },
+    {
+      "component": "Seminar II",
+      "weightage_percent": 20,
+      "when": null
+    },
+    {
+      "component": "Seminar III",
+      "weightage_percent": 25,
+      "when": "To be announced by the DCA in consultation with respective Instructor"
+    },
+    {
+      "component": "Final Project Report",
+      "weightage_percent": 35,
+      "when": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": null,
+  "extraction_notes": null
+}

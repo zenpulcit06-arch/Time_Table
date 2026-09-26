@@ -1,0 +1,35 @@
+{
+  "course_id": "SS G562",
+  "course_title": "SOFTWARE ENGINEERING AND MANAGEMENT",
+  "credits": null,
+  "instructor_in_charge": "Dr. Tanmaya Mahapatra",
+  "evaluation_components": [
+    {
+      "component": "Abstract: Code&Documentationtobe",
+      "weightage_percent": 30,
+      "when": "takehome; 25.08.2026; Final: 10.11.2026",
+      "notes": "Date format is not standard."
+    },
+    {
+      "component": "Research Seminar (individual)",
+      "weightage_percent": 10,
+      "when": "takehome; 10.11.2026",
+      "notes": "Date format is not standard."
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 25,
+      "when": "90mins.",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "180mins.",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "\u2022 Mid-Sem Exam has one make-up. This means, that a student can abstain herself/himself (on valid reasons)inthisTest. Thismakeupwouldbeconductedimmediatelyafterregularmid-semexamandwouldincludecompletesyllabus. Ofcourse,thestudentwouldapplyforthemakeupinadvancewithdocumentaryproof.\n\u2022 Onlyonproducingdocumentaryproofofpossibleabsence,whichprovesthatstudentwouldbephys-icallyunabletoappearforthetest/exam,thedecisionofgrantingthemake-upwillbetaken.\n\u2022 PriorPermissionofAGSRDisrequiredtogetmake-upforthecomprehensiveexam.",
+  "extraction_notes": null
+}

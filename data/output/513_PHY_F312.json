@@ -1,0 +1,29 @@
+{
+  "course_id": "PHY F312",
+  "course_title": "STATISTICAL MECHANICS",
+  "credits": null,
+  "instructor_in_charge": "Tapomoy Guha Sarkar",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Class Tests/Assignments",
+      "weightage_percent": 30,
+      "when": "TBA",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "As per Institute rules",
+  "extraction_notes": null
+}

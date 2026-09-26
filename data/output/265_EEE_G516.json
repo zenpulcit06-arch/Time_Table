@@ -1,0 +1,41 @@
+{
+  "course_id": "EEE G516",
+  "course_title": "Signal Theory and Optimization",
+  "credits": null,
+  "instructor_in_charge": "Sainath Bitragunta",
+  "evaluation_components": [
+    {
+      "component": "Quiz",
+      "weightage_percent": 10,
+      "when": "To be announced (TBA)",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 20,
+      "when": "Oct. 6th (FN2)",
+      "notes": null
+    },
+    {
+      "component": "Labs & Class tasks",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Team project",
+      "weightage_percent": 15,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "Dec. 5th (AN)",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No makeup exam will be conducted for quizzes. However, for the mid-semester and the comprehensive exam, makeup will be conducted for valid reasons with supporting documents and prior permission.",
+  "extraction_notes": null
+}

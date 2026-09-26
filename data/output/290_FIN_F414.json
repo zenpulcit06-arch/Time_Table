@@ -1,0 +1,35 @@
+{
+  "course_id": "FIN F414",
+  "course_title": "Financial Risk Analytics and Management",
+  "credits": null,
+  "instructor_in_charge": "Prof. Byomakesh Debata",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 25,
+      "when": "As per time-table",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "As per time-table",
+      "notes": "Partly Open Book"
+    },
+    {
+      "component": "Quiz-1",
+      "weightage_percent": 15,
+      "when": "TBD",
+      "notes": null
+    },
+    {
+      "component": "Assignment",
+      "weightage_percent": 20,
+      "when": "TBD",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "No make-up will be provided for tests unless prior approval has been obtained from the Instructor-in-Charge (I/C). Make-up for comprehensive examinations will be subject to the decision of AUGSD. The course will strictly adhere to the guidelines prescribed by AUGSD for the award of final grades.",
+  "extraction_notes": null
+}

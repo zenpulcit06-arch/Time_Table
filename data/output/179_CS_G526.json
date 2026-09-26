@@ -1,0 +1,29 @@
+{
+  "course_id": "CS G526",
+  "course_title": "Advanced Algorithms & Complexity",
+  "credits": null,
+  "instructor_in_charge": "Abhishek Mishra",
+  "evaluation_components": [
+    {
+      "component": "Mid Semester Exam",
+      "weightage_percent": 25,
+      "when": "16:00 \u2013 17:30 on 7th October, 2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "14:00 \u2013 17:00 on 10th December, 2026",
+      "notes": null
+    },
+    {
+      "component": "Project",
+      "weightage_percent": 40,
+      "when": "Second half of November",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up exam may be arranged only in genuine cases with prior permission.",
+  "extraction_notes": null
+}

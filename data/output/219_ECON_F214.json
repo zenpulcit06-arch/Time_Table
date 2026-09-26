@@ -1,0 +1,41 @@
+{
+  "course_id": "ECON F214",
+  "course_title": "ECONOMIC ENVIRONMENT OF BUSINESS",
+  "credits": null,
+  "instructor_in_charge": "PROF. SURUCHI SHRIMALI",
+  "evaluation_components": [
+    {
+      "component": "Quiz-1",
+      "weightage_percent": 5,
+      "when": "21st August, 2026",
+      "notes": null
+    },
+    {
+      "component": "Quiz-2",
+      "weightage_percent": 5,
+      "when": "18th September, 2026",
+      "notes": null
+    },
+    {
+      "component": "Mid-Semester Examination",
+      "weightage_percent": 15,
+      "when": "See the timetable",
+      "notes": null
+    },
+    {
+      "component": "Quiz-3",
+      "weightage_percent": 5,
+      "when": "6th November, 2026",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 25,
+      "when": "See the timetable",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components. [There is no weightage for assessment to attend all classes and participate.]",
+  "makeup_policy": "Makeup for the Mid-Sem and Comprehensive examinations shall be granted only in genuine cases (such as hospitalisation) after a thorough examination of the application. The conduct of make-up is to be decided by the instructor-In-Charge/instructors only. No make-up shall be granted for the quizzes; out of the three tutorial quizzes, the best 2 will be considered for the final evaluation.",
+  "extraction_notes": null
+}

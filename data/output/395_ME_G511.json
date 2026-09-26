@@ -1,0 +1,29 @@
+{
+  "course_id": "ME G511",
+  "course_title": "Mechanism and Robotics",
+  "credits": null,
+  "instructor_in_charge": "Dr. Prateek Kala",
+  "evaluation_components": [
+    {
+      "component": "Mid Sem Test",
+      "weightage_percent": 30,
+      "when": "Refer Time table",
+      "notes": null
+    },
+    {
+      "component": "Surprise Tests/ Quizzes / Assignments/ Projects and seminars",
+      "weightage_percent": 35,
+      "when": "Deadlines will be informed in class",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 35,
+      "when": "Refer Time table",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-up will be granted ONLY in genuine cases with prior permission. The request application for make-up test MUST be reached to the Instructor-in-Charge before commencement of the scheduled test along with DOCUMENTARY PROOF. No make- up will be allowed for the Surprise Quiz Tests.",
+  "extraction_notes": null
+}

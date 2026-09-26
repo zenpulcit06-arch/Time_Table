@@ -1,0 +1,35 @@
+{
+  "course_id": "BITS F232",
+  "course_title": "Foundations of Data Structures and Algorithms",
+  "credits": null,
+  "instructor_in_charge": "Veena Prabhakaran (veena.prabhakaran@pilani.bits-pilani.ac.in)",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester",
+      "weightage_percent": 25,
+      "when": "As per AUGSD schedule",
+      "notes": null
+    },
+    {
+      "component": "Lab Test",
+      "weightage_percent": 20,
+      "when": "TBA",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 35,
+      "when": "As per AUGSD schedule",
+      "notes": null
+    },
+    {
+      "component": "Lab Evaluation",
+      "weightage_percent": 20,
+      "when": "Lab Sessions",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "Make-ups are granted only for genuine reasons (e.g., medical issues) with prior permission: \u2022 Lab Test: Email the Instructor-in-Charge with documentary proof. \u2022 Mid-Term and Comprehensive Exam: Apply via the AUGSD portal. Make-up requests must be submitted to the Instructor-in-Charge at least 24 hours prior to the scheduled exam. Please note that make-up exams are generally more challenging than the regular ones.",
+  "extraction_notes": null
+}

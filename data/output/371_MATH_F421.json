@@ -1,0 +1,29 @@
+{
+  "course_id": "MATH F421",
+  "course_title": "Combinatorial Mathematics",
+  "credits": null,
+  "instructor_in_charge": "KRISHNENDRA SHEKHAWAT (6067Q, Department of Mathematics)",
+  "evaluation_components": [
+    {
+      "component": "Mid-semester Exam",
+      "weightage_percent": 35,
+      "when": "Close Book",
+      "notes": null
+    },
+    {
+      "component": "Announced Quizzes*",
+      "weightage_percent": 20,
+      "when": "To be Announced Later",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Exam",
+      "weightage_percent": 45,
+      "when": "Open Book",
+      "notes": null
+    }
+  ],
+  "attendance_policy": "Each student is expected to attend all classes and participate in all evaluation components.",
+  "makeup_policy": "Prior permission is needed for makeup; makeup will only be given if sufficient evidence is available for not being able to appear for the exams.",
+  "extraction_notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "CHEM F312",
+  "course_title": "Physical Chemistry IV",
+  "credits": null,
+  "instructor_in_charge": "SHAMIK CHAKRABORTY",
+  "evaluation_components": [
+    {
+      "component": "Mid-Semester Test",
+      "weightage_percent": 30,
+      "when": "06/10/2026 11.00 A.M. - 12.30 P.M.",
+      "notes": null
+    },
+    {
+      "component": "Continuous Evaluation*",
+      "weightage_percent": 20,
+      "when": "Continuous (best 2 out of 3 will be considered. Each test will be of 20 marks)",
+      "notes": null
+    },
+    {
+      "component": "Continuous Evaluation**",
+      "weightage_percent": 10,
+      "when": "Continuous (best 2 out of 3 will be considered. Each test will be of 20 marks)",
+      "notes": null
+    },
+    {
+      "component": "Comprehensive Examination",
+      "weightage_percent": 40,
+      "when": "05/12/2026 & 2.00 P.M. - 05.00 P.M.",
+      "notes": null
+    }
+  ],
+  "attendance_policy": null,
+  "makeup_policy": "See Part I for details. However, it may be noted that there will be no make-up for tutorials since the \u2018best three\u2019 out of four evaluations will only be considered.",
+  "extraction_notes": null
+}
