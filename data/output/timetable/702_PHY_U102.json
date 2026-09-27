@@ -1,0 +1,52 @@
+{
+  "com_cod": "5833",
+  "course_id": "PHY U102",
+  "course_title": "INTRO TO CLASSIC & QUANT WAVES",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": null,
+    "tutorial_hrs": "1",
+    "self_study_hrs": "4",
+    "units_credit_hours": "7"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "MADHUKAR MISHRA"
+      ],
+      "room": "1205",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "10/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

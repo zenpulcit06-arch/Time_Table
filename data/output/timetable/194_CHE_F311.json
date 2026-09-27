@@ -1,0 +1,52 @@
+{
+  "com_cod": "1184",
+  "course_id": "CHE F311",
+  "course_title": "KINETICS & REACTOR DESIG",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "BHANU VARDHAN REDDY K.."
+      ],
+      "room": "1223",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "T",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "01/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

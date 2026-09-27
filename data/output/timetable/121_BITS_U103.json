@@ -1,0 +1,47 @@
+{
+  "com_cod": "5001",
+  "course_id": "BITS U103",
+  "course_title": "ENGG DESIGN & PROTOTYPING",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": "4",
+    "tutorial_hrs": null,
+    "self_study_hrs": "6",
+    "units_credit_hours": "12"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "Amit Kumar"
+      ],
+      "room": "5102",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 7,
+          "time": "2:00-2:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 7,
+          "time": "2:00-2:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "10/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "16/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "com_cod": "1857",
+  "course_id": "CS F469",
+  "course_title": "INFORMATION RETRIEVAL",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "RAKHI AGRAWAL"
+      ],
+      "room": "6105",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "06/10",
+    "session": "AN1",
+    "time": "2:00 PM - 3:30 PM"
+  },
+  "compre": {
+    "date": "07/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

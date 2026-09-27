@@ -1,0 +1,39 @@
+{
+  "com_cod": "1014",
+  "course_id": "PHY F110",
+  "course_title": "PHYSICS LABORATORY",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "1"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "P1",
+      "instructors": [
+        "DEBASHIS BANDYOPADHYAY"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "S",
+          "hour": 6,
+          "time": "1:00-1:50PM"
+        },
+        {
+          "day": "S",
+          "hour": 7,
+          "time": "2:00-2:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

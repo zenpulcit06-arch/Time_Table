@@ -1,0 +1,59 @@
+{
+  "com_cod": "1555",
+  "course_id": "CHEM F242",
+  "course_title": "CHEMICAL EXPER I",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": "3",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "P1",
+      "instructors": [
+        "DALIP KUMAR"
+      ],
+      "room": "3103",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "T",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "T",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

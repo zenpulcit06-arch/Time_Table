@@ -1,0 +1,52 @@
+{
+  "com_cod": "6282",
+  "course_id": "EEE G539",
+  "course_title": "MOD & ANA OF ELECTRICAL MACHNS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "4",
+    "tutorial_hrs": null,
+    "self_study_hrs": "8",
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "ADITYA RAW GAUTAM"
+      ],
+      "room": "1203",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "10/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

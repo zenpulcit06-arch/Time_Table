@@ -1,0 +1,52 @@
+{
+  "com_cod": "782",
+  "course_id": "CS G623",
+  "course_title": "ADVANCED OPERAT SYSTEMS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "5"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "ASISH BERA"
+      ],
+      "room": "6108",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 7,
+          "time": "2:00-2:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 7,
+          "time": "2:00-2:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 7,
+          "time": "2:00-2:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "06/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "11/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,39 @@
+{
+  "com_cod": "3007",
+  "course_id": "BITS F332",
+  "course_title": "SOCIAL VENTURE CREATION",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "RAJESH KUMAR"
+      ],
+      "room": "5103",
+      "meetings": [
+        {
+          "day": "W",
+          "hour": 11,
+          "time": "UNKNOWN_HOUR_11"
+        },
+        {
+          "day": "W",
+          "hour": 12,
+          "time": "UNKNOWN_HOUR_12"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

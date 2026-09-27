@@ -1,0 +1,52 @@
+{
+  "com_cod": "2048",
+  "course_id": "EEE G554",
+  "course_title": "SOFT SWITCHING CONV TECH",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "RAJNEESH KUMAR"
+      ],
+      "room": "1203",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "13/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "com_cod": "6499",
+  "course_id": "MEL G528",
+  "course_title": "DIGITAL VLSI DESIGN",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "4",
+    "tutorial_hrs": null,
+    "self_study_hrs": "8",
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "NITIN CHATURVEDI"
+      ],
+      "room": "1225",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "08/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

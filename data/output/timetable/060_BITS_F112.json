@@ -1,0 +1,39 @@
+{
+  "com_cod": "1005",
+  "course_id": "BITS F112",
+  "course_title": "TECHNICAL REPORT WRITING",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "2"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "TO BE ANNOUNCED BY HS.."
+      ],
+      "room": "6104",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

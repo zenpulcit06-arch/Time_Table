@@ -1,0 +1,52 @@
+{
+  "com_cod": "1196",
+  "course_id": "CE F312",
+  "course_title": "HYDRAULIC ENGINEERING",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "1",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "4"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SHIBANI KHANRA JHA"
+      ],
+      "room": "1232",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "AN1",
+    "time": "2:00 PM - 3:30 PM"
+  },
+  "compre": {
+    "date": "10/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

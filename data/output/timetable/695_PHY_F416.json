@@ -1,0 +1,52 @@
+{
+  "com_cod": "1499",
+  "course_id": "PHY F416",
+  "course_title": "SOFT CONDEN MATTER PHY",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "1",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "4"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "NAVIN SINGH"
+      ],
+      "room": "1222",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "08/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

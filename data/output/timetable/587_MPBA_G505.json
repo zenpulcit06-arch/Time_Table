@@ -1,0 +1,47 @@
+{
+  "com_cod": "6527",
+  "course_id": "MPBA G505",
+  "course_title": "STATISTICS & BASIC ECONOMETRIC",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "9"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "UDAYAN CHANDA"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "01/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

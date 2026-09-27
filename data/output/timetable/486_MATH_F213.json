@@ -1,0 +1,52 @@
+{
+  "com_cod": "1123",
+  "course_id": "MATH F213",
+  "course_title": "DISCRETE MATHEMATICS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "DIVYUM SHARMA"
+      ],
+      "room": "6107(M\nW)\n1223(Th)",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "05/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "03/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

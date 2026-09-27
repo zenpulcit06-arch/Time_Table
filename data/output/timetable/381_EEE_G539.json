@@ -1,0 +1,34 @@
+{
+  "com_cod": "2940",
+  "course_id": "EEE G539",
+  "course_title": "MODELLING AND ANALYSIS OF ELEC",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "5"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [],
+      "room": null,
+      "meetings": [],
+      "status": "cancelled"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "10/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

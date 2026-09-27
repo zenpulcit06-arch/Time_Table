@@ -1,0 +1,52 @@
+{
+  "com_cod": "6459",
+  "course_id": "ME G552",
+  "course_title": "INDUSTRIAL ROBOTICS & CONTROLS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "4",
+    "tutorial_hrs": null,
+    "self_study_hrs": "8",
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "YOGESH SINGH"
+      ],
+      "room": "6157",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "16/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

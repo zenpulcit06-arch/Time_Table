@@ -1,0 +1,42 @@
+{
+  "com_cod": "5091",
+  "course_id": "BIOT U317",
+  "course_title": "GENETIC ENG TECHNIQUES",
+  "credit_structure": {
+    "lecture_hrs": "1",
+    "practical_hrs": "6",
+    "tutorial_hrs": null,
+    "self_study_hrs": "5",
+    "units_credit_hours": "12"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SANDHYA AMOL MARATHE"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "01/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "com_cod": "6627",
+  "course_id": "PHA G625",
+  "course_title": "CELL & MOLEC PHARMACOLOGY",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "GAIKWAD ANIL BHANUDAS"
+      ],
+      "room": "6161(F)\n6162(M\nW)",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "05/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "03/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

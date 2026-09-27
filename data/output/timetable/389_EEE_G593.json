@@ -1,0 +1,52 @@
+{
+  "com_cod": "6301",
+  "course_id": "EEE G593",
+  "course_title": "POWER QUALITY",
+  "credit_structure": {
+    "lecture_hrs": "5",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": "1\n0",
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "ASHISH PATEL ."
+      ],
+      "room": "1205",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "10/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "16/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

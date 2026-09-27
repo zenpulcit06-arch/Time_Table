@@ -1,0 +1,26 @@
+{
+  "com_cod": "6034",
+  "course_id": "BITS G629T",
+  "course_title": "DISSERTATION",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "48"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [],
+      "room": null,
+      "meetings": [],
+      "status": "cancelled"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

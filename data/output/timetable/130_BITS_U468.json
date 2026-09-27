@@ -1,0 +1,26 @@
+{
+  "com_cod": "5044",
+  "course_id": "BITS U468",
+  "course_title": "NEW VENTURE CREATION",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": "6",
+    "units_credit_hours": "9"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [],
+      "room": null,
+      "meetings": [],
+      "status": "cancelled"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

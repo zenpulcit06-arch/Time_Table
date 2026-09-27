@@ -1,0 +1,52 @@
+{
+  "com_cod": "6625",
+  "course_id": "PHA G623",
+  "course_title": "PHARMA APPL OF POLYMERS & BIOP",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "ANIRUDDHA ROY"
+      ],
+      "room": "1234",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "13/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

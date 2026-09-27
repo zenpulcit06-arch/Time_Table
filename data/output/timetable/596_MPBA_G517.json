@@ -1,0 +1,52 @@
+{
+  "com_cod": "2469",
+  "course_id": "MPBA G517",
+  "course_title": "BIG DATA ANALYTICS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "PRAVEEN GOYAL"
+      ],
+      "room": "6108(F)\n6108(T)\n6157(Th)",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "14/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

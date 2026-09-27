@@ -1,0 +1,49 @@
+{
+  "com_cod": "1129",
+  "course_id": "PHY F214",
+  "course_title": "ELEC MAGNET & OPTICS LAB",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "2"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "P1",
+      "instructors": [
+        "SAJAL MUKHERJEE"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 1,
+          "time": "8:00-8:50AM"
+        },
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 1,
+          "time": "8:00-8:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

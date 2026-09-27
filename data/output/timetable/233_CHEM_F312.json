@@ -1,0 +1,52 @@
+{
+  "com_cod": "1560",
+  "course_id": "CHEM F312",
+  "course_title": "PHYSICAL CHEMISTRY IV",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SHAMIK CHAKRABORTY"
+      ],
+      "room": "6101",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 6,
+          "time": "1:00-1:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 6,
+          "time": "1:00-1:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 6,
+          "time": "1:00-1:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "06/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "05/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

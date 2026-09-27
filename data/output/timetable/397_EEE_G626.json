@@ -1,0 +1,34 @@
+{
+  "com_cod": "6313",
+  "course_id": "EEE G626",
+  "course_title": "HARWARE SOFTWARE CODESIGN",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "12"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [],
+      "room": null,
+      "meetings": [],
+      "status": "cancelled"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "10/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,44 @@
+{
+  "com_cod": "5049",
+  "course_id": "SW E102",
+  "course_title": "BASIC FITNESS",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "1"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SUBHASIS PRADHAN"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

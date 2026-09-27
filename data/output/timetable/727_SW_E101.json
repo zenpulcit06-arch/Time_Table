@@ -1,0 +1,28 @@
+{
+  "com_cod": "5048",
+  "course_id": "SW E101",
+  "course_title": "SOCIAL CONDUCT 1",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "1"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "RAJNEESH CHOUBISA"
+      ],
+      "room": null,
+      "meetings": [],
+      "status": "unknown"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

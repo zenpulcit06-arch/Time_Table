@@ -1,0 +1,39 @@
+{
+  "com_cod": "5238",
+  "course_id": "CHEM U110",
+  "course_title": "CHEMISTRY LABORATORY",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": "1",
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "P1",
+      "instructors": [
+        "Ram Kinkar Roy"
+      ],
+      "room": "3103",
+      "meetings": [
+        {
+          "day": "F",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

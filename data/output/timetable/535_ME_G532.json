@@ -1,0 +1,52 @@
+{
+  "com_cod": "262",
+  "course_id": "ME G532",
+  "course_title": "MACHINE TOOL ENGINEERING",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": "3",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "5"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "ANUJ SHARMA"
+      ],
+      "room": "1219",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "T",
+          "hour": 7,
+          "time": "2:00-2:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "01/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "com_cod": "1092",
+  "course_id": "CS F213",
+  "course_title": "OBJECT ORIENTED PROG",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "1",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "4"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "PRATIK NARANG"
+      ],
+      "room": "6109",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "10/10",
+    "session": "AN1",
+    "time": "2:00 PM - 3:30 PM"
+  },
+  "compre": {
+    "date": "16/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

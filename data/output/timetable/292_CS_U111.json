@@ -1,0 +1,52 @@
+{
+  "com_cod": "5283",
+  "course_id": "CS U111",
+  "course_title": "COMPUTL THINKING &\nPROGRAMMING",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": "7",
+    "units_credit_hours": "12"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "VINTI AGARWAL"
+      ],
+      "room": "5105",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "02/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

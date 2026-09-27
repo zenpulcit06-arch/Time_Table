@@ -1,0 +1,39 @@
+{
+  "com_cod": "1797",
+  "course_id": "BITS F468",
+  "course_title": "NEW VENTURE CREATION",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "JYOTI"
+      ],
+      "room": "5103",
+      "meetings": [
+        {
+          "day": "Th",
+          "hour": 11,
+          "time": "UNKNOWN_HOUR_11"
+        },
+        {
+          "day": "Th",
+          "hour": 12,
+          "time": "UNKNOWN_HOUR_12"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

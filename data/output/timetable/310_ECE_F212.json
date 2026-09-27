@@ -1,0 +1,52 @@
+{
+  "com_cod": "1381",
+  "course_id": "ECE F212",
+  "course_title": "ELECTROMAGNETIC THEORY",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "PRAVEEN KUMAR A.V."
+      ],
+      "room": "5101",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "AN1",
+    "time": "2:00 PM - 3:30 PM"
+  },
+  "compre": {
+    "date": "12/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

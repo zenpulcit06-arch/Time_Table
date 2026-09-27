@@ -1,0 +1,28 @@
+{
+  "com_cod": "1657",
+  "course_id": "EEE F266",
+  "course_title": "STUDY PROJECT",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "NAVNEET GUPTA"
+      ],
+      "room": null,
+      "meetings": [],
+      "status": "unknown"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

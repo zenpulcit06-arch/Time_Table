@@ -1,0 +1,52 @@
+{
+  "com_cod": "2751",
+  "course_id": "BITS F240",
+  "course_title": "INTRO TO ENV & SUST SYS ENGG",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1AJ",
+      "instructors": [
+        "SMITA RAGHUVANSHI"
+      ],
+      "room": "1220",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "04/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "09/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

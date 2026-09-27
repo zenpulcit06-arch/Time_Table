@@ -1,0 +1,52 @@
+{
+  "com_cod": "2146",
+  "course_id": "CHE G552",
+  "course_title": "ADV TRANSPORT PHENOMENA",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "5"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SAIKAT BHATTACHARJEE"
+      ],
+      "room": "1222",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "06/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "05/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

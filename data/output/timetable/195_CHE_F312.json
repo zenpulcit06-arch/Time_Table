@@ -1,0 +1,49 @@
+{
+  "com_cod": "1185",
+  "course_id": "CHE F312",
+  "course_title": "CHEMICAL ENGG LAB I",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": "3",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "P1",
+      "instructors": [
+        "PRADIPTA CHATTOPADHYAY"
+      ],
+      "room": "1117",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "M",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

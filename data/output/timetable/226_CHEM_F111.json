@@ -1,0 +1,52 @@
+{
+  "com_cod": "1007",
+  "course_id": "CHEM F111",
+  "course_title": "GENERAL CHEMISTRY",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SUROJIT PANDE"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 11,
+          "time": "UNKNOWN_HOUR_11"
+        },
+        {
+          "day": "W",
+          "hour": 11,
+          "time": "UNKNOWN_HOUR_11"
+        },
+        {
+          "day": "F",
+          "hour": 11,
+          "time": "UNKNOWN_HOUR_11"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "AN1",
+    "time": "2:00 PM - 3:30 PM"
+  },
+  "compre": {
+    "date": "14/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

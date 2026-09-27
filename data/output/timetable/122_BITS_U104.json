@@ -1,0 +1,42 @@
+{
+  "com_cod": "5002",
+  "course_id": "BITS U104",
+  "course_title": "FOUND OF MEASUREMENT & EXPT",
+  "credit_structure": {
+    "lecture_hrs": "1",
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": "3",
+    "units_credit_hours": "6"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "Raj Kumar Gupta"
+      ],
+      "room": "5102",
+      "meetings": [
+        {
+          "day": "F",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "10/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

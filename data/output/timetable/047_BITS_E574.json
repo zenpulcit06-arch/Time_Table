@@ -1,0 +1,28 @@
+{
+  "com_cod": "2187",
+  "course_id": "BITS E574",
+  "course_title": "STUDY IN ADVANCED TOPIC II",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "5"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SHAMIK CHAKRABORTY"
+      ],
+      "room": null,
+      "meetings": [],
+      "status": "unknown"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

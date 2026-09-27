@@ -1,0 +1,28 @@
+{
+  "com_cod": "1696",
+  "course_id": "MATH F376",
+  "course_title": "DESIGN PROJECT",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "ASHISH TIWARI"
+      ],
+      "room": null,
+      "meetings": [],
+      "status": "unknown"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

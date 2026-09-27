@@ -1,0 +1,47 @@
+{
+  "com_cod": "1798",
+  "course_id": "BITS F469",
+  "course_title": "FINANCING INFRA PROJECTS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "AJIT PRATAP SINGH"
+      ],
+      "room": "6161",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "10/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "15/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

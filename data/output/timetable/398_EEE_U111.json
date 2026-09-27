@@ -1,0 +1,47 @@
+{
+  "com_cod": "5378",
+  "course_id": "EEE U111",
+  "course_title": "ELECTRICAL SCIENCES",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": "2",
+    "tutorial_hrs": "1",
+    "self_study_hrs": "5",
+    "units_credit_hours": "10"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "ABHIJIT RAMESHWAR ASATI"
+      ],
+      "room": "5105",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 6,
+          "time": "1:00-1:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 6,
+          "time": "1:00-1:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "14/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

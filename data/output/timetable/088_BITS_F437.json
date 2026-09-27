@@ -1,0 +1,26 @@
+{
+  "com_cod": "2001",
+  "course_id": "BITS F437",
+  "course_title": "TECHNICAL COMMUNICATION",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "1",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [],
+      "room": null,
+      "meetings": [],
+      "status": "cancelled"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

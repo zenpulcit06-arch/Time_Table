@@ -1,0 +1,52 @@
+{
+  "com_cod": "5477",
+  "course_id": "HSS U141",
+  "course_title": "ACADEMIC WRITING LAB",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": "6",
+    "units_credit_hours": "9"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "CHINTALAPALLI VIJAYAK.."
+      ],
+      "room": "6158",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "05/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "04/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

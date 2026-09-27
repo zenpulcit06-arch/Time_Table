@@ -1,0 +1,52 @@
+{
+  "com_cod": "1098",
+  "course_id": "INSTR F215",
+  "course_title": "DIGITAL DESIGN",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "1",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "4"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "Sai Sesha Chalapathi Ga.."
+      ],
+      "room": "5102",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "07/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "08/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

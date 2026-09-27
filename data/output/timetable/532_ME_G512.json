@@ -1,0 +1,52 @@
+{
+  "com_cod": "6422",
+  "course_id": "ME G512",
+  "course_title": "FINITE ELEMENT METHODS",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": "6",
+    "tutorial_hrs": null,
+    "self_study_hrs": "7",
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "GAURAV WATTS"
+      ],
+      "room": "1223",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 9,
+          "time": "4:00-4:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "13/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

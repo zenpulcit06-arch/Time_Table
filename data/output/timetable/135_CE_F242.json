@@ -1,0 +1,52 @@
+{
+  "com_cod": "1192",
+  "course_id": "CE F242",
+  "course_title": "CONSTRUCTION PLAN & TECH",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "RAVINDRA DWIVEDI"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 5,
+          "time": "12:00-12:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "12/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

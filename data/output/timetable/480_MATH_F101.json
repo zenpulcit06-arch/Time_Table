@@ -1,0 +1,52 @@
+{
+  "com_cod": "2887",
+  "course_id": "MATH F101",
+  "course_title": "MULTIVARIABLE CALCULUS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "Trilok Mathur"
+      ],
+      "room": "5102",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 3,
+          "time": "10:00-10:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "06/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "07/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

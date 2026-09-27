@@ -1,0 +1,52 @@
+{
+  "com_cod": "6248",
+  "course_id": "EE G501",
+  "course_title": "ENVIR SAMPL & ANALYTIC METHODS",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "4",
+    "tutorial_hrs": null,
+    "self_study_hrs": "8",
+    "units_credit_hours": "15"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "PUBALI MANDAL"
+      ],
+      "room": "1232",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "T",
+          "hour": 8,
+          "time": "3:00-3:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "FN2",
+    "time": "11:00 AM - 12:30 PM"
+  },
+  "compre": {
+    "date": "01/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

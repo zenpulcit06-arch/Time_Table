@@ -1,0 +1,47 @@
+{
+  "com_cod": "1316",
+  "course_id": "CS F301",
+  "course_title": "PRINCIPLES OF PROGG LANG",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "2"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "AMIT DUA"
+      ],
+      "room": "6163",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "01/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,28 @@
+{
+  "com_cod": "1616",
+  "course_id": "BITS F422T",
+  "course_title": "THESIS",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "16"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SACHIN ULHASRAO BELGA.."
+      ],
+      "room": null,
+      "meetings": [],
+      "status": "unknown"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "com_cod": "145",
+  "course_id": "PHA G617",
+  "course_title": "ADV DRUG DELIVERY SYSTEM",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "2",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "5"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "MURALI M PANDEY"
+      ],
+      "room": "6107(F)\n6108(M)\n6108(Th)",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "Th",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "09/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "14/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

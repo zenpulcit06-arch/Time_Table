@@ -1,0 +1,44 @@
+{
+  "com_cod": "2983",
+  "course_id": "BITS K101-1",
+  "course_title": "PHYED HEAL & WELBEIN CREA ART",
+  "credit_structure": {
+    "lecture_hrs": "1",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "1"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "P1",
+      "instructors": [
+        "NAVIN SINGH"
+      ],
+      "room": null,
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": null,
+  "compre": null,
+  "parse_notes": []
+}

@@ -1,0 +1,42 @@
+{
+  "com_cod": "1434",
+  "course_id": "BIO F418",
+  "course_title": "GENETIC ENGINEERING TECH",
+  "credit_structure": {
+    "lecture_hrs": "1",
+    "practical_hrs": "3",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "4"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SANDHYA AMOL MARATHE"
+      ],
+      "room": "6154",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "08/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "01/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

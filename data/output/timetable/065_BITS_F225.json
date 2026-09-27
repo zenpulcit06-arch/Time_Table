@@ -1,0 +1,52 @@
+{
+  "com_cod": "1632",
+  "course_id": "BITS F225",
+  "course_title": "ENVIRONMENTAL STUDIES",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "B VANI"
+      ],
+      "room": "5102",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "W",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        },
+        {
+          "day": "F",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "04/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "30/11",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "com_cod": "5236",
+  "course_id": "CHEM U101",
+  "course_title": "ATM STR BONDING & SPECTROSCOPY",
+  "credit_structure": {
+    "lecture_hrs": "2",
+    "practical_hrs": null,
+    "tutorial_hrs": "1",
+    "self_study_hrs": "4",
+    "units_credit_hours": "7"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "PRITAM KUMAR JANA"
+      ],
+      "room": "5105",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 2,
+          "time": "9:00-9:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "05/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "04/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}

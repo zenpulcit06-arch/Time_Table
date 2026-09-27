@@ -1,0 +1,52 @@
+{
+  "com_cod": "2415",
+  "course_id": "MF F315",
+  "course_title": "AUTOMATION AND CONTROL",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": "1",
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "4"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "PRATEEK KALA"
+      ],
+      "room": "1219",
+      "meetings": [
+        {
+          "day": "T",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "Th",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "F",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "10/10",
+    "session": "FN1",
+    "time": "9:00 AM - 10:30 AM"
+  },
+  "compre": {
+    "date": "15/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

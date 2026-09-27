@@ -1,0 +1,52 @@
+{
+  "com_cod": "1069",
+  "course_id": "CHE F211",
+  "course_title": "CHEMICAL PROCESS CALCULA",
+  "credit_structure": {
+    "lecture_hrs": "3",
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "3"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "HARE KRISHNA MOHANTA"
+      ],
+      "room": "1223",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "T",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "05/10",
+    "session": "AN1",
+    "time": "2:00 PM - 3:30 PM"
+  },
+  "compre": {
+    "date": "03/12",
+    "session": "FN",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  "parse_notes": []
+}

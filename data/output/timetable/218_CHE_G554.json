@@ -1,0 +1,52 @@
+{
+  "com_cod": "2148",
+  "course_id": "CHE G554",
+  "course_title": "COMPUT FLUID DYNAMICS",
+  "credit_structure": {
+    "lecture_hrs": null,
+    "practical_hrs": null,
+    "tutorial_hrs": null,
+    "self_study_hrs": null,
+    "units_credit_hours": "4"
+  },
+  "lecture_sections": [
+    {
+      "section_id": "L1",
+      "instructors": [
+        "SAIKAT BHATTACHARJEE"
+      ],
+      "room": "1234",
+      "meetings": [
+        {
+          "day": "M",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "W",
+          "hour": 4,
+          "time": "11:00-11:50AM"
+        },
+        {
+          "day": "T",
+          "hour": 10,
+          "time": "5:00-5:50PM"
+        }
+      ],
+      "status": "active"
+    }
+  ],
+  "tutorial_sections": [],
+  "practical_sections": [],
+  "midsem": {
+    "date": "05/10",
+    "session": "AN2",
+    "time": "4:00 PM - 5:30 PM"
+  },
+  "compre": {
+    "date": "03/12",
+    "session": "AN",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  "parse_notes": []
+}
