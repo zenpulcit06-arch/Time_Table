@@ -1,0 +1,303 @@
+{
+  "programme_name": "Higher Degree",
+  "page": 435,
+  "entries": [
+    {
+      "type": "course",
+      "course_code": "EEE G511",
+      "course_title": "RF and Microwave Circuit Design",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G622",
+      "course_title": "Advanced Digital Communication",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G516",
+      "course_title": "Signal Theory and Optimization",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Elective"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G540",
+      "course_title": "Research Practice",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G525",
+      "course_title": "Wireless Communication Systems",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G526",
+      "course_title": "Lightwave Engineering",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Elective"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 5,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G629T",
+      "course_title": "Dissertation",
+      "credit_units": 16,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G639",
+      "course_title": "Practice School",
+      "credit_units": 20,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS G525",
+      "course_title": "Advanced Computer Networks",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS G526",
+      "course_title": "Advanced Algorithms and Complexity",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS C623",
+      "course_title": "Advanced Operating Systems",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G540",
+      "course_title": "Research Practice",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS G513",
+      "course_title": "Network Security",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS G524",
+      "course_title": "Advanced Computer Architecture",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Elective"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Elective"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Elective"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Elective"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Elective"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G629T",
+      "course_title": "Dissertation",
+      "credit_units": 16,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G639",
+      "course_title": "Practice School",
+      "credit_units": 20,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G559",
+      "course_title": "Advanced Power Electronics",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G539",
+      "course_title": "Modelling and Analysis of Electrical Machines",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G593",
+      "course_title": "Power Quality Elective",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G540",
+      "course_title": "Research Practice",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G540",
+      "course_title": "Advanced Control Techniques for Power Converters and Drives",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE G552",
+      "course_title": "Solid State Drives",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Elective"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G629T",
+      "course_title": "Dissertation",
+      "credit_units": 16,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G639",
+      "course_title": "Practice School",
+      "credit_units": 20,
+      "category_label": null
+    }
+  ],
+  "discipline_elective_rule": "Any elective-designated course offered within the student's own department (matching the department's course-code prefix), not already counted toward Core requirements. No fixed course list exists in the Bulletin for standard on-campus programmes \u2014 eligible courses must be resolved by department prefix against the Handout/Timetable datasets.",
+  "open_elective_rule": "Any course from a discipline other than the student's own major, subject to prerequisites and, in some cases, Head of Department approval. No fixed course list exists in the Bulletin \u2014 this is a policy rule, not an enumerated pool.",
+  "parse_notes": []
+}

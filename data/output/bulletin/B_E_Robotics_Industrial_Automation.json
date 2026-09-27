@@ -1,0 +1,338 @@
+{
+  "programme_name": "B.E. Robotics & Industrial Automation",
+  "page": 226,
+  "entries": [
+    {
+      "type": "course",
+      "course_code": "BIO F 1 1 0",
+      "course_title": "Biology Laboratory",
+      "credit_units": 1,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BIO F111",
+      "course_title": "General Biology",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHEM F110",
+      "course_title": "Chemistry Laboratory",
+      "credit_units": 1,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHEM F111",
+      "course_title": "General Chemistry",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F111",
+      "course_title": "Mathematics I",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHY F110",
+      "course_title": "Physics Laboratory",
+      "credit_units": 1,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHY F111",
+      "course_title": "Mechanics, Oscillations and Waves",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F110",
+      "course_title": "Engineering Graphics",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F112",
+      "course_title": "Mathematics II",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "ME F112",
+      "course_title": "Workshop Practice",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F111",
+      "course_title": "Computer Programming",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE F111",
+      "course_title": "Electrical Sciences",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F112",
+      "course_title": "Technical Report Writing",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F113",
+      "course_title": "Probability and Statistics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F111",
+      "course_title": "Thermodynamics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F211",
+      "course_title": "Mathematics III",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F211",
+      "course_title": "Robotics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F212",
+      "course_title": "Introduction to Mechanisms & Robotics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F213",
+      "course_title": "Foundations of Data Structures and Algorithms",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F214",
+      "course_title": "Sensors, Actuators and Signal Conditioning",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "ECON F211",
+      "course_title": "Principles of Economics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MGTS F211",
+      "course_title": "Principles of Management",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F242",
+      "course_title": "Control Systems",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F241",
+      "course_title": "Artificial Intelligence for Robotics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F244",
+      "course_title": "Embedded Systems for Robotics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F243",
+      "course_title": "Signals and Systems",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F225",
+      "course_title": "Environmental Studies",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open/Humanities Electives",
+      "credit_units": null,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F311",
+      "course_title": "Fluid Power Systems",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F312",
+      "course_title": "Robot Dynamics & Control",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F313",
+      "course_title": "Computer Vision",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Discipline Electives",
+      "credit_units": null,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "Capstone Project 1",
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open/Humanities Electives",
+      "credit_units": null,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F341",
+      "course_title": "IoT for Industrial Automation",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F342",
+      "course_title": "Computer Aided Design",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F343",
+      "course_title": "Autonomous Mobile Robotics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "RIA F344",
+      "course_title": "Industrial Automation & Control",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "Capstone Project 2",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open Electives",
+      "credit_units": 6,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Discipline Elective",
+      "credit_units": 9,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F412",
+      "course_title": "Practice School-II",
+      "credit_units": 20,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F421T",
+      "course_title": "Thesis",
+      "credit_units": 16,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 16,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 2,
+      "category_label": "Discipline Electives"
+    }
+  ],
+  "discipline_elective_rule": "Any elective-designated course offered within the student's own department (matching the department's course-code prefix), not already counted toward Core requirements. No fixed course list exists in the Bulletin for standard on-campus programmes \u2014 eligible courses must be resolved by department prefix against the Handout/Timetable datasets.",
+  "open_elective_rule": "Any course from a discipline other than the student's own major, subject to prerequisites and, in some cases, Head of Department approval. No fixed course list exists in the Bulletin \u2014 this is a policy rule, not an enumerated pool.",
+  "parse_notes": []
+}

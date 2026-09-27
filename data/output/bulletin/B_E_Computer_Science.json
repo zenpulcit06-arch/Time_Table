@@ -1,0 +1,330 @@
+{
+  "programme_name": "B. E. Computer Science",
+  "page": 216,
+  "entries": [
+    {
+      "type": "course",
+      "course_code": "INTRO F101",
+      "course_title": "Introduction to Engineering",
+      "credit_units": 4
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F103",
+      "course_title": "Design and Prototyping",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "BIO F101",
+      "course_title": "Introduction to Biological Sciences",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "CHEM F101",
+      "course_title": "Fundamentals of Chemistry",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F101",
+      "course_title": "Multivariable Calculus",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "PHY F101",
+      "course_title": "Oscillations and Waves",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F101",
+      "course_title": "Social Conduct",
+      "credit_units": 1
+    },
+    {
+      "type": "course",
+      "course_code": "BITS K101",
+      "course_title": "Physical Well-being and Creativity",
+      "credit_units": 1
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F111",
+      "course_title": "Thermodynamics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F112",
+      "course_title": "Technical Report Writing",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F111",
+      "course_title": "Computer Programming",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F113",
+      "course_title": "Probability and Statistics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "Linear Algebra and MATH F102",
+      "course_title": "Linear Algebra and MATH F102",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "Complex Variables",
+      "course_title": "Complex Variables",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE F111",
+      "course_title": "Electrical Sciences Innovation and Design",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F102",
+      "course_title": "BITS F102 Thinking",
+      "credit_units": 1,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F211",
+      "course_title": "Mathematics III",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CS F214",
+      "course_title": "Logic in Computer Science",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F222",
+      "course_title": "Discrete Structures for Computer Science",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F213",
+      "course_title": "Object Oriented Programming",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F215",
+      "course_title": "Digital Design",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "ECON F211",
+      "course_title": "Principles of Economics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MGTS F211",
+      "course_title": "Principles of Management",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CS F211",
+      "course_title": "Data Structures & Algorithms",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F241",
+      "course_title": "Microprocessors & Interfacing",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F212",
+      "course_title": "Database Systems",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F225",
+      "course_title": "Environmental Studies",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open/Humanities Electives",
+      "credit_units": null,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CS F351",
+      "course_title": "Theory of Computation",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F372",
+      "course_title": "Operating Systems",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F301",
+      "course_title": "Principles of Programming Languages",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F342",
+      "course_title": "Computer Architecture",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Discipline Electives",
+      "credit_units": 4,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open/Humanities Electives",
+      "credit_units": 2,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CS F363",
+      "course_title": "Compiler Construction",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F364",
+      "course_title": "Design & Analysis of Algorithms",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F303",
+      "course_title": "Computer Networks",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Discipline Electives",
+      "credit_units": 4,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 6,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F412",
+      "course_title": "Practice School-II",
+      "credit_units": 20,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F421T",
+      "course_title": "Thesis",
+      "credit_units": 16,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F425T",
+      "course_title": "Thesis",
+      "credit_units": 20,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F424T",
+      "course_title": "Thesis (9) and Electives",
+      "credit_units": 15,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 9,
+      "category_label": "Discipline Electives"
+    }
+  ],
+  "discipline_elective_rule": "Any elective-designated course offered within the student's own department (matching the department's course-code prefix), not already counted toward Core requirements. No fixed course list exists in the Bulletin for standard on-campus programmes \u2014 eligible courses must be resolved by department prefix against the Handout/Timetable datasets.",
+  "open_elective_rule": "Any course from a discipline other than the student's own major, subject to prerequisites and, in some cases, Head of Department approval. No fixed course list exists in the Bulletin \u2014 this is a policy rule, not an enumerated pool.",
+  "parse_notes": []
+}

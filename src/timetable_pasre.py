@@ -165,7 +165,7 @@ def main():
                         current_course["compre"] = parse_midsem_compre(compre_raw, COMPRE_SESSION_TO_TIME)
                     continue
 
-                # ... (rest of the loop body is unchanged from before)
+                
 
         if current_course:
             saved_count += 1

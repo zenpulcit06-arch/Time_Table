@@ -1,0 +1,324 @@
+{
+  "programme_name": "B.E. Chemical",
+  "page": 213,
+  "entries": [
+    {
+      "type": "course",
+      "course_code": "BITS F103",
+      "course_title": "Introduction to Engineering Design and Prototyping",
+      "credit_units": 4
+    },
+    {
+      "type": "course",
+      "course_code": "BIO F101",
+      "course_title": "Introduction to Biological Sciences",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "CHEM F101",
+      "course_title": "Fundamentals of Chemistry",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F101",
+      "course_title": "Multivariable Calculus",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "PHY F101",
+      "course_title": "Oscillations and Waves",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F101",
+      "course_title": "Social Conduct",
+      "credit_units": 1
+    },
+    {
+      "type": "course",
+      "course_code": "BITS K101",
+      "course_title": "Physical Well-being and Creativity",
+      "credit_units": 1
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F111",
+      "course_title": "Thermodynamics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F112",
+      "course_title": "Technical Report Writing",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F111",
+      "course_title": "Computer Programming",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F113",
+      "course_title": "Probability and Statistics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F102",
+      "course_title": "Linear Algebra and Complex Variables",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "EEE F111",
+      "course_title": "Electrical Sciences",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F102",
+      "course_title": "Innovation and Design Thinking",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F211",
+      "course_title": "Mathematics III",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F211",
+      "course_title": "Chemical Process Calculations",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F214",
+      "course_title": "Engineering Chemistry",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F213",
+      "course_title": "Chemical Engineering Thermodynamics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F212",
+      "course_title": "Fluid Mechanics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F225",
+      "course_title": "Environmental Studies",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "ECON F211",
+      "course_title": "Principles of Economics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MGTS F211",
+      "course_title": "Principles of Management",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F241",
+      "course_title": "Heat Transfer",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F242",
+      "course_title": "Numerical Methods for Chemical Engineers",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F243",
+      "course_title": "Material Science & Engineering",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F244",
+      "course_title": "Separation Processes I",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open/Humanities Electives",
+      "credit_units": 3,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F312",
+      "course_title": "Chemical Engineering Laboratory I",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F313",
+      "course_title": "Separation Processes II",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F311",
+      "course_title": "Kinetics & Reactor Design",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F314",
+      "course_title": "Process Design Principles I",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Discipline Electives",
+      "credit_units": 18,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open/Humanities Electives",
+      "credit_units": null,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F341",
+      "course_title": "Chemical Engineering Laboratory II",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F342",
+      "course_title": "Process Dynamics & Control",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CHE F343",
+      "course_title": "Process Design Principles II",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Discipline Electives",
+      "credit_units": 6,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 5,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 6,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F412",
+      "course_title": "Practice School-II",
+      "credit_units": 20,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F421T",
+      "course_title": "Thesis",
+      "credit_units": 16,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F425T",
+      "course_title": "Thesis",
+      "credit_units": 18,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 15,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    }
+  ],
+  "discipline_elective_rule": "Any elective-designated course offered within the student's own department (matching the department's course-code prefix), not already counted toward Core requirements. No fixed course list exists in the Bulletin for standard on-campus programmes \u2014 eligible courses must be resolved by department prefix against the Handout/Timetable datasets.",
+  "open_elective_rule": "Any course from a discipline other than the student's own major, subject to prerequisites and, in some cases, Head of Department approval. No fixed course list exists in the Bulletin \u2014 this is a policy rule, not an enumerated pool.",
+  "parse_notes": []
+}

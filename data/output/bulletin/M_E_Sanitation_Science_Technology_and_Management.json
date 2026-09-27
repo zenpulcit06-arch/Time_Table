@@ -1,0 +1,247 @@
+{
+  "programme_name": "M. E. Sanitation Science, Technology and Management",
+  "page": 438,
+  "entries": [
+    {
+      "type": "course",
+      "course_code": "ME G517",
+      "course_title": "Applied Mathematics",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "ME G518",
+      "course_title": "Advanced Thermodynamics for Sustainable Energy Systems",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "ME G519",
+      "course_title": "Advanced Fluid Dynamics",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "ME G533",
+      "course_title": "Conduction and Radiation Heat Transfer",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G651",
+      "course_title": "Research Based Capstone Project (9 Units) AND Coursework (2 courses - 7 to 9 units)",
+      "credit_units": 9,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "16-18",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "16-18",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "*",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "*",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "*",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "*",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "*",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Foundation"
+    },
+    {
+      "type": "course",
+      "course_code": "PHA G532",
+      "course_title": "Quality Assurance and Regulatory Affairs",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA G543",
+      "course_title": "Clinical Research",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA G612",
+      "course_title": "Pharmacokinetics and Clinical Pharmacy",
+      "credit_units": 5,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Elective"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "SAN G511",
+      "course_title": "Sanitation Technology",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "SAN G512",
+      "course_title": "Sanitation and Public Health",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "SAN G513",
+      "course_title": "Sanitation Governance, Behaviour change and Advocacy",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": null,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS G562T",
+      "course_title": "Dissertation",
+      "credit_units": null,
+      "category_label": null
+    }
+  ],
+  "discipline_elective_rule": "Any elective-designated course offered within the student's own department (matching the department's course-code prefix), not already counted toward Core requirements. No fixed course list exists in the Bulletin for standard on-campus programmes \u2014 eligible courses must be resolved by department prefix against the Handout/Timetable datasets.",
+  "open_elective_rule": "Any course from a discipline other than the student's own major, subject to prerequisites and, in some cases, Head of Department approval. No fixed course list exists in the Bulletin \u2014 this is a policy rule, not an enumerated pool.",
+  "parse_notes": []
+}

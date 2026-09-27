@@ -1,0 +1,885 @@
+{
+  "courses": [
+    {
+      "course_code": "BITS F214",
+      "course_title": "Science, Technology and Modernity",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F226",
+      "course_title": "Soft Skills for Professionals",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F239",
+      "course_title": "Evolution of Architecture",
+      "credit_units": 2
+    },
+    {
+      "course_code": "BITS F328",
+      "course_title": "Innovation Ecosystem and the Future of Work",
+      "credit_units": 4
+    },
+    {
+      "course_code": "BITS F385",
+      "course_title": "Humanistic Theories of Science and Technology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F419",
+      "course_title": "Management of Cross Cultural Engineering Teams",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F458",
+      "course_title": "Professional Practice and Ethics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F211",
+      "course_title": "Modern Political Concepts",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F212",
+      "course_title": "Environment, Development & Climate Change",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F213",
+      "course_title": "Development Theories",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F221",
+      "course_title": "Business Communication",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F222",
+      "course_title": "Language Lab Practice",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F223",
+      "course_title": "Introduction to Mass Communication",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F224",
+      "course_title": "Print and Audio-Visual Advertisement",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F231",
+      "course_title": "Dynamics of Social Change",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F234",
+      "course_title": "Main Currents of Modern History",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F232",
+      "course_title": "Introductory Psychology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F235",
+      "course_title": "Introductory Philosophy",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F233",
+      "course_title": "Public Policy",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F236",
+      "course_title": "Symbolic Logic",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F234",
+      "course_title": "Development Economics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F237",
+      "course_title": "Contemporary Indian English",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F241",
+      "course_title": "Creative Writing",
+      "credit_units": null
+    },
+    {
+      "course_code": "HSS F238",
+      "course_title": "Sports and Society",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F242",
+      "course_title": "Cultural Studies",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F244",
+      "course_title": "Crime and New Media",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F243",
+      "course_title": "Current Affairs",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F245",
+      "course_title": "Gender, Science and Technology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F244",
+      "course_title": "Reporting and Writing for Media",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F246",
+      "course_title": "Philosophy of N\u0101g\u0101rjuna",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F245",
+      "course_title": "Effective Public Speaking",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F247",
+      "course_title": "Social Informatics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F311",
+      "course_title": "Introduction to Conflict Management",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F248",
+      "course_title": "Introduction to Disability Studies",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F312",
+      "course_title": "Applied Philosophy",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F249",
+      "course_title": "Politics in India",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F313",
+      "course_title": "Marxian Thoughts",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F250",
+      "course_title": "Comics and Visual Culture",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F321",
+      "course_title": "Mass Media Content and Design",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F251",
+      "course_title": "Introduction to Discourse and Conversational Analysis and Cinema",
+      "credit_units": 2
+    },
+    {
+      "course_code": "GS F322",
+      "course_title": "Critical Analysis of Literature and Cinema",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F252",
+      "course_title": "International Law",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F325",
+      "course_title": "Journalism",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F253",
+      "course_title": "Upcycling Theory",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F326",
+      "course_title": "Creative Thinking",
+      "credit_units": 2
+    },
+    {
+      "course_code": "HSS F254",
+      "course_title": "Food and Society",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F331",
+      "course_title": "Techniques in Social Research",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F311",
+      "course_title": "Introduction to Videogame Studies",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F332",
+      "course_title": "Contemporary India",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F333",
+      "course_title": "Public Administration",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F313",
+      "course_title": "Introduction to Contemporary Arts",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F334",
+      "course_title": "Global Business, Technology and Knowledge Sharing Economy",
+      "credit_units": 3
+    },
+    {
+      "course_code": "GS F343",
+      "course_title": "Short Film and Video Production",
+      "credit_units": 2
+    },
+    {
+      "course_code": "GS F344",
+      "course_title": "Copywriting",
+      "credit_units": 2
+    },
+    {
+      "course_code": "HSS F211",
+      "course_title": "Introduction to Arabic",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F317",
+      "course_title": "Introduction to Globalization",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F221",
+      "course_title": "Readings from Drama",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F318",
+      "course_title": "Introduction to Anthropology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F222",
+      "course_title": "Linguistics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F319",
+      "course_title": "Lighting for Theatre and Films*",
+      "credit_units": 2
+    },
+    {
+      "course_code": "HSS F223",
+      "course_title": "Appreciation of Indian Music",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F323",
+      "course_title": "Organizational Psychology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F224",
+      "course_title": "English Skills for Academic",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F325",
+      "course_title": "Cinematic Adaptation",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F226",
+      "course_title": "Postmodernism",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F326",
+      "course_title": "Humanities and Design",
+      "credit_units": 2
+    },
+    {
+      "course_code": "HSS F227",
+      "course_title": "Cross Cultural Skills",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F327",
+      "course_title": "Contemporary Drama",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F228",
+      "course_title": "Phonetics & Spoken English",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F328",
+      "course_title": "Human Resource Development",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F229",
+      "course_title": "Introduction to Western Music",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F329",
+      "course_title": "Musicology \u2013 An Introduction",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F232",
+      "course_title": "Introduction to Development Studies",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F233",
+      "course_title": "Main Trends in Indian History",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F330",
+      "course_title": "Appreciation of Art",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F331",
+      "course_title": "Sankara\u2019s Thoughts",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F332",
+      "course_title": "Cinematic Art",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F374",
+      "course_title": "Urban Modernity and the Renewal of Paris",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F333",
+      "course_title": "Comparative Religion",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F375",
+      "course_title": "Business and Politics in Colonial and Post Colonial India: a historical approach",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F334",
+      "course_title": "Srimad Bhagavad Gita",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F378",
+      "course_title": "Cinemas of India: From Past to Present",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F335",
+      "course_title": "Literary Criticism",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F336",
+      "course_title": "Modern Fiction",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F380",
+      "course_title": "Performance Studies",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F337",
+      "course_title": "English Literary Forms and Movements",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F381",
+      "course_title": "Environmental Sustainability Ventures",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F338",
+      "course_title": "Comparative Indian Literature",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F340",
+      "course_title": "Post Colonial Literatures",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F384",
+      "course_title": "Indian National Movement",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F341",
+      "course_title": "Performance Design",
+      "credit_units": 1
+    },
+    {
+      "course_code": "HSS F385",
+      "course_title": "Mental Health Literacy for Youth",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F342",
+      "course_title": "Advanced Communicative English",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F386",
+      "course_title": "Ocean Humanities",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F343",
+      "course_title": "Professional Ethics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F387",
+      "course_title": "History of Transport and Mobility in Modern Asia",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F344",
+      "course_title": "Heritage of India",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F388",
+      "course_title": "Gandhi in Literature",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F345",
+      "course_title": "Gandhian Thoughts",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F389",
+      "course_title": "Introduction to Data and Society",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F346",
+      "course_title": "International Relations",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F390",
+      "course_title": "Science and the Humanities: the Two Culture Debate",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F347",
+      "course_title": "Introduction to Carnatic Music",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F391",
+      "course_title": "Acoustic Humanities",
+      "credit_units": 2
+    },
+    {
+      "course_code": "HSS F348",
+      "course_title": "Introduction to Hindustani Music",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F392",
+      "course_title": "Crisis Communication",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F349",
+      "course_title": "Ecocriticism",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F393",
+      "course_title": "Introduction to Metacognition",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F350",
+      "course_title": "Human Rights: History, Theory & Practice",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F351",
+      "course_title": "Social and Political Ecology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F394",
+      "course_title": "The Study of Aging & Soc across cultures",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F352",
+      "course_title": "Technology, Work and Society",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F395",
+      "course_title": "Chinese Politics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F353",
+      "course_title": "Philosophy of Aesthetics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F396",
+      "course_title": "Indian Psychology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F354",
+      "course_title": "Introduction to Islamic Economy",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F355",
+      "course_title": "Dictatorship, Democracy & Development",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F356",
+      "course_title": "Social Movements and Protest Politics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F364",
+      "course_title": "Political Economy of Gulf Cooperation Council States",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F365",
+      "course_title": "Science of Sustainable Happiness",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F368",
+      "course_title": "Asian Cinemas and Cultures",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS C483",
+      "course_title": "Indian Wisdom for Modern Management",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS F371",
+      "course_title": "Cities-Life, Issues and Conflicts",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F211",
+      "course_title": "Introduction to IPR",
+      "credit_units": 1
+    },
+    {
+      "course_code": "HSS F372",
+      "course_title": "Introduction to Social Psychology",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F212",
+      "course_title": "Introduction to Human Rights",
+      "credit_units": 1
+    },
+    {
+      "course_code": "BITS F213",
+      "course_title": "Introduction to Environmental Studies",
+      "credit_units": 1
+    },
+    {
+      "course_code": "BITS F215",
+      "course_title": "Applications of Bio-Medical",
+      "credit_units": 2
+    },
+    {
+      "course_code": "MGTS F433",
+      "course_title": "Advertising and Sales Promotion",
+      "credit_units": 3
+    },
+    {
+      "course_code": "PHY F221",
+      "course_title": "Modern Physics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "PHY F345",
+      "course_title": "Quantum Mechanics for Engineers",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F217",
+      "course_title": "Environment, Development and Climate Change",
+      "credit_units": null
+    },
+    {
+      "course_code": "BITS F225",
+      "course_title": "Environmental Studies",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F311",
+      "course_title": "Image Processing",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F220*",
+      "course_title": "Managerial Skills",
+      "credit_units": null
+    },
+    {
+      "course_code": "BITS N101T",
+      "course_title": "PHY FITNESS HEALTH & WEL",
+      "credit_units": 1
+    },
+    {
+      "course_code": "BITS F321",
+      "course_title": "Legal and Economic Environment",
+      "credit_units": 4
+    },
+    {
+      "course_code": "PERSONALITY INTEGRATION",
+      "course_title": "of Business",
+      "credit_units": null
+    },
+    {
+      "course_code": "BITS N301T",
+      "course_title": "LEADERSHIP ORIENTATION",
+      "credit_units": null
+    },
+    {
+      "course_code": "BITS F330",
+      "course_title": "Negotiation Skills and Techniques",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F333",
+      "course_title": "Project on Organisational Aspects",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F372",
+      "course_title": "Data Communications and Networks",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F381",
+      "course_title": "TIC Projects",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F382",
+      "course_title": "Reading Course",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F383",
+      "course_title": "TIC Projects",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS N201T",
+      "course_title": "INTRO TO PHOTOGRAPHY",
+      "credit_units": 3
+    },
+    {
+      "course_code": "HSS N202T",
+      "course_title": "IND C DANCE BHARATNATYAM",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F398",
+      "course_title": "Creative Multimedia",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F414",
+      "course_title": "Introduction to Bioinformatics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F416",
+      "course_title": "Introduction to Nanoscience",
+      "credit_units": 3
+    },
+    {
+      "course_code": "JAP N101T",
+      "course_title": "BEGINNING JAPANESE",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F417",
+      "course_title": "Micro Fluidics and its Application",
+      "credit_units": 4
+    },
+    {
+      "course_code": "MUSIC N103T",
+      "course_title": "INDIAN CLASS MUSIC VOC I",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F428",
+      "course_title": "Essentials of Strategic Management",
+      "credit_units": 3
+    },
+    {
+      "course_code": "MUSIC N104T",
+      "course_title": "INDIA CLASS MUSIC VOC II",
+      "credit_units": 3
+    },
+    {
+      "course_code": "MUSIC N105T",
+      "course_title": "WESTERN CLASS MUSIC I",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F431",
+      "course_title": "Flexible Manufacturing Systems",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F441",
+      "course_title": "Robotics",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F442",
+      "course_title": "Remote Sensing and Image Processing",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F444",
+      "course_title": "Artificial Intelligence",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F445",
+      "course_title": "Neural Networks and Applications",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F446",
+      "course_title": "Pattern Recognition",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F447",
+      "course_title": "Multimedia Computing",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F448",
+      "course_title": "Retail Management Systems",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F449",
+      "course_title": "Financial Engineering",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F461",
+      "course_title": "Software Engineering",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F462",
+      "course_title": "Renewable Energy",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F468",
+      "course_title": "New Venture Creation",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F469",
+      "course_title": "Financing Infrastructure Projects",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F488",
+      "course_title": "Services Management Systems",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F490",
+      "course_title": "Project Management",
+      "credit_units": 4
+    },
+    {
+      "course_code": "BITS F493",
+      "course_title": "Business Analysis and Valuation",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS F494",
+      "course_title": "Environmental Impact Assessment",
+      "credit_units": 4
+    },
+    {
+      "course_code": "BITS G516",
+      "course_title": "Introduction to Business Sustainability",
+      "credit_units": 3
+    },
+    {
+      "course_code": "BITS G517",
+      "course_title": "Cross Cultural Management",
+      "credit_units": 3
+    },
+    {
+      "course_code": "MGTS F351",
+      "course_title": "Organisational Behaviour",
+      "credit_units": 3
+    }
+  ],
+  "parse_notes": []
+}

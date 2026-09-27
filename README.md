@@ -6,6 +6,8 @@ since handouts are very diffrent and vary from prof to prof so i used local llm 
 ### timetable 
 timetable is in tabular form so i make a look up table for timming and going throw rows to find all lecture ,tut,
 lab and putting in json 
+### Bulletien
+bulletien have disperced flow of data so i used local llm qwen to extaract the degree data 
 
 ## How To Run
 
@@ -26,6 +28,11 @@ lab and putting in json
     python3 src/timetable_parse.py
 ```
 
+### for Bulletien extraction:
+```Bash
+    python3 src/bulletien_parse.py
+```
+
 
 ## Data stored
 
@@ -35,4 +42,7 @@ data is stored in
     
     #timetable
     data/output/timetable
+
+    #bulletien
+    data/output/bulletin
 ```

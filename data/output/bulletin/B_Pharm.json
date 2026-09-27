@@ -1,0 +1,393 @@
+{
+  "programme_name": "B. Pharm.",
+  "page": 227,
+  "entries": [
+    {
+      "type": "course",
+      "course_code": "BITS F103",
+      "course_title": "Introduction to Engineering Design and Prototyping",
+      "credit_units": 4
+    },
+    {
+      "type": "course",
+      "course_code": "BIO F101",
+      "course_title": "Biological Sciences",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "CHEM F101",
+      "course_title": "Fundamentals of Chemistry",
+      "credit_units": 3
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F101",
+      "course_title": "Multivariable Calculus",
+      "credit_units": 3
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Foundation (Science/Mathematics/Engineering Foundation)"
+    },
+    {
+      "type": "course",
+      "course_code": "OR OR",
+      "course_title": null,
+      "credit_units": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHY F101",
+      "course_title": "Oscillations and Waves",
+      "credit_units": 3
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Foundation (Science/Mathematics/Engineering Foundation)"
+    },
+    {
+      "type": "course",
+      "course_code": "OR OR",
+      "course_title": null,
+      "credit_units": null
+    },
+    {
+      "type": "course",
+      "course_code": "Introduction to PHY F102",
+      "course_title": "Oscillations and Waves",
+      "credit_units": 3
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 1,
+      "category_label": "Foundation (Science/Mathematics/Engineering Foundation)"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 1,
+      "category_label": "Foundation (Science/Mathematics/Engineering Foundation)"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F111",
+      "course_title": "Thermodynamics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F112",
+      "course_title": "Technical Report Writing",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "CS F111",
+      "course_title": "Computer Programming",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F113",
+      "course_title": "Probability and Statistics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F214",
+      "course_title": "Anatomy, Physiology & Hygiene",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F102",
+      "course_title": "Linear Algebra and Complex Variables",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F102",
+      "course_title": "Thinking",
+      "credit_units": 1,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F114",
+      "course_title": "General Mathematics II",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "Pharmaceutical Formulations",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": null,
+      "course_title": "Innovation and Design",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Humanities Electives",
+      "credit_units": null,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F218",
+      "course_title": "General Mathematics III",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F211",
+      "course_title": "Mathematics III",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F211",
+      "course_title": "Pharmaceutical Analysis",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F219",
+      "course_title": "Process Engineering",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F242",
+      "course_title": "Biological Chemistry",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F217",
+      "course_title": "Pharmaceutical Microbiology",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F225",
+      "course_title": "Environmental Studies",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Humanities Electives",
+      "credit_units": null,
+      "category_label": "Humanities Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F111",
+      "course_title": "Thermodynamics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F241",
+      "course_title": "Pharmaceutical Chemistry",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "MATH F113",
+      "course_title": "Probability and Statistics",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F215",
+      "course_title": "Introduction to Molecular Biology and Immunology",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F244",
+      "course_title": "Physical Pharmacy",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Open/Humanities Electives",
+      "credit_units": 2,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F311",
+      "course_title": "Pharmacology I",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F312",
+      "course_title": "Medicinal Chemistry I",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Instrumental Methods",
+      "credit_units": null,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F313",
+      "course_title": "of Analysis",
+      "credit_units": 4,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F315",
+      "course_title": "Pharmaceutical Formulations II",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": "Discipline Electives",
+      "credit_units": null,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F341",
+      "course_title": "Pharmacology II",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F342",
+      "course_title": "Medicinal Chemistry II",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F343",
+      "course_title": "Forensic Pharmacy",
+      "credit_units": 3,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "PHA F344",
+      "course_title": "Natural Drugs",
+      "credit_units": 2,
+      "category_label": null
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 3,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 6,
+      "category_label": "Open Electives"
+    },
+    {
+      "type": "category_requirement",
+      "course_code": null,
+      "course_title": null,
+      "credit_units": 6,
+      "category_label": "Discipline Electives"
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F412",
+      "course_title": "Practice School-II",
+      "credit_units": 20,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F421T",
+      "course_title": "Thesis",
+      "credit_units": 16,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F425T",
+      "course_title": "Thesis",
+      "credit_units": 18,
+      "category_label": null
+    },
+    {
+      "type": "course",
+      "course_code": "BITS F424T",
+      "course_title": "Thesis (9) and Electives",
+      "credit_units": 15,
+      "category_label": null
+    }
+  ],
+  "discipline_elective_rule": "Any elective-designated course offered within the student's own department (matching the department's course-code prefix), not already counted toward Core requirements. No fixed course list exists in the Bulletin for standard on-campus programmes \u2014 eligible courses must be resolved by department prefix against the Handout/Timetable datasets.",
+  "open_elective_rule": "Any course from a discipline other than the student's own major, subject to prerequisites and, in some cases, Head of Department approval. No fixed course list exists in the Bulletin \u2014 this is a policy rule, not an enumerated pool.",
+  "parse_notes": []
+}
